@@ -1,0 +1,190 @@
+﻿Terakhir Diperbarui: 26 September 2024 
+
+PEDOMAN PERLINDUNGAN DATA PRIBADI ZALORA 
+
+
+
+1. PENDAHULUAN
+
+ZALORA bertanggung jawab dalam melindungi Data Pribadi Anda dan tunduk kepada Hukum yang Berlaku. Kami memiliki komitmen untuk mengelola, melindungi dan memproses Data Pribadi Anda sesuai dengan Pedoman Perlindungan Data Pribadi ZALORA ("Pedoman") yang berlaku terhadap seluruh Data Pribadi yang kami peroleh dari Anda melalui Platform kami. 
+Harap baca dan pahami Pedoman ini yang berisi informasi yang perlu Anda ketahui mengenai bagaimana cara kami mengumpulkan, menggunakan, memproses dan mengungkapkan Data Pribadi Anda. Kami juga dapat mengumpulkan dan memproses Data Pribadi Anda sebagaimana dikecualikan dalam Hukum yang Berlaku yang tidak dijabarkan dalam Pedoman ini. Kami yakin Pedoman ini dapat membantu Anda dalam membuat keputusan dalam mengungkapkan Data Pribadi Anda kepada kami. 
+Untuk tujuan pemahaman Pedoman ini, kata dalam huruf kapital yang digunakan dalam Pedoman ini memiliki arti sebagai berikut: 
+"Hukum yang Berlaku" berarti seluruh peraturan dan perundang-undangan yang terkait dengan perlindungan dan/atau pengelolaan data pribadi yang berlaku di Indonesia, termasuk namun tidak terbatas pada Undang-Undang No. 27 Tahun 2022 tentang Pelindungan Data Pribadi, sebagaimana diubah dari waktu ke waktu; 
+"App" berarti aplikasi ZALORA pada iOS dan Android dan dalam aplikasi lain yang mungkin kami miliki atau kami kelola dari waktu ke waktu; 
+"Data Pribadi" berarti data pribadi yang bersifat spesifik dan umum baik yang benar ataupun yang tidak, mengenai (a) seorang individu yang dapat diidentifikasi (i) dari data tersebut; atau (ii) dari data dan informasi lain yang kami miliki atau yang dapat kami akses dan termasuk data dalam database kami yang dapat diperbaharui dari waktu ke waktu, atau (b) didefinisikan sebagai "data pribadi" atau "informasi pribadi" dalam Hukum yang Berlaku; 
+"Platform" berarti App, Media Sosial dan Website ZALORA secara kolektif dan website atau aplikasi lainnya yang mungkin kami miliki atau kelola dari waktu ke waktu; 
+"Media Sosial" berarti halaman dan akun ZALORA pada platform media sosial milik pihak ketiga seperti Instagram, Facebook, TikTok, Twitter, Pinterest dan Youtube; 
+"Website" berarti website ZALORA yang dapat diakses melalui alamat www.zalora.co.id; dan 
+"ZALORA, kami, atau milik kami" berarti PT Fashion Eservices Indonesia atau group perusahaan, atau anak perusahaan, atau anak perusahaan dari group perusahaan (termasuk individu, group, mitra dan entitas lainnya) dari PT Fashion Marketplace Indonesia. 
+Dalam hubungan kami dengan Anda, kami dapat mengumpulkan Data Pribadi dari Anda. Contoh Data Pribadi yang mungkin kami kumpulkan termasuk nama Anda, detail kontak, alamat surat menyurat dan pengiriman, alamat email, tanggal lahir, data jaringan dan perangkat (termasuk IP address dan perangkat serta advertising identifiers), perilaku belanja dan browsing Anda, image wajah, rekaman suara (untuk telepon layanan pelanggan) dan informasi pribadi lain yang dapat diidentifikasi yang Anda berikan kepada kami dalam bentuk apapun atau yang kami peroleh melalui bentuk interaksi apapun antara kami dan Anda. 
+Apabila Anda memberikan Data Pribadi milik pihak ketiga dengan cara menyerahkan Data Pribadi tersebut kepada kami, Anda menyatakan kepada kami bahwa Anda telah memperoleh persetujuan dari pihak ketiga termasuk untuk memberikan Data Pribadi mereka untuk tujuan tersebut. 
+Dengan (1) mengklik "Ya" atau menerima pop-up Pedoman kami atau dari web lain yang merujuk kepada Pedoman ini dari platform online lainnya, (2) memberikan Data Pribadi Anda kepada kami saat mendaftarkan akun pada Website atau App, (3) melakukan browsing pada Website atau App; (4) memesan produk atau menggunakan jasa kami, (5) menyerahkan Data Pribadi Anda kepada kami saat berpartisipasi dalam kegiatan yang diselenggarakan di Platform, atau (6) mendaftarkan diri Anda dalam Program Afiliasi, Program Community Influencer atau program lainnya yang diselenggarakan oleh ZALORA, berarti Anda telah memberikan persetujuan Anda atas isi dari Pedoman ini. 
+Kami dapat memperbaharui Pedoman ini untuk memastikan bahwa Pedoman senantiasa konsisten dengan trend industri dan/atau segala perubahan dalam persyaratan hukum dan peraturan. Tanggal Efektif tertera di bagian awal Pedoman ini. Anda setuju untuk mengikatkan diri dalam persyaratan dan ketentuan yang berlaku dalam Pedoman ini yang dapat diperbaharui dari waktu ke waktu. 
+
+
+
+2. BAGAIMANA KAMI MENGUMPULKAN DATA PRIBADI ANDA?
+
+Kami mengumpulkan Data Pribadi dari Anda saat:
+* a. Anda membuat akun pada Website atau pada App; 
+* b. Anda mendaftarkan diri untuk menerima newsletter atau update dari kami; 
+* c. Anda melakukan transaksi pembelian produk yang ditawarkan pada Website atau App kami; 
+* d. Anda mengaktifkan atau menggunakan fungsi pembayaran yang tersedia pada Website atau App kami yang disediakan oleh penyedia pihak ketiga; 
+* e. Anda mendaftarkan diri dalam Program Afiliasi atau Program Community Influencer; 
+* f. Anda menggunakan jasa apapun dari kami, termasuk untuk menerima notifikasi newsletter, update, dan informasi produk; 
+* g. Anda melakukan browsing atas produk dan jasa kami atau melakukan aktivitas dalam Platform kami; 
+* h. Anda menerima cookies dalam perangkat Anda; 
+* i. Anda berinteraksi dengan tim Customer Service kami atau perwakilan kami lainnya, misalnya melalui chatbot, chat apps, messaging platform, webform, email, telepon, video call, surat, email atau dalam pertemuan tatap muka; 
+* j. Anda berinteraksi dengan kami melalui Media Sosial, misalnya dengan memberi tanda like atau mengomentari isi posting kami, atau dengan menyampaikan pesan pribadi kepada kami melalui Media Sosial kami; 
+* k. Anda berinteraksi dengan kami melalui channel live stream kami, misalnya dengan memberi tanda like atau mengomentari stream/video kami; 
+* l. Anda berpartisipasi dalam promosi, lomba, undian, inisiatif atau permintaan Data Pribadi tambahan melalui survey konsumen; 
+* m. Kami menerima rujukan dari mitra bisnis dan pihak ketiga, misalnya saat mereka merujuk Anda kepada kami untuk dapat menikmati keuntungan dari kegiatan promosi atau kolaborasi bersama atau untuk menggunakan voucher yang Anda beli melalui mereka; 
+* n. Anda atau pihak yang berwenang untuk mewakili Anda memberikan Data Pribadi milik Anda kepada kami untuk tujuan penyampaian laporan pelanggaran kekayaan intelektual; 
+* o. Perwakilan Anda menyerahkan Data Pribadi Anda kepada kami sesuai dengan kewenangan yang sewajarnya Anda berikan, misalnya apabila perwakilan Anda tersebut membeli produk atau jasa kami untuk dikirimkan kepada Anda atau sebagai hadiah; 
+* p. Penyedia jada analisis pihak ketiga atau penyedia jasa kami lainnya memberikan kepada kami Data Pribadi Anda yang telah mereka kumpulkan dan proses sesuai dengan pedoman privasi mereka sendiri; atau
+* q. Anda dengan suka rela menyerahkan Data Pribadi Anda kepada kami untuk alasan apapun. 
+Selama Anda menggunakan Platform kami dan kami menyediakan produk dan jasa kami kepada Anda, Anda setuju bahwa Anda telah memberikan persetujuan Anda atas pengalihan Data Pribadi Anda dari kami ke pihak ketiga untuk tujuan sebagaimana tersebut dalam Pedoman ini atau sesuai dengan ketentuan dari pihak ketiga dan/atau afiliasi kami. Detail kartu kredit Anda dapat dikumpulkan, diproses dan disimpan langsung oleh penyedia jasa pembayaran pihak ketiga kami sesuai dengan persyaratan penggunaan dan pedoman privasi mereka sendiri. Kami dapat meminta detail rekening bank Anda untuk memproses pengembalian pembayaran. 
+Kami juga dapat mengumpulkan Data Pribadi Anda apabila pengumpulan tersebut tidak membutuhkan persetujuan berdasarkan Hukum yang Berlaku. 
+Pastikan agar seluruh Data Pribadi yang Anda sampaikan kepada kami lengkap, akurat dan benar. Kesalahan pada Data Pribadi yang Anda sampaikan dapat mengakibatkan kami tidak dapat memberikan kepada Anda produk dan jasa yang Anda inginkan. 
+
+
+
+3. BAGAIMANA CARA KAMI MENGGUNAKAN DATA PRIBADI ANDA?
+
+Kami dapat menggunakan dan mengungkapkan Data Pribadi Anda untuk tujuan-tujuan yang diperlukan agar kami dapat menyampaikan produk dan jasa kami kepada Anda, termasuk untuk:
+* a. mendaftarkan dan mengelola akun pengguna Anda dan untuk memverifikasi identitas atau umur Anda; 
+* b. mendaftarkan dan mengelola akun untuk Program Afiliasi, Program Community Influencer atau akun lain yang terkoneksi dengan program yang diselenggarakan oleh ZALORA; 
+* c. memproses pesanan produk dan jasa Anda, memproses atau menerima pembayaran atas pesanan Anda; 
+* d. mengirimkan atau menyediakan produk atau jasa yang Anda beli, termasuk meminta kurir kami untuk menelpon atau menghubungi Anda untuk mendapatkan instruksi pengiriman Anda; 
+* e. melakukan verifikasi dan transaksi pembayaran (termasuk pembayaran melalui kartu kredit, transfer bank, pengembalian atau transaksi e-wallet) terkait pembayaran Anda dan/atau jasa yang Anda gunakan. Agar verifikasi dan transaksi pembayaran dapat dilakukan, informasi pembayaran, termasuk Data Pribadi Anda, akan diserahkan kepada pihak ketiga yang menyediakan jasa pembayaran tersebut; 
+* f. memfasilitasi jasa pembayaran yang Anda gunakan; 
+* g. memproses permintaan pengembalian barang atau pengembalian pembayaran Anda sesuai dengan Persyaratan dan Ketentuan kami; 
+* h. memproses pertanyaan dan keluhan Anda terkait dengan Pedoman Pelanggaran Kekayaan Intelektual; 
+* i. memberikan kepada Anda jasa support dan fungsi terkait dengan aktivitas Anda atau akun pengguna Anda yang terdaftar pada Website atau App kami jasa, misalnya barang-barang yang Anda simpan dalam kereta belanja Anda, wish list atau notifikasi brand atau produk; 
+* j. mengurus program loyalitas atau point redemption ZALORA Anda; 
+* k. mengurus kegiatan dan mengkomunikasikan kepada Anda hal-hal yang terkait dengan kegiatan, seperti komunikasi terkait dengan persyaratan dan ketentuan, syarat tambahan atau pengumuman pemenang; 
+* l. mengkomunikasikan kepada Anda hal-hal yang terkait dengan (i) pertanyaan, permintaan dan masukan dari Anda, (ii) perubahan penting pada Persyaratan dan Ketentuan dalam Website, App atau Pedoman kami atau persyaratan dan ketentuan lainnya, dan (iii) hal-hal yang terkait dengan pengelolaan akun Anda, dan (iv) komunikasi penting dari ZALORA kepada Anda, termasuk pengumuman atau pernyataan umum; 
+* m. melakukan personalisasi dan meningkatkan kepuasan pelanggan saat Anda mengunjungi Platform kami, misalnya dengan memprioritaskan produk dan jasa yang muncul dalam kolom pencarian Anda;
+* n. kepatuhan terhadap (i) resiko control internal kami, (ii) ketentuan akses kami terkait dengan proses pembayaran atau layanan bank seperti sengketa kartu kredit, penipuan, kesalahan dalam pembayaran, atau (iii) peraturan perundangan yang berlaku; dan 
+* o. memastikan Platform kami berfungsi dengan baik dan untuk meningkatkan kinerja mereka dengan melakukan beberapa aktivitas tertentu yang diperlukan, seperti melakukan debugging, analisa statistik untuk mengoptimalkan Platform kami.
+(secara bersama disebut sebagai "Tujuan")
+Selanjutnya kami dapat menggunakan dan mengungkapkan Data Pribadi Anda untuk tujuan-tujuan berikut ini, yaitu untuk: 
+* a. mengirimkan kepada Anda komunikasi marketing kami terkait dengan penjualan, produk, jasa, promosi atau Platform, termasuk pemberitahuan kegiatan marketing, acara dan promosi, lomba, undian, program loyalitas atau point redemption dan promosi lainnya;
+* b. mengirimkan kepada Anda komunikasi marketing kami yang terkait dengan penjualan, produk, jasa atau promosi dan mitra bisnis, termasuk materi promosi yang kami kirimkan bersamaan dengan pesanan Anda
+* c. menyampaikan iklan-iklan yang terkait dengan produk dan jasa kami yang mungkin Anda minati yang terdapat dalam Platform atau website, app atau platform online lainnya; 
+* d. memungkinkan bisnis lainnya untuk mengirimkan iklan-iklan yang terkait dengan produk dan jasa mereka yang mungkin Anda minati; 
+* e. memberikan kepada Anda jasa add-on atau layanan premium kami seperti ZALORA NOW; 
+* f. mengundang Anda untuk menghadiri event privat untuk pelanggan kami; 
+* g. memproses partisipasi Anda dalam promosi, lomba, undian, inisiatif atau permintaan Data Pribadi tambahan melalui survey konsumen; 
+* h. memproses partisipasi Anda dalam program loyalti atau program point redemption ZALORA atau mitra bisnis kami;
+* i. melakukan riset pasar dan pelanggan, analisa atau penelusuran; 
+* j. mempromosikan produk dan jasa dalam Platform kami; 
+* k. mengelola kegiatan operasional administratif dan bisnis ZALORA dan tunduk kepada Pedoman dan peraturan internal kami; 
+* l. meningkatkan kepuasan pelanggan di seluruh arah dan memberikan pelatihan kepada tim Customer Service kami, misalnya dengan merekam dan memonitor pembicaraan telepon; dan
+* m. tujuan khusus lainnya yang terkait dengan produk atau jasa tertentu yang secara terpisah akan kami sampaikan kepada Anda di halaman produk dan jasa kami; 
+(secara bersama disebut sebagai "Tujuan Tambahan")
+Kami juga dapat menggunakan Data Pribadi Anda (a) untuk tujuan lain yang sewajarnya berhubungan dengan Tujuan dan yang persetujuannya telah kami peroleh dan urus yang diperlukan untuk Tujuan Tambahan; atau (b) dalam keadaan dimana penggunaan termaksud tidak membutuhkan persetujuan berdasarkan Hukum yang Berlaku. 
+Catatan: Apabila Anda menarik kembali persetujuan yang Anda berikan kepada kami untuk menggunakan dan memproses Data Pribadi Anda untuk Tujuan atau untuk Tujuan Tambahan, kami mungkin tidak lagi dapat memberikan informasi produk, jasa atau keuntungan yang terkait dengan promosi kami kepada Anda. 
+
+
+
+4. KEPADA SIAPA DATA PRIBADI ANDA AKAN DIUNGKAPKAN?
+
+Terkait dengan penggunaan Data Pribadi Anda untuk Tujuan dan untuk Tujuan Tambahan, kami mungkin akan mengungkapkan Data Pribadi Anda kepada: 
+* a. entitas afiliasi ZALORA;
+* b. pegawai, konsultan dan pekerja paruh waktu kami; 
+* c. penjual Marketplace ZALORA yang memasok dan mengirimkan produk atau jasa yang Anda pesan melalui Website atau App; 
+* d. pihak yang memproses pembayaran/payment processor yang memproses pembayaran Anda pada Website dan App; 
+* e. penyedia jasa pembayaran pihak ketiga yang menawarkan jasa pembayaran kepada Anda; 
+* f. penyedia jasa logistic pihak ketiga kami seperti jasa kurir yang mengantarkan pesanan kepada Anda; 
+* g. mitra bisnis kami yang secara terpisah mengelola akun anda untuk program loyalti atau program point redemption; 
+* h. mitra bisnis atau vendor kami yang memproses dan mengurus kegiatan promosi, acara, lomba, jasa atau program loyalti atau program point redemption yang kami selenggarakan; 
+* i. penasihat dan konsultan profesional kami; 
+* j. agensi, kontraktor atau penyedia jasa yang menyediakan layanan operasional untuk kami, seperti penyedia jasa cloud storage dan processing secara online, optimasi marketing, teknologi informasi, telekomunikasi, keamanan atau jasa terkait lainnya yang berkepentingan untuk penggunaan atau pengungkapan Data Pribadi Anda; dan
+* k. pihak lainnya yang Anda beri kewenangan untuk menerima pengungkapan Data Pribadi Anda dari kami. 
+Kami dapat mengungkapkan Data Pribadi Anda ke penyedia jasa pihak ketiga (misalnya ke penyedia jasa pembayaran) agar mereka dapat memberikan jasa mereka kepada Anda selain dari yang berhubungan dengan penggunaan Website dan App kami oleh Anda. Penerimaan dan penggunaan jasa penyedia pihak ketiga oleh Anda tunduk pada persyaratan dan ketentuan yang dapat Anda setujui secara terpisah antara Anda dan penyedia jasa pihak ketiga tersebut. Dengan menerima tawaran jasa dari penyedia pihak ketiga, hal-hal yang terkait dengan pengumpulan, penggunaan, pengungkapan, penyimpanan, pengalihan dan pengelolaan data Anda (termasuk Data Pribadi Anda dan data Anda lainnya yang kami ungkapkan ke penyedia jasa pihak ketiga termaksud) akan tunduk pada pedoman perlindungan data yang milik penyedia jasa pihak ketiga, yang akan menjadi data controller atau pihak yang mengontrol data Anda. Anda selanjutnya setuju bahwa pertanyaan dan keluhan terkait dengan penerimaan atau penggunaan jasa dari pihak penyedia pihak ketiga akan disampaikan langsung kepada pihak yang namanya tersebut dalam pedoman perlindungan data yang milik penyedia jasa pihak ketiga yang terkait. 
+Kami juga dapat mengungkapkan Data Pribadi Anda (a) untuk tujuan lain yang sewajarnya berhubungan dengan Tujuan dan yang persetujuannya telah kami peroleh dan urus sebagaimana diperlukan untuk Tujuan Tambahan; atau (b) dalam keadaan dimana penggunaan termaksud tidak membutuhkan persetujuan berdasarkan Hukum yang Berlaku. 
+
+
+
+5.PENGUNGKAPAN DATA PRIBADI ANDA DI LUAR ZALORA 
+
+Kami hanya akan mengungkapkan Data Pribadi di luar ZALORA apabila dengan itikad yang baik kami berpendapat bahwa pengungkapan Data Pribadi tersebut sewajarnya diperlukan untuk
+* a. kepatuhan terhadap hukum, peraturan, proses hukum atau atas permintaan pihak yang berwenang; 
+* b. memberlakukan Persyaratan dan Ketentuan ZALORA yang berlaku, termasuk penyelidikan atas kemungkinan adanya pelanggaran; 
+* c. mendeteksi, menghindari, menyelidiki atau penanganan penipuan atau dugaan penipuan, aktivitas yang berbahaya atau melanggar hukum atau untuk issue keamanan dan teknis; 
+* d. melindungi hak, kepemilikan atau keamanan ZALORA, pengguna kami, pihak ketiga atau masyarakat umum sebagaimana diwajibkan atau diperbolehkan menurut hukum.
+Kami akan memberikan upaya terbaik kami untuk meminimalisir pengungkapan atas Data Pribadi Anda terbatas hanya pada informasi yang diperlukan untuk melaksanakan Tujuan atau Tujuan Tambahan 
+
+
+
+6. BAGAIMANA CARA SAYA MENGAKSES ATAU MEMPERBAIKI DATA PRIBADI SAYA?
+
+Anda dapat mengakses, melengkapi, memperbaharui dan/ atau memperbaiki nama Anda, tanggal lahir, alamat pengiriman dan surat menyurat dan nomor telepon dengan masuk ke dalam akun pengguna Anda pada Website atau App dan memilih "Informasi Akun" dan mengklik pilihan "Ubah" dalam kolom yang akan diperbaiki. 
+Untuk Data Pribadi yang tidak dapat Anda perbaiki dengan cara masuk ke dalam akun pengguna Anda dalam Website atau App, Anda dapat meminta akses dan memperbaiki Data Pribadi tersebut dengan menyampaikan permintaan tertulis dengan mengisi formulir input layanan pelanggan kami (yang dapat dilihat di https://www.zalora.co.id/contact/) atau dengan cara mengirimkan email ke Petugas Perlindungan Data kami melalui alamat email dpo@id.zalora.com. Kami mungkin memerlukan informasi tambahan dari Anda untuk mengkonfirmasikan identitas Anda sebelum kami memberikan akses kepada Anda atau untuk melakukan perbaikan. 
+Kami akan memberikan upaya terbaik kami untuk menanggapi permintaan Anda untuk dapat mengakses dan memperbaiki Data Pribadi Anda dalam waktu 30 hari. Apabila kami tidak dapat memenuhi tenggat waktu ini, kami akan secepat mungkin menginformasikan kepada Anda kapan informasi akses atau perbaikan dapat kami sampaikan. Harap dipahami bahwa akses dan perbaikan atas beberapa tipe Data Pribadi mungkin tidak dapat dilakukan menurut Hukum yang Berlaku. 
+Kami dapat mengenakan biaya yang sewajarnya untuk dapat memproses permintaan akses dan perbaikan Data Pribadi tersebut. Biaya akan kami informasikan sebelum permintaan akses diproses 
+Kami akan mengirimkan Data Pribadi yang telah diperbaiki kepada setiap orang atau badan hukum yang telah menerima pengungkapan dari kami setidaknya setahun sebelum tanggal perbaikan kecuali orang atau badan hukum tersebut tidak memerlukan Data Pribadi yang telah diperbaiki untuk tujuan legalitas atau komersial apapun atau kecuali Anda dan kami sepakat bahwa Data Pribadi yang telah diperbaiki tersebut tidak perlu diungkapkan kepada orang atau badan hukum termaksud. 
+Atas persetujuan Anda, kami akan mengirimkan Data Pribadi yang telah diperbaiki hanya kepada organisasi tertentu yang telah menerima pengungkapan dari kami setidaknya setahun sebelum tanggal perbaikan. 
+
+
+
+7. PROSES PERMINTAAN PENCABUTAN
+
+Apabila Anda ingin mencabut persetujuan yang Anda berikan kepada kami terkait penerimaan informasi penjualan, marketing atau promosi kami, harap sampaikan pemberitahuan Anda melalui cara berikut ini: 
+* a. untuk mencabut persetujuan penerimaan promosi melalui SMS, lakukan 'berhenti berlangganan' dengan mengikuti langkah-langkah yang tersedia dalam SMS; 
+* b. untuk mencabut persetujuan penerimaan email marketing atau email promosi, pilih 'berhenti berlangganan' pada link yang tersedia dalam email marketing atau email promosi.
+Tergantung pada bentuk pencabutan persetujuan, kami mungkin tidak lagi dapat memberikan informasi mengenai produk atau jasa kami kepada Anda. 
+Setelah kami menerima pemberitahuan bahwa Anda bermaksud untuk mencabut persetujuan Anda untuk penerimaan materi atau komunikasi marketing atau promosi kami, diperlukan waktu setidaknya 30 (tiga puluh) hari sebelum permintaan pencabutan Anda tampil dalam sistem kami. Oleh karena itu Anda mungkin masih tetap akan menerima materi atau komunikasi marketing atau promosi kami dalam periode tersebut. 
+Apabila Anda mencabut persetujuan Anda untuk menerima materi atau komunikasi marketing atau promosi kami melalui metode komunikasi yang spesifik (misalnya melalui SMS), kami masih tetap dapat menghubungi Anda untuk tujuan lain terkait dengan produk dan jasa kami melalui metode komunikasi lainnya yang telah Anda daftarkan (misalnya melalui email). 
+Anda dapat (a) mencabut persetujuan Anda atas pengumpulan, penggunaan dan/atau pengungkapan Data Pribadi Anda, atau (b) meminta penghapusan Data Pribadi Anda yang ada pada kami atau yang kami kelola dengan cara mengajukan permohonan tertulis melalui email ke customer@id.zalora.com. Kami akan memproses permintaan Anda dan diperlukan waktu setidaknya 30 (tiga puluh) hari sebelum permintaan pencabutan Anda tampil dalam sistem kami. Setelah proses selesai dilakukan, kami tidak lagi dapat mengumpulkan, menggunakan dan/atau mengungkapkan Data Pribadi Anda kecuali untuk keperluan kepatuhan terhadap peraturan dan perundang-undangan atau tujuan hukum lainnya. 
+
+
+
+8. ADMINISTRASI DAN PENGELOLAAN DATA PRIBADI
+
+Kami memberikan upaya yang sewajarnya untuk memastikan bahwa Data Pribadi yang kami gunakan atau ungkapkan ke organisasi lain akurat dan lengkap. Namun demikian Anda perlu menginformasikan kepada kami apabila ada perubahan dalam Data Pribadi Anda. Kami tidak bertanggung jawab apabila kami mengandalkan Data Pribadi yang ternyata tidak akurat dan tidak lengkap apabila pembaharuan belum diinformasikan kepada kami. 
+Kami juga akan melakukan sistem pengamanan yang sewajarnya untuk memastikan bahwa Data Pribadi Anda mendapatkan perlindungan yang memadai. Termasuk di dalamnya melakukan langkah antisipasi untuk menghindari akses, pengumpulan, penggunaan, pengungkapan, penyalinan, modifikasi, kebocoran, kehilangan, kerusakan atau perubahan tanpa izin terhadap Data Pribadi Anda. Namun demikian kami tidak bertanggung jawab atas penggunaan tanpa hak yang dilakukan oleh pihak ketiga diakibatkan oleh kondisi yang berada di luar kuasa ataupun kontrol kami. 
+Apabila Data Pribadi yang berada dalam penguasaan kami (i) tidak lagi berhubungan dengan tujuan awal Data Pribadi itu dikumpulkan, atau (ii) penahanan Data Pribadi tidak lagi kami perlukan untuk tujuan legalitas atau tujuan bisnis, kami akan melakukan langkah-langkah yang diperlukan untuk memastikan bahwa Data Pribadi tersebut dihancurkan atau dimusnahkan. 
+Data Pribadi Anda dan/atau informasi dapat dialihkan, disimpan atau diproses di luar negara Anda. Apabila Data Pribadi dialihkan ke luar Indonesia, kami akan tunduk pada Hukum yang Berlaku dan memastikan standar perlindungan yang setidaknya setara dengan Hukum yang Berlaku. 
+
+
+
+9. INFORMASI YANG DIKUMPULKAN PIHAK KETIGA
+
+ZALORA menggunakan jasa dari vendor pihak ketiga yang mungkin menggunakan cookies dalam Website. Iklan dalam Website mungkin disediakan oleh agensi pihak ketiga. Iklan tersebut mungkin akan menghasilkan cookies, misalnya untuk melacak jumlah orang yang membaca iklan tersebut. Pengumpulan, penggunaan dan pengungkapan informasi termasuk Data Pribadi yang dilakukan oleh cookies pihak ketiga tersebut tunduk pada Pedoman privasi dan perlindungan data milik vendor pihak ketiga tersebut dan berada di luar kuasa kami. 
+Anda dapat menolak cookies pihak ketiga melalui pengaturan setting dalam browser Anda. Adapun demikian pengaturan tersebut dapat menyebabkan gangguan pada fungsi Website, membatasi penggunaan Website oleh Anda atau memperlambat atau mempengaruhi cara kerja Website tersebut. 
+Google Analytics
+ZALORA menggunakan beberapa fungsi Google Analytics. Harap lihat link ini untuk mengetahui bagaimana data Anda dikumpulkan dan link ini untuk instruksi mengenai cara untuk mengeluarkan diri dari data tracking Google Analytics. 
+ZALORA dapat menggunakan fitur dari Google Analytics berdasarkan Display Advertising, termasuk namun tidak terbatas pada: Remarketing, Google Display Network Impression Reporting, DoubleClick Campaign Manager Integration dan Google Analytics Demographics dan Interest Reporting. Dengan menggunakan Google Ads Settings, Anda dapat mengeluarkan diri dari Google Analytics for Display Advertising dan melakukan personalisasi iklan Google Display Network. 
+ZALORA juga menggunakan Remarketing dengan Google Analytics untuk mengiklankan secara online; vendor pihak ketiga termasuk Google dapat menampilkan iklan ZALORA dalam situs-situs di Internet. ZALORA dan vendors pihak ketiga, termasuk Google, menggunakan cookies pihak pertama (misalnya cookie Google Analytics) dan cookies pihak ketiga (misalnya cookie DoubleClick) secara bersamaan untuk menginformasikan, mengoptimalkan dan menyajikan iklan berdasarkan kunjungan pengunjung sebelumnya ke ZALORA dan juga untuk laporan mengenai bagaimana impresi iklan, penggunaan layanan iklan lainnya dan interaksi dengan impresi iklan dan layanan iklan terkait dengan kunjungan ke ZALORA. 
+Saat Anda masuk ke website ZALORA, dengan bantuan dari Google Analytics kami dapat menggunakan perilaku browsing Anda untuk menghubungkannya dengan data apapun yang sebelumnya telah Anda sampaikan sesuai dengan Pedoman ini. 
+
+
+
+10. DISCLAIMER ATAS KEAMANAN WEBSITE PIHAK KETIGA
+
+Kami tidak menjamin keamanan Data Pribadi dan/atau informasi lain yang Anda berikan ke website milik pihak ketiga. Sebagai bentuk upaya kami untuk memberikan pilihan kepada Anda, kami dapat memilih berbagai link website atau app pihak ketiga sebagai bagian dari Platform dan jasa kami. Penerimaan dan penggunaan Anda atas platform dan/atau jasa dari penyedia pihak ketiga tunduk pada persyaratan dan ketentuan yang dapat Anda setujui secara terpisah antara Anda dan penyedia jasa pihak ketiga dan atas resiko Anda sendiri. Dengan menerima tawaran jasa dari penyedia pihak ketiga, hal-hal yang terkait dengan pengumpulan, penggunaan, pengungkapan, penyimpanan, pengalihan dan pengelolaan data Anda (termasuk Data Pribadi Anda dan data Anda lainnya yang kami ungkapkan ke penyedia jasa pihak ketiga termaksud) akan tunduk pada pedoman perlindungan data yang milik penyedia jasa pihak ketiga, yang akan menjadi data controller atau pihak yang mengkontrol data Anda. 
+Kami tidak bertanggung jawab atau memiliki kewajiban apapun terkait dengan konten, sistem keamanan (atau tidak adanya sistem keamanan) dan aktivitas Anda dalam website pihak ketiga tersebut. Seluruh pertanyaan dan keluhan terkait dengan penerimaan atau penggunaan platform dan/atau jasa dari pihak penyedia pihak ketiga dapat disampaikan langsung kepada penyedia jasa pihak ketiga tersebut. 
+11. HUBUNGI KAMI
+
+Apabila ada pertanyaan mengenai Data Pribadi Anda atau tentang Pedoman ini, atau apabila Anda memiliki keluhan atas pengumpulan, penggunaan atau pengelolaan Data Pribadi Anda yang kami lakukan, atau apabila ada pertanyaan mengenai ketundukan kami pada Hukum yang Berlaku, Anda dapat menghubungi Petugas Perlindungan Data kami melalui metode-metode berikut ini: 
+(a) Customer Service
+customer@id.zalora.com
+(b) Petugas Perlindungan Data
+dpo@id.zalora.com
+Judul email dan surat harus dengan jelas berisi pertanyaan mengenai perlindungan data yang Anda tanyakan, minta atau keluhkan agar kami dapat tanggapi dengan baik. Kami akan berusaha untuk menanggapi setiap pertanyaan, permintaan ataupun keluhan dengan tepat dan cepat 
+
+
+
+12. HUKUM YANG BERLAKU
+
+Pedoman ini dan penggunaan Website atau App diatur menurut hukum yang berlaku di Republik Indonesia. 
+
+
+
+13. PERUBAHAN PEDOMAN PERLINDUNGAN DATA
+
+Sebagai bagian dari upaya kami untuk dapat mengelola, melindungi dan memproses Data Pribadi Anda, kami akan mengkaji Pedoman, prosedur dan proses kami secara berkala. Kami dapat memperbaharui Pedoman ini untuk memastikan bahwa Pedoman senantiasa konsisten dengan trend industri dan/atau segala perubahan dalam persyaratan hukum dan peraturan. Kami memiliki hak untuk merubah isi dari Pedoman ini berdasarkan pertimbangan kami semata. 
+Anda setuju untuk tunduk pada ketentuan dalam Pedoman ini dan pembaharuannya dari waktu ke waktu yang dapat dilihat di Website atau App kami. Dengan terus menggunakan Platform dan/atau jasa kami setelah Pedoman diubah, Anda menyetujui ketentuan Pedoman yang telah diubah 
+Kami mengimbau Anda untuk mengunjungi Website kami secara berkala untuk memastikan Anda mengetahui Pedoman kami yang terbaru yang terkait dengan perlindungan Data Pribadi.

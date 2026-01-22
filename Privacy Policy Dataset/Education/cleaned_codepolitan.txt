@@ -1,0 +1,27 @@
+﻿Kebijakan Privasi
+Dengan menggunakan layanan CODEPOLITAN, Anda memercayakan informasi Anda kepada kami. Kebijakan Privasi ini bertujuan untuk membantu Anda memahami data yang kami kumpulkan, alasan kami mengumpulkannya, dan yang kami lakukan dengan data tersebut. Kami harap Anda meluangkan waktu untuk membacanya dengan saksama. Dengan menggunakan Aplikasi kami, maka Anda telah setuju dengan dokumen Kebijakan Privasi ini dan dokumen Term of Service.
+Informasi Apa Saja Yang Kami Simpan
+Kami mengumpulkan informasi berikut terkait aktifitas Anda di Aplikasi kami:
+Informasi Personal yang Anda Berikan
+Kami dapat memperoleh dan menyimpan informasi yang Anda berikan ketika menggunakan Aplikasi kami. Informasi ini misalnya adalah data profile Anda seperti nama, email, nomor telepon, dan informasi profile Anda lainnya. Kami juga menyimpan informasi yang telah Anda berikan dari akun Facebook atau akun Google Anda ketika Anda menggunakan akun tersebut untuk masuk ke Aplikasi.
+Informasi Personal yang Diperoleh Secara Otomatis
+Kami juga menyimpan beberapa informasi yang berhubungan dengan aktifitas Anda selama menggunakan Aplikasi. Informasi ini diperoleh secara otomatis untuk membantu kami meningkatkan kualitas dari layanan yang diberikan oleh CODEPOLITAN kepada Anda. Informasi ini misalnya halaman apa saja yang Anda buka, waktu aktifitas, Alamat IP dari media yang Anda gunakan.
+Cookies
+Aplikasi kami menggunakan Cookies. Cookies adalah data yang dikirimkan dari website kami ke browser Anda dan disimpan di hard-drive komputer Anda. Kami menggunakan cookies untuk menyimpan beberapa data identifikasi dengan tujuan untuk meningkatkan kualitas pelayanan yang diberikan oleh Aplikasi terhadap kebutuhan Anda.
+Anda dapat memerintahkan browser untuk menolak penggunaan cookies dari Aplikasi kami. Namun hal tersebut dapat berakibat pada tidak berfungsinya beberapa fitur dari Aplikasi.
+Bagaimana Kami Menjaga Keamanan dari Informasi
+Kami mengupayakan dengan sungguh-sungguh dalam menjaga keamanan dari informasi yang kami peroleh. Kami mengupayakan agar informasi yang dikirim melalui internet dan yang disimpan oleh Aplikasi tetap aman. Kami terus mengupayakan untuk menggunakan pendekatan-pendekatan terbaik agar informasi Anda tidak dicuri.
+Misalnya, kami menyimpan password Anda dalam bentuk acak (menggunakan mekanisme Hashing), sehingga password Anda tidak disimpan dalam bentuk aslinya. Kami juga membatasi akses ke sumber data Anda.
+Meskipun kami mengusahakan dengan sungguh-sungguh keamanan dari data yang kami peroleh, kami tidak dapat menjamin bahwa pendekatan di atas memberikan keamanan secara absolut.
+Bagaimana Kami Menggunakan Informasi Di Atas
+Kami menggunakan informasi yang dikumpulkan dari semua layanan kami untuk memasok, memelihara, melindungi, dan menyempurnakan, untuk mengembangkan layanan yang baru, serta untuk melindungi CODEPOLITAN dan pengguna kami. Kami juga menggunakan informasi ini untuk menawarkan layanan kami yang sesuai dan relevan dengan Anda.
+Kami dapat menggunakan alamat email Anda untuk menginformasikan layanan kami, misalnya memberi tahu Anda tentang perubahan atau perbaikan yang akan datang. Kami menggunakan informasi yang dikumpulkan dari cookie dan teknologi lainnya, untuk meningkatkan pengalaman pengguna dan kualitas layanan secara keseluruhan. Kami akan meminta persetujuan Anda sebelum menggunakan informasi untuk tujuan selain dari yang ditentukan di Kebijakan Privasi ini.
+Apakah CODEPOLITAN Akan Membagikan Informasi yang Diperolehnya?
+Kami tidak membagikan informasi pribadi dengan perusahaan, organisasi, dan individu di luar CODEPOLITAN kecuali salah satu keadaan berikut berlaku:
+* Dengan persetujuan Anda. Kami akan membagi informasi pribadi dengan perusahaan, organisasi, dan individu di luar CODEPOLITAN jika kami mendapatkan persetujuan dari Anda untuk melakukannya. Kami memerlukan persetujuan keikutsertaan untuk berbagi informasi pribadi yang sensitif.
+* Untuk tujuan hukum. Kami akan membagikan informasi pribadi dengan perusahaan, organisasi, dan individu di luar CODEPOLITAN jika kami berkeyakinan dengan itikad baik bahwa akses, penggunaan, penyimpanan, atau pengungkapan informasi tersebut perlu untuk:
+o memenuhi hukum, peraturan, dan proses hukum yang berlaku atau permintaan pemerintah yang wajib dipenuhi.
+o mendeteksi, mencegah, atau menangani pelanggaran potensial, penipuan, keamanan, atau masalah teknis.
+o melindungi dari ancaman terhadap hak, properti atau keamanan CODEPOLITAN, pengguna kami atau publik.
+Kami dapat membagikan informasi non-pribadi yang dapat teridentifikasi kepada publik dan mitra kami. Misalnya, kami dapat membagikan informasi secara publik untuk menunjukkan tren mengenai penggunaan umum atas layanan kami.
+Apabila CODEPOLITAN terlibat dalam sebuah penggabungan, pengambilalihan, atau penjualan aset, kami akan tetap memastikan kerahasiaan informasi pribadi dan memberitahu pengguna yang terpengaruh sebelum informasi pribadi tersebut dialihkan atau menjadi subjek kebijakan privasi yang berbeda.

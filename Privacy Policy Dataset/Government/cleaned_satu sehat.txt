@@ -1,0 +1,116 @@
+﻿Kebijakan Privasi
+SATUSEHAT SDMK
+Selamat Datang di SATUSEHAT SDMK
+
+MOHON UNTUK MEMBACA SELURUH KEBIJAKAN PRIVASI YANG TERLAMPIR DENGAN CERMAT DAN SEKSAMA SEBELUM MENGGUNAKAN SETIAP FITUR DAN/ATAU LAYANAN YANG TERSEDIA DALAM PORTAL TENAGA KESEHATAN.
+1. Ketentuan Umum
+o Kebijakan Privasi ini adalah perjanjian antara pengguna ("Pengguna") dan Kementerian Kesehatan Republik Indonesia selaku Penyelenggara Sistem Elektronik SATUSEHAT SDMK ("SATUSEHAT SDMK").
+o Kebijakan Privasi ini merupakan bagian dari Syarat dan Ketentuan Penggunaan. Dengan menggunakan SATUSEHAT SDMK, Pengguna dianggap setuju untuk terikat dengan ketentuan Kebijakan Privasi ini.
+o Apabila Pengguna tidak setuju terhadap salah satu, sebagian, atau seluruh isi yang tertuang dalam Kebijakan Privasi ini, maka Pengguna diperkenankan untuk menghapus SATUSEHAT SDMK dalam perangkat elektronik dan/atau tidak mengakses SATUSEHAT SDMK dan/atau tidak menggunakan SATUSEHAT SDMK. SATUSEHAT SDMK dilepaskan dari seluruh tanggung jawab dari seluruh kerugian yang Pengguna terima sehubungan keputusan untuk tidak menggunakan SATUSEHAT SDMK ini.
+2. Definisi
+o Setiap kata atau istilah berikut yang digunakan di dalam Kebijakan Privasi ini memiliki arti seperti berikut di bawah, kecuali jika kata atau istilah yang bersangkutan di dalam pemakaiannya dengan tegas menentukan lain:
+i. "SATUSEHAT SDMK" adalah platform yang dipergunakan Kementerian Kesehatan di wilayah Republik Indonesia untuk tujuan:
+1. mencakup Data Sumber Daya Manusia Kesehatan baik tenaga medis, tenaga psikologis klinis, tenaga keperawatan, tenaga kebidanan, tenaga kefarmasian, tenaga kesehatan masyarakat, tenaga Kesehatan lingkungan, tenaga gizi, tenaga keterapian fisik, tenaga keteknisian medis, tenaga teknis biomedika, tenaga Kesehatan tradisional dan tenaga Kesehatan lainnya yang diverifikasi oleh Dinas Kesehatan Kabupaten/ Kota dan divalidasi oleh Dinas Kesehatan Provinsi.
+2. penyelenggaraan informasi Sumber Daya Manusia Kesehatan;
+3. sistem informasi Kesehatan bagi Sumber Daya Manusia Kesehatan; dan
+4. upaya kesehatan lainnya yang bersifat promotif, preventif, kuratif, dan rehabilitatif serta tujuan-tujuan lainnya selama diizinkan berdasarkan ketentuan peraturan perundang-undangan yang berlaku. 
+ii. "Platform" adalah platform SATUSEHAT SDMK, sistem, dan/atau aplikasi layanan integrasi dan interoperabilitas data Sumber Daya Manusia Kesehatan yang dikelola dan diselenggarakan oleh Kementerian Kesehatan. Termasuk daftar Riwayat hidup, riwayat Pendidikan, riwayat pekerjaan dan kebutuhan data terkait lainnya.
+iii. "Platform" adalah platform SATUSEHAT SDMK, sistem, dan/atau aplikasi layanan integrasi dan interoperabilitas data Sumber Daya Manusia Kesehatan yang dikelola dan diselenggarakan oleh Kementerian Kesehatan. Termasuk daftar Riwayat hidup, riwayat Pendidikan, riwayat pekerjaan dan kebutuhan data terkait lainnya.
+iv. "Pengguna", berarti setiap Sumber Daya Manusia Kesehatan yang menggunakan SATUSEHAT SDMK.
+v. "Tenaga Kesehatan", berarti setiap orang yang mengabdikan diri dalam bidang Kesehatan serta memiliki pengetahuan dan/ atau keterampilan melalui Pendidikan di bidang Kesehatan yang untuk jenis tertentu memerlukan kewenangan untuk melakukan Upaya Kesehatan.
+vi. "Fasilitas Pelayanan Kesehatan", suatu alat dan/ atau tempat yang digunakan untuk menyelenggarakan Upaya pelayanan Kesehatan, baik promotif, preventif, kuratif maupun rehabilitatif yang dilakukan oleh pemerintah, pemerintah daerah, dan/ atau Masyarakat.
+vii. "Data Pribadi" atau "Data Kesehatan" berarti setiap dan seluruh data pribadi dan data kondisi kesehatan Pengguna, termasuk namun tidak terbatas pada nama, nomor identifikasi, lokasi Pengguna, kontak Pengguna, serta dokumen dan data lainnya sebagaimana diminta pada formulir pendaftaran akun atau informasi kesehatan termasuk setiap dan seluruh data kesehatan Pengguna seperti rekam medis, jenis kelamin, kondisi kesehatan, pengobatan, alergi, vaksinasi, imunisasi, tindakan, riwayat medis, resep, laporan, anjuran dan informasi medis atau catatan kondisi kesehatan lainnya.
+viii. "Pengendali Data" adalah setiap orang, badan publik, dan/atau organisasi internasional yang bertindak sendiri-sendiri atau bersama-sama dalam menentukan tujuan dan melakukan kendali pemrosesan Data Pribadi atau Data Kesehatan atau informasi lainnya. "Prosesor Data" adalah setiap orang, badan publik, dan/atau organisasi internasional yang bertindak sendiri-sendiri atau bersama-sama dalam melakukan pemrosesan Data Pribadi atau Data Kesehatan atau informasi lainnya yang ditunjuk Pengendali Data.
+3. Legalitas Pemrosesan Data
+o Berdasarkan Undang-Undang Nomor 17 Tahun 2023 tentang Kesehatan, Pemerintah wajib melakukan upaya kesehatan. Upaya kesehatan adalah setiap kegiatan dan/atau serangkaian kegiatan yang dilakukan secara terpadu, terintegrasi dan berkesinambungan untuk memelihara dan meningkatkan derajat kesehatan masyarakat dalam bentuk pencegahan penyakit, peningkatan kesehatan, pengobatan penyakit, dan pemulihan kesehatan oleh pemerintah dan/atau masyarakat. Dalam melakukan Upaya Kesehatan dibutuhkan Sumber Daya Manusia Kesehatan yang berwenang untuk bekerja secara aktif di bidang Kesehatan, baik yang memiliki Pendidikan formal maupun tidak, yang untuk jenis tertentu. Pengaturan lebih lanjut dilaksanakan berdasarkan Peraturan Pemerintah Nomor 67 Tahun 2019 tentang Pengelolaan Tenaga Kesehatan, yang mana dalam hal ini Tenaga Kesehatan sebagai sumber daya manusia kesehatan yang mengabdikan diri dalam bidang Kesehatan serta memiliki pengetahuan dan/ atau keterampilan melalui Pendidikan di bidang Kesehatan yang untuk jenis tertentu memerlukan kewenangan untuk melakukan Upaya Kesehatan.
+o Tujuan pemrosesan data SATUSEHAT SDMK, dilaksanakan berdasarkan Undang-Undang Nomor 17 Tahun 2023 tentang Kesehatan dalam melakukan Upaya Kesehatan yang kewenangannya dilakukan oleh Sumber Daya Manusia Kesehatan secara aktif di bidang Kesehatan, baik yang memiliki Pendidikan formal maupun tidak, yang untuk jenis tertentu. Untuk itu berdasarkan Peraturan Pemerintah Nomor 67 Tahun 2019 Pasal 3 Ayat 1 tentang pengelolaan Tenaga Kesehatan, maka SATUSEHAT SDMK digunakan sebagai Platform layanan integrasi dan interoperabilitas data Sumber Daya Manusia Kesehatan yang dikelola dan diselenggarakan oleh Kementerian Kesehatan. Termasuk daftar riwayat hidup, riwayat Pendidikan, riwayat pekerjaan dan kebutuhan data terkait lainnya.
+o Legal basis pemrosesan data dilaksanakan berdasarkan peraturan perundang-undangan dalam rangka pelaksanaan tugas dan fungsi Kementerian Kesehatan dan untuk beberapa pemrosesan dilaksanakan berdasarkan persetujuan (consent) Pengguna.
+4. Data Yang Dikumpulkan dan Cara Pengumpulan
+o SATUSEHAT SDMK mengumpulkan Data Pribadi yang bersifat umum dan spesifik seperti data yang disediakan atau di input oleh Pengguna, aktivitas Pengguna, data daftar riwayat hidup, riwayat pendidikan, riwayat pekerjaan dan kebutuhan data terkait lainnya.
+o Data yang disediakan atau diinput oleh Pengguna:
+ . Data pada saat membuat atau memperbarui akun SATUSEHAT SDMK, berupa data nama, Nomor Induk Kependudukan (NIK), Nomor Identitas Kependudukan, tanggal lahir, alamat surat elektronik (e-mail), nomor handphone, alamat, foto dan data terkait lainnya
+i. Data profil Pengguna yang diinput mandiri secara manual atau perangkat teknologi, seperti data riwayat pendidikan, riwayat pekerjaan dan kebutuhan data terkait lainnya.
+ii. Pengumpulan data sebagaimana poin i adalah untuk tujuan penggunaan SATUSEHAT SDMK Pengumpulan data sebagaimana poin ii adalah untuk memberikan kemudahan bagi Pengguna untuk melakukan pencatatan profil Tenaga Kesehatan sehubungan dengan tujuan upaya kesehatan SATUSEHAT SDMK.
+o Data pada perangkat Pengguna, antara lain:
+ . Data lokasi riil atau perkiraannya seperti data alamat IP, lokasi Wi-Fi, geo-location, dan sebagainya;
+i. Data berupa aktivitas Pengguna seperti waktu, pendaftaran, login, dan riwayat penggunaan SATUSEHAT SDMK, dan lain sebagainya;
+ii. Data yang Pengguna izinkan untuk dibagikan atau diakses melalui kamera saat Pengguna menggunakan fitur check-in;
+iii. Data yang Pengguna izinkan untuk dibagikan atau diakses seperti photos, media penyimpanan, files, dan media ketika Pengguna mengunduh dan mengunggah photo/dokumen;
+iv. Data yang Pengguna izinkan untuk dibagikan atau diakses seperti photos, media penyimpanan, files, dan media ketika Pengguna mengunduh dan mengunggah photo/dokumen;
+v. Data penggunaan atau konfigurasi SATUSEHAT SDMK, seperti interaksi Pengguna dengan SATUSEHAT SDMK, bahasa, profil, preferensi fitur yang disimpan dan dipilih dan pengaturan lainnya; dan
+vi. Data persetujuan atau izin pengguna terhadap akses data dari SATUSEHAT SDMK.
+vii. Aplikasi akan meminta izin akses kepada Pengguna untuk menggunakan kamera, lokasi, geo-location, bluetooth, akses penyimpanan, galeri, photos dan files. SATUSEHAT SDMK tidak akan mengambil atau menggunakan informasi, data atau dokumen lainnya selain yang dipilih oleh Pengguna.
+viii. Pengumpulan data perangkat di atas digunakan untuk optimalisasi fungsi, fitur, dan penggunaan SATUSEHAT SDMK sesuai tujuan SATUSEHAT SDMK.
+o Data Pengguna yang diperoleh sebelumnya dari Fasilitas Pelayanan Kesehatan dan diperbaharui oleh Sumber Daya Manusia Kesehatan untuk melengkapi keterangan pada informasi atas elemen-elemen yang ada pada SATUSEHAT SDMK, Fasilitas Pelayanan Kesehatan dan Sumber Daya Manusia Kesehatan wajib mengirimkan data yang memuat informasi Sumber Daya Manusia Kesehatan tersebut kepada Kementerian Kesehatan melalui Platform berupa:
+ . Identitas Pengguna seperti nama, nomor identifikasi (NIK), tanggal lahir, jenis kelamin dan sebagainya.
+i. Riwayat Pendidikan, Riwayat Pekerjaan, dan hal terkait lainnya yang diterima Pengguna.
+ii. Dokumen legalitas; dan
+iii. Pengumpulan data sebagaimana poin i hingga iii adalah dalam rangka memberikan hak Pengguna terhadap data miliknya dan sehubungan dengan tujuan SATUSEHAT SDMK
+o Data Pengguna yang diperoleh dari SATUSEHAT SDMK seperti data akun, identitas, riwayat pendidikan, Riwayat pekerjaan dan lainnya.
+o Data yang diperoleh dari sumber lain, antara lain lembaga-lembaga pemerintahan atau swasta atau berdasarkan perjanjian antar pengendali data pribadi atau sumber lainnya sesuai dengan tujuan SATUSEHAT SDMK berdasarkan ketentuan peraturan perundang-undangan.
+5. Penyimpanan Data Pribadi
+o Data Pribadi Pengguna yang telah tervalidasi dan terekam, akan disimpan dalam SATUSEHAT SDMK dan/atau Platform.
+o Apabila SATUSEHAT SDMK tidak digunakan atau dihentikan pemanfaatannya, SATUSEHAT SDMK dan/atau Platform dapat tetap menyimpan dan menggunakan Data Pribadi Pengguna.
+o SATUSEHAT SDMK menggunakan infrastruktur, media penyimpanan, server, dan Disaster Recovery Center (DRC) yang berlokasi di wilayah Republik Indonesia.
+6. Pemrosesan dan Penggunaan Data
+o Berdasarkan data yang disediakan atau diinput oleh Pengguna pada saat membuat atau memperbarui akun SATUSEHAT SDMK, seperti data nama, Nomor Induk Kependudukan (NIK), atau nomor identitas lainnya, tanggal lahir, alamat surat elektronik (e-mail), nomor handphone, alamat, foto, dan/atau informasi lainnya, SATUSEHAT SDMK akan menyimpan, menampilkan dan memproses secara otomatis maupun manual untuk:
+ . Membuat dan operasionalisasi akun pengguna;
+i. Memverifikasi dan mengidentifikasi Pengguna;
+ii. Menghindari penyalahgunaan akun dan illegal access;
+iii. Mengirimkan one time password (OTP); dan
+iv. Mengidentifikasi profil Pengguna untuk disesuaikan dengan akses fitur.
+o Berdasarkan data profil kesehatan Pengguna yang diinput mandiri secara manual atau dengan pairing perangkat teknologi, seperti data identitas, riwayat pendidikan, Riwayat pekerjaan dan lainnya, SATUSEHAT SDMK akan menyimpan, menampilkan, menganalisis, dan memproses secara otomatis maupun manual untuk:
+ . Memberikan informasi Tenaga Kesehatan berdasarkan data Pengguna dan/atau upaya kesehatan promotif dan preventif;
+i. Membantu Pengguna memiliki catatan pendidikan, pekerjaan ijin Tenaga Kesehatan; dan
+ii. Memperbaiki, meningkatkan, mengembangkan serta analisis SATUSEHAT SDMK.
+o Berdasarkan data pada perangkat Pengguna seperti data lokasi riil atau perkiraannya seperti data alamat IP, lokasi Wi-Fi, geo-location dan sebagainya, SATUSEHAT SDMK akan memproses untuk mengetahui kesesuaian lokasi check-in.
+o Berdasarkan data pada perangkat Pengguna seperti data berupa aktivitas Pengguna seperti waktu, pendaftaran, login, dan riwayat penggunaan dan sebagainya, SATUSEHAT SDMK akan memproses untuk:
+ . Memenuhi kewajiban SATUSEHAT SDMK melakukan perekaman pemrosesan data; dan
+i. Mendeteksi penyalahgunaan akun atau akses ilegal.
+o Berdasarkan data pada perangkat Pengguna yang Pengguna izinkan untuk dibagikan atau diakses seperti photos, media penyimpanan, files, SATUSEHAT SDMK akan memproses untuk mengunggah photo atau dokumen yang diperlukan untuk penggunaan fitur atau profil.
+o Berdasarkan data pada perangkat Pengguna seperti data penggunaan atau konfigurasi SATUSEHAT SDMK, seperti interaksi Pengguna dengan SATUSEHAT SDMK, bahasa, profil, preferensi fitur yang disimpan dan dipilih akan disimpan, ditampilkan dan diproses oleh SATUSEHAT SDMK untuk kemudahan dan kenyamanan Pengguna.
+o Berdasarkan data pada perangkat Pengguna seperti data persetujuan atau izin pengguna terhadap akses data dari SATUSEHAT SDMK akan disimpan dan diproses oleh SATUSEHAT SDMK untuk menjalankan fungsi dan fitur sesuai perintah Pengguna.
+o Data Pengguna SATUSEHAT SDMK akan melakukan penyimpanan, penganalisisan, menampilkan dan memproses secara manual dan otomatis untuk:
+ . Menampilkan riwayat pendidikan dan pekerjaan Sumber Daya Manusia Kesehatan;
+i. Menyampaikan informasi Sumber Daya Manusia Kesehatan;
+ii. Pengembangan ilmu pengetahuan dan teknologi;
+iii. Diolah dan ditampilkan dalam dasbor dalam bentuk visualisasi;
+iv. Membuat pemodelan data;
+v. Upaya kesehatan lainnya yang bersifat promotif, preventif, kuratif, dan rehabilitatif serta tujuan-tujuan lainnya selama diizinkan berdasarkan ketentuan peraturan perundang-undangan.
+o Data Pengguna yang diperoleh dari SATUSEHAT SDMK seperti data akun, identitas, riwayat Pendidikan, Riwayat pekerjaan dan data terkait lainnya dilakukan dengan transfer untuk dilakukan pemrosesan oleh SATUSEHAT SDMK.
+7. Pengungkapan Data Pribadi Pengguna
+o Data Pribadi Pengguna tidak akan dikirim dan disebarluaskan kepada pihak lain tanpa izin Pengguna, kecuali:
+ . Kepentingan vital Pengguna dalam hal tidak memungkinkan dilakukannya persetujuan oleh Pengguna dan/atau keadaan lain yang dapat mengakibatkan resiko keselamatan jiwa;
+i. Permintaan yang sah dari aparat penegak hukum berdasarkan ketentuan peraturan perundang-undangan;
+ii. Pelaksanaan tugas Kementerian/Lembaga/Badan Pemerintah dalam rangka kepentingan pertahanan dan keamanan nasional, kepentingan umum, pelayanan publik, dan/atau pelaksanaan kewenangan Pengendali Data Pribadi sesuai ketentuan peraturan perundang-undangan dengan memperhatikan tugas dan fungsi serta relevansi tujuan SATUSEHAT SDMK; dan/atau
+iii. Pihak yang ditunjuk menjadi Prosesor Data untuk membantu dan menunjang pelaksanaan operasional SATUSEHAT SDMK sesuai ketentuan peraturan perundang-undangan.
+8. Retensi
+o Data Pribadi akan disimpan minimal 25 tahun sejak penggunaan terakhir.
+o Setelah jangka waktu tersebut SATUSEHAT SDMK tetap dapat dilakukan penyimpanan terus menerus apabila masih dapat digunakan sesuai tujuan SATUSEHAT SDMK.
+9. Hak Pengguna
+o Pengguna berhak mendapat kejelasan identitas, dasar kepentingan hukum, tujuan, penggunaan dan akuntabilitas sebagaimana telah disampaikan berdasarkan Kebijakan Privasi dan Ketentuan Penggunaan ini.
+o Pengguna berhak mendapatkan akses dan menggunakan data milik Pengguna sebagaimana dilaksanakan melalui fitur pada SATUSEHAT SDMK.
+o Pengguna berhak melengkapi, memperbaharui, dan/atau memperbaiki dengan ketentuan sebagai berikut:
+ . Data Pribadi yang diserahkan Pengguna secara mandiri dapat dilengkapi, diperbaharui, dan/atau diperbaiki oleh Pengguna berdasarkan fungsi dan fitur pada SATUSEHAT SDMK.
+i. Data Pribadi Pengguna yang bersumber dari fasilitas pelayanan kesehatan dapat dilengkapi, diperbaharui, dan/atau diperbaiki secara terbatas.
+ii. SATUSEHAT SDMK dan fasilitas pelayanan kesehatan dapat menolak apabila akibat dari pemenuhan hak Pengguna untuk melengkapi, memperbaharui, dan/atau memperbaiki tersebut bertentangan dengan ketentuan peraturan perundang-undangan.
+o Demi mencapai tujuan keamanan Pengguna, masyarakat, dan tujuan SATUSEHAT SDMK, Pengguna diharapkan memberikan izin akses atas perangkat Pengguna.
+10. Tautan Ke Situs Pihak Ketiga
+o SATUSEHAT SDMK dapat memuat pranala atau link menuju situs/aplikasi milik pihak ketiga ("Situs/Aplikasi Pihak Ketiga") yang bekerjasama berdasarkan perjanjian dengan SATUSEHAT SDMK atau Pemerintah Republik Indonesia.
+o SATUSEHAT SDMK tidak memiliki kendali dan tidak bertanggung jawab apapun atas Situs/Aplikasi Pihak Ketiga dan/atau konten Pihak Ketiga, oleh karena itu, penggunaan Situs/Aplikasi Pihak Ketiga tersebut merupakan tanggung jawab Pengguna sendiri.
+o Pengguna disarankan untuk mempelajari dan membaca dengan seksama kebijakan penanganan informasi pribadi yang berlaku di Situs/Aplikasi Pihak Ketiga dan/atau konten Pihak Ketiga.
+11. Perubahan Atas Kebijakan Privasi Ini
+Kebijakan Privasi ini dapat diubah atau diperbaharui dari waktu ke waktu dengan pemberitahuan kepada Pengguna melalui SATUSEHAT SDMK. Dengan tetap mengakses SATUSEHAT SDMK, maka Pengguna dianggap telah membaca, memahami dan menyetujui Kebijakan Privasi ini, termasuk perubahan dan/atau pembaharuannya.
+12. Ketentuan Lain
+o Pengguna menyatakan Data Pribadi yang diserahkan kepada SATUSEHAT SDMK pada saat pendaftaran akun atau pembaharuan merupakan data yang akurat dan mutakhir.
+o SATUSEHAT SDMK akan menjaga Data Pribadi sesuai Kebijakan Privasi dan Syarat Ketentuan Penggunaan ini. SATUSEHAT SDMK tidak bertanggung jawab terhadap data yang diungkapkan dan disebarluaskan Pengguna baik secara sengaja ataupun tidak sengaja. Pengguna dianggap melepaskan kerahasiaan Data Pribadi miliknya melalui pengungkapan tersebut.
+o SATUSEHAT SDMK tidak bertanggung jawab atas penyalahgunaan akses yang terjadi karena kehilangan / perpindahan tangan atas handphone milik Pengguna kepada pihak lain.
+o SATUSEHAT SDMK berupaya melakukan verifikasi terhadap Pengguna dan Data Pribadi Pengguna untuk mendapatkan akurasi, kelengkapan, dan konsistensi data yang optimal. SATUSEHAT SDMK dibebaskan dari tuntutan apapun terhadap akurasi, kelengkapan, dan konsistensi tanpa menghilangkan kewajiban SATUSEHAT SDMK untuk melakukan upaya perbaikan.
+13. Pemberitahuan
+o Dalam hal Pengguna menemukan celah keamanan sistem SATUSEHAT SDMK, maka Pengguna wajib segera melaporkan temuan secara tertulis kepada SATUSEHAT SDMK. Pengguna dilarang memanfaatkan hal tersebut untuk kepentingan pribadi atau kelompok tertentu dan mempublikasikan kepada khalayak umum dengan alasan apapun.
+o Pengguna dapat menyampaikan pertanyaan, keluhan dan/atau pengaduan sehubungan dengan penggunaan Data Pribadi atau Informasi Pribadi pada SATUSEHAT SDMK. Segala tanggapan, saran, dan atau temuan yang diberikan Pengguna terkaitSATUSEHAT SDMK tidak dianggap sebagai informasi rahasia. SATUSEHAT SDMK berhak atas penggunaan informasi ini secara bebas tanpa batas. Pengguna dilarang untuk menyalahgunakan temuan sehingga dapat mempengaruhi pengoperasian SATUSEHAT SDMK.
+o Pengguna pada fitur tertentu dapat berkontribusi terhadap SATUSEHAT SDMK melalui komentar dan mengunggah konten. SATUSEHAT SDMK berhak melakukan moderasi terhadap kontribusi Pengguna dengan terlebih dahulu melakukan review untuk menghindari materi muatan yang mengandung kekerasan, rasisme, seksual dan materi tidak patut lainnya yang dapat berdampak pada Pengguna lainnya. Apabila Pengguna menemukan adanya materi yang mengganggu, Pengguna dapat segera melaporkan pada kanal yang tertera pada Kebijakan Privasi ini.
+o Laporan temuan keamanan, pertanyaan, keluhan dan/atau pengaduan sehubungan dengan penggunaan SATUSEHAT SDMK disampaikan secara tertulis melalui email helpdesk@kemkes.go.id dengan melampirkan identitas Pengguna.
+o SATUSEHAT SDMK akan melakukan verifikasi Data Pribadi dengan berpedoman pada Data Pribadi yang tersimpan pada sistem SATUSEHAT SDMK. SATUSEHAT SDMK berhak melakukan penolakan atas pertanyaan, keluhan dan/atau pengaduan yang diajukan dalam hal Data Pribadi belum diverifikasi.
+o Dalam hal terdapat penambahan, pengurangan dan/atau perubahan kanal pengaduan SATUSEHAT SDMK akan diinformasikan kemudian melalui notifikasi SATUSEHAT SDMK atau melalui saluran resmi lainnya.
+SAYA TELAH MEMBACA DAN MENGERTI SELURUH KEBIJAKAN PRIVASI INI DAN KONSEKUENSINYA DAN DENGAN INI MENERIMA SETIAP HAK, KEWAJIBAN, DAN KETENTUAN YANG TELAH DIATUR DALAM KEBIJAKAN PRIVASI. PERNYATAAN INI DIANGGAP SEBAGAI PERSETUJUAN PEMILIK DATA PRIBADI.

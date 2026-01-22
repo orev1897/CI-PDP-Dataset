@@ -1,0 +1,133 @@
+﻿Kebijakan & Privasi PT Bank Syariah Indonesia Tbk
+Kebijakan Privasi PT Bank Syariah Indonesia Tbk (selanjutnya disebut dengan "Kebijakan Privasi") berikut ini mengatur ketentuan terkait pemerolehan dan pengumpulan, pengolahan dan penganalisisan, penyimpanan, perbaikan dan pembaruan, penampilan, pengumuman, transfer, penyebarluasan, pengungkapan, penghapusan atau pemusnahan Data Nasabah termasuk didalamnya Data Pribadi Nasabah oleh PT Bank Syariah Indonesia Tbk (selanjutnya disebut dengan "BSI"), sehubungan dengan pemanfaatan produk dan/atau layanan BSI oleh nasabah BSI (selanjutnya disebut "Nasabah") maupun transaksi perbankan yang dilakukan Nasabah melalui jaringan milik BSI termasuk namun tidak terbatas pada layanan teller, electronic channel seperti ATM, internet banking, mobile banking, dan layanan lainnya yang dikembangkan di kemudian hari oleh BSI (selanjutnya disebut "Jaringan BSI").
+ 
+Kebijakan Privasi ini merupakan bentuk upaya BSI untuk melindungi setiap data Nasabah termasuk Data Pribadi Nasabah baik yang teridentifikasi dan/atau dapat diidentifikasi secara tersendiri atau dikombinasi dengan informasi lainnya baik secara langsung maupun tidak langsung melalui sistem elektronik dan/atau non elektronik (selanjutnya disebut "Data Nasabah"). Kebijakan Privasi ini berlaku bagi seluruh Nasabah dan merupakan satu kesatuan dengan syarat dan ketentuan yang berlaku untuk masing-masing produk dan/atau layanan baik yang diajukan oleh Nasabah melalui cabang maupun melalui sistem elektronik, termasuk namun tidak terbatas pada syarat dan ketentuan umum terkait pembukaan rekening, syarat dan ketentuan khusus terkait rekening tertentu, syarat dan ketentuan umum terkait penggunaan mobile banking atau internet banking BSI, dan syarat dan ketentuan umum terkait pembiayaan.
+ 
+Dalam hal terdapat kebijakan privasi bagi produk dan/atau layanan tertentu maka kebijakan privasi khusus tersebut merupakan satu kesatuan dengan Kebijakan Privasi ini. Apabila terdapat perbedaan ketentuan yang diatur dalam Kebijakan Privasi ini dengan ketentuan dalam kebijakan privasi yang berlaku bagi masing-masing produk dan/atau layanan maka yang berlaku adalah kebijakan privasi yang berlaku khusus bagi masing-masing produk dan/atau layanan yang dimaksud. Kebijakan Privasi ini disusun mengacu pada Undang-Undang No. 27 Tahun 2022 tentang Pelindungan Data Pribadi, Undang-Undang No. 10 Tahun 1998 tentang Perbankan, Undang- Undang No. 21 Tahun 2008 tentang Perbankan Syariah beserta perubahannya, dan peraturan perundang-undangan lainnya di bidang pelindungan data pribadi dan jasa keuangan, serta regulasi yang diterbitkan oleh Otoritas Jasa Keuangan dan/atau Bank Indonesia.
+ 
+A. Jenis Data yang Dikumpulkan
+Jenis Data Nasabah yang dikumpulkan BSI, termasuk namun tidak terbatas pada: 
+1. nama lengkap;
+2.  jenis kelamin;
+3. Nomor Induk Kependudukan/nomor identitas lain;
+4. tempat dan tanggal lahir;
+5. alamat;
+6. Nomor Pokok Wajib Pajak (NPWP); 
+7. nama ibu kandung;
+8. spesimen tanda tangan;
+9. nomor telepon dan/atau nomor handphone;
+10. alamat email;
+11. kata sandi (password);
+12. data dan/atau spesimen biometrik Nasabah, rekaman suara, dan/atau video antara Nasabah dengan BSI;
+13. pendapat pribadi Nasabah yang diberitahukan kepada BSI (contoh: umpan balik, tanggapan survei);
+14. informasi dari perangkat Nasabah, antara lain daftar kontak, daftar aplikasi, statistik penggunaan, lokasi, informasi perangkat, dan atribut jaringan;
+15. informasi seputar pekerjaan, data keuangan, profil risiko, investasi, pengetahuan dan pengalaman, dan/atau kepentingan bisnis dan aset Nasabah;
+16. pengalamatan protokol internet (IP Address);
+17. profil aktivitas Nasabah pada widget kami;
+18. data tertentu yang Nasabah pilih untuk diberikan kepada BSI, contohnya seperti data untuk mengidentifikasi akun yang hilang seperti jawaban atas pertanyaan khusus yang mungkin BSI tanyakan kepada Nasabah untuk mengizinkan Nasabah membuka atau memulihkan akun yang hilang;
+19. ID Analytics yaitu pengidentifikasi anonim yang dibuat secara acak yang digunakan untuk membedakan aktivitas dari satu akun publisher dan akun lainnya;
+20. data penggunaan termasuk informasi tentang cara Nasabah menggunakan situs web, produk, dan layanan kami, serta progres aktivitas Nasabah;
+21. pengidentifikasi perangkat seluler (seperti misalnya ID perangkat Anda, ID iklan, alamat MAC, dan IMEI);
+22. data perangkat Nasabah, seperti nama perangkat, sistem operasi, jenis, dan bahasa browser;
+23. data untuk menghindari dan memerangi penipuan (seperti penyalahgunaan pengembalian dana dalam aplikasi atau penipuan klik dalam iklan); dan/atau
+24. data pemasaran dan komunikasi, termasuk pilihan preferensi Nasabah dalam menerima pemasaran dari BSI atau dari pihak ketiga, serta pilihan preferensi komunikasi Nasabah, yang mana Nasabah memiliki kebijaksanaan dan kendali penuh untuk menyesuaikan atau mematikan pengaturan tersebut pada perangkat Nasabah.
+B. Hak Nasabah
+Dalam rangka perlindungan data pribadi, Nasabah memiliki hak untuk: 
+1. mendapatkan Informasi tentang kejelasan identitas, dasar kepentingan hukum, tujuan permintaan dan penggunaan Data Pribadi, dan akuntabilitas pihak yang meminta Data Pribadi;
+2. melengkapi, memperbarui, dan/atau memperbaiki kesalahan dan/atau ketidakakuratan Data Pribadi tentang dirinya sesuai dengan tujuan pemrosesan Data Pribadi;
+3. mendapatkan akses dan memperoleh salinan Data Pribadi tentang dirinya sesuai dengan ketentuan peraturan perundang-undangan; 
+4. mengakhiri pemrosesan, menghapus, dan/atau memusnahkan Data Pribadi tentang dirinya sesuai dengan ketentuan peraturan perundang-undangan;
+5. menarik kembali persetujuan pemrosesan Data Pribadi tentang dirinya yang telah diberikan kepada BSI;
+6. mengajukan keberatan atas tindakan pengambilan keputusan yang hanya didasarkan pada pemrosesan secara otomatis, termasuk pemrofilan, yang menimbulkan akibat hukum atau berdampak signifikan pada Nasabah;
+7. menunda atau membatasi pemrosesan Data Pribadi secara proporsional sesuai dengan tujuan pemrosesan Data Pribadi;
+8. mengajukan ganti rugi, baik secara materiil maupun non materiil, apabila terbukti telah terjadi pelanggaran atas kesalahan maupun kelalaian oleh BSI dalam pemrosesan Data Pribadi; dan atau
+9. mendapatkan dan/atau menggunakan Data Pribadi tentang dirinya dalam bentuk yang sesuai dengan struktur dan/atau format yang lazim digunakan atau dapat dibaca oleh sistem elektronik.
+C. Pemerolehan dan Pengumpulan Data Pribadi
+1. BSI memperoleh Data Pribadi dengan berbagai cara, antara lain: 
+a. Data Pribadi yang diberikan sendiri oleh Nasabah, termasuk namun tidak terbatas pada saat: 
+1. Nasabah memberikan persetujuan kepada BSI untuk menggunakan Data Pribadi Nasabah dengan cara-cara yang ditetapkan pada Kebijakan Privasi ini (misalnya: Nasabah memberi kami persetujuan untuk mengirim pemasaran tentang
+produk dan layanan kami);
+2. Nasabah melakukan transaksi melalui Jaringan BSI;
+3. Nasabah membuat atau memperbarui informasi-informasi yang digunakan oleh Nasabah terkait produk dan/atau layanan BSI, melalui antara lain akun mobile banking atau internet banking Nasabah;
+4. Nasabah menghubungi BSI melalui berbagai metode seperti formulir aplikasi, email, surat, panggilan telepon, dan percakapan Nasabah dengan pegawai BSI di kantor cabang;
+5. Nasabah berkomunikasi dengan pegawai BSI atau pihak lain yang ditunjuk secara resmi untuk mewakili BSI sebagaimana tersimpan pada rekaman video atau audio percakapan; dan/atau
+6. Nasabah menggunakan fitur yang membutuhkan izin akses ke data yang relevan yang tersimpan di perangkat Nasabah.
+b. Data Nasabah yang terekam pada saat Nasabah menggunakan layanan perbankan elektronik BSI, termasuk namun tidak terbatas pada: 
+1. data lokasi riil atau perkiraannya;
+2.  waktu dari setiap aktivitas Nasabah yang memanfaatkan layanan perbankan elektronik BSI, seperti waktu login dan transaksi; 
+3. data penggunaan atau preferensi Nasabah, pilihan yang disimpan serta pengaturan yang dipilih, data mana diperoleh dengan menggunakan teknologi yang menciptakan dan mempertahankan pengenal unik, seperti cookies;
+4. data terkait perangkat yang digunakan untuk mengakses layanan perbankan elektronik BSI termasuk namun tidak terbatas pada model perangkat, sistem operasi dan versinya, serta jenis perangkat lunak; dan/atau
+5. alamat protokol internet perangkat milik Nasabah, tanggal dan waktu akses,fitur yang diakses, dan aktivitas sistem lainnya.
+c. Data sah lainnya yang berasal dari sumber yang tersedia untuk umum.
+2. BSI juga dapat mengumpulkan mengumpulkan Data Pribadi dari otoritas yang berwenangm sepanjang BSI memiliki dasar hukum untuk itu.
+3. Untuk keperluan penegakan hukum dan kepatuhan atas peraturan perundang-undangan yang berlaku, mengidentifikasi, dan menghubungi Nasabah, maka BSI akan meminta Data Pribadi yang akan dikirimkan dan disimpan dalam sistem bank milik BSI.
+4. BSI dapat mengumpulkan Data Pribadi Nasabah yang bersumber dari rekaman alat pemroses atau pengolah data visual, termasuk CCTV yang ada di kantor-kantor BSI, termasuk dari ATM.
+D. Tujuan Pemrosesan Data Pribadi 
+1. BSI akan menggunakan Data Pribadi yang dikumpulkan untuk tujuan pemrosesan tertentu yang berlandaskan serta tidak bertentangan dengan peraturan perundang-undangan yang berlaku, sebagai berikut: 
+a. penyediaan produk dan/atau layanan yang diajukan Nasabah kepada BSI dan/atau didaftarkan di BSI;
+b. pengembangan dan penyediaan produk dan/atau layanan (baik yang disediakan oleh BSI maupun melalui BSI), termasuk namun tidak terbatas pada: 
+1. melaksanakan investasi, transaksi perbankan, transaksi komersial atau lainnya, kliring, atau melaporkan transaksi tersebut;
+2. penelitian, perencanaan, dan analisis statistik; dan/atau
+3. analisis untuk tujuan pengembangan atau perbaikan produk dan/atau layanan, peningkatan keamanan dan kualitas produk, dan/atau layanan serta iklan strategi.
+c. berkomunikasi dengan Nasabah, termasuk mengenai pembaharuan produk dan/atau layanan (baik yang disediakan oleh BSI atau melalui BSI) termasuk setiap penambahan, perluasan, suspensi dan penggantian produk, dan/atau layanan BSI;
+d. pemasaran produk dan/atau layanan termasuk penawaran khusus, promosi, kontes atau informasi yang mungkin menarik bagi Nasabah;
+e. pemrosesan transaksi yang dilakukan oleh Nasabah melalui Jaringan BSI;
+f. keperluan verifikasi identitas Nasabah sehubungan dengan penyediaan produk dan/atau layanan serta pemrosesan transaksi Nasabah;
+g. pemutakhiran Data Pribadi;
+h. pemeriksaan kredit/pembiayaan, pemutaran atau cek uji tuntas yang mungkin diperlukan menurut hukum, peraturan, dan/atau kebijakan yang berlaku;
+i. penanganan atau penyelidikan keluhan, klaim, atau sengketa; dan/atau
+j. pemenuhan ketentuan hukum yang berlaku, peraturan pemerintah atau otoritas yang berwenang, instruksi dan permintaan dari penegak hukum atau pihak berwenang lainnya, serta permintaan dari setiap otoritas yang memiliki kewenangan terhadap Nasabah.
+2. Tujuan lain sebagaimana ditetapkan dalam kebijakan privasi khusus yang mengatur hubungan BSI dengan Nasabah serta tujuan lainnya yang diizinkan atau diwajibkan oleh peraturan perundang-undangan yang berlaku. Meskipun Nasabah memilih untuk tidak menerima materi pemasaran atau promosi, BSI masih dapat menghubungi Nasabah untuk tujuan lain sehubungan dengan rekening, produk dan/atau layanan BSI yang Nasabah miliki atau gunakan.
+3. Dalam rangka perubahan sebagian persetujuan, penarikan persetujuan atau penghentian atas penggunaan Data Pribadi, maka perubahan atau penarikan persetujuan tersebut wajib dilakukan secara tertulis atau elektronik oleh Nasabah dengan menghubungi BSI melalui cara sebagaimana ditetapkan dalam Huruf J Kebijakan Privasi ini.
+E. Pengungkapan Data Pribadi 
+1. Dari waktu ke waktu dan sesuai dengan hukum yang berlaku mengenai Pelindungan Data Pribadi dan Rahasia Bank, BSI tidak akan mengungkapkan dan/atau mengalihkan Data Pribadi kepada pihak ketiga lain, kecuali dalam hal-hal sebagai berikut: 
+a. untuk kepentingan penegakan hukum, instruksi atau permintaan dari penegak hukum atau otoritas yang berwenang, permintaan dari setiap lembaga yang memiliki kewenangan terhadap Nasabah, atau permintaan dari lembaga resmi dalam rangka pemenuhan ketentuan hukum yang berlaku;
+b. untuk keperluan penyediaan atau peningkatan layanan BSI terhadap Nasabah, termasuk memproses aktivitas dan transaksi Nasabah yang dilakukan melalui Jaringan BSI, yang harus mengharuskan BSI mengungkapkan Data Pribadi kepada mitra atau pihak ketiga lain;
+c. untuk penyelenggaraan layanan tertentu dari mitra BSI, termasuk aplikasi, situs, atau jaringan elektronik lain yang API atau layanannya telah terhubung atau terintegrasi dengan Jaringan BSI; dan/atau
+d. pengungkapan dan/atau pengalihan Data Pribadi kepada pihak ketiga lain, termasuk namun tidak terbatas untuk keperluan pemasaran dan penawaran produk, dan/atau layanan BSI.
+2. Sehubungan dengan pengungkapan Data Pribadi kepada mitra dan/atau pihak ketiga lain, BSI akan mewajibkan mitra dan/atau pihak ketiga lain tersebut untuk memastikan keamanan dan kerahasiaan dari setiap Data Pribadi yang diterimanya, serta hanya akan menggunakan Data Pribadi untuk pelaksanaan suatu kegiatan tertentu atau untuk suatu tujuan tertentu sesuai dengan persetujuan yang diberikan Nasabah terkait penggunaan Data Pribadinya.
+F. Dasar Pemrosesan Data Pribadi
+Dasar BSI dalam melakukan pemrosesan Data Pribadi akan tergantung pada produk dan layanan BSI yang digunakan oleh Nasabah, meliputi: 
+1. Kepentingan bisnis BSI yang sah (legitimate interest) sebagai penyedia layanan.
+2. Pemenuhan kewajiban hukum BSI;
+3. Pemenuhan kewajiban perjanjian antara BSI dengan Nasabah; 
+4. Persetujuan secara eksplisit kepada BSI untuk menggunakan Data Pribadi Nasabah dengan cara-cara yang ditetapkan pada Kebijakan Privasi ini.
+G. Kebijakan Cookies
+Cookies adalah elemen data yang dapat dikirim situs web ke browser Nasabah dan disimpan pada perangkat Nasabah. BSI menggunakan Cookies di beberapa laman BSI untuk menyimpan preferensi Nasabah dan merekam informasi sesi. Informasi yang BSI kumpulkan kemudian digunakan untuk memastikan tingkat layanan yang lebih personal bagi Nasabah. Nasabah dapat menyesuaikan pengaturan pada browser untuk menolak semua atau sebagian Cookies atau untuk menunjukkan kapan Cookies dapat dikirim. Namun, jika Nasabah tidak menerima/tidak menyetujui Cookies, Nasabah mungkin tidak akan dapat menggunakan sebagian atau seluruh layanan BSI.
+H. Keamanan 
+1. BSI akan melakukan upaya terbaik untuk melindungi dan mengamankan Data Pribadi dari akses, pengumpulan, penggunaan, atau pengungkapan oleh orang-orang yang tidak berwenang dan dari pengolahan yang bertentangan dengan hukum, kehilangan yang tidak disengaja, pemusnahan, dan kerusakan atau risiko serupa. Sebagai upaya untuk melindungi Data Pribadi Nasabah, BSI menerapkan standarisasi pengamanan data untuk menjamin keutuhan dan keakuratan Data Pribadi serta memastikan bahwa data tersebut tidak akan dicegat, diakses, diungkapkan, diubah, atau dihancurkan oleh pihak lain yang tidak berwenang, termasuk melakukan mitigasi risiko keamanan akan kemungkinan faktor-faktor di luar kendali BSI.
+2. BSI memiliki tim khusus yang akan melakukan peninjauan serta meningkatkan keamanan untuk melindungi Data Pribadi dari akses tidak sah, kehilangan, pengungkapan, dan/atau perusakan yang tidak disengaja.
+3. Sesuai hukum yang berlaku, BSI tidak bertanggung jawab dalam hal bisa dibuktikan bahwa terjadinya insiden keamanan informasi, kebocoran, dan/atau penyalahgunaan Data Pribadi diakibatkan oleh kelalaian atau kesalahan Nasabah.
+4. Dalam rangka aktivitas dan/atau transaksi yang dilakukan oleh Nasabah melalui Jaringan BSI berupa mobile banking: 
+a. BSI menggunakan teknologi enkripsi Secure Socket Layer (SSL) 128 bit, yang akan melindungi komunikasi antara perangkat Nasabah dengan server BSI;
+b. Untuk menambah keamanan, BSI menggunakan metode time out session, di mana setelah 3 (tiga) menit tanpa aktivitas Nasabah, maka akses akan tidak aktif lagi; dan
+c. BSI juga menerapkan customer level encryption yang spesifik/unik untuk setiap Nasabah sehingga data untuk masing-masing Nasabah menjadi lebih terlindungi.
+5. Nasabah bertanggung jawab untuk menjaga kerahasiaan detail akun mobile banking dan internet banking Nasabah, termasuk namun tidak terbatas pada Personal Identification Number (PIN), kata sandi (password), dan One Time Password (OTP) dari siapapun dan harus selalu menjaga dan bertanggung jawab atas keamanan perangkat yang Nasabah gunakan.
+I. Masa Penyimpanan Data Pribadi (Masa Retensi) 
+1. BSI akan menyimpan Data Pribadi Nasabah sepanjang Nasabah masih menggunakan layanan BSI dan/atau sesuai dengan peraturan perundang- undangan yang berlaku di bidang perbankan. 
+2. Selama Masa Retensi, jenis Data Pribadi yang disimpan BSI meliputi, jenis Data Pribadi yang diproses dan dipersyaratkan secara hukum, keperluan peradilan, operasional bisnis, dan pengarsipan. Dalam hal Data Pribadi Nasabah dimusnahkan dari sistem, data tersebut akan dimusnahkan atau dihancurkan menggunakan protokol keamanan yang sesuai sehingga tidak dapat direkonstruksi atau dibaca kembali oleh pihak yang tidak berwenang.
+J. Kontak
+Jika Nasabah memiliki pertanyaan berkaitan dengan Kebijakan Privasi ini atau ingin mengajukan permintaan hak-hak Nasabah, silakan hubungi BSI melalui beberapa saluran informasi berikut:
+
+Kontak: 14040
+Email: contact.dpo@bankbsi.co.id 
+ 
+K. Transfer Data Internasional 
+1. BSI mungkin akan melakukan transfer Data Pribadi Nasabah ke beberapa negara di luar Indonesia yang memiliki standar keamanan yang setara atau lebih tinggi menurut aturan pelindungan data pribadi. Kami akan memastikan Data Pribadi Nasabah akan terlindungi dengan baik
+Nama
+Tujuan
+Lokasi Pemasaran
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. Terlepas dari asal datanya, BSI akan melakukan pemeriksaan yang diperlukan dan mengkomunikasikan hasilnya kembali kepada Nasabah yang kemudian Nasabah memutuskan apakah ingin melanjutkan permohonan.
+L. Tanggal Penyusunan/Pembaruan
+Kebijakan Privasi ini disusun pada tanggal disusun pada tanggal 27 bulan September tahun 2024. Kebijakan Privasi ini akan diperbarui dari waktu ke waktu pada laman ini. Kami menyarankan Nasabah untuk memeriksa pembaruan atau perubahan Kebijakan Privasi ini secara berkala. 
+ 
+Kantor Pusat Gedung The Tower, Jl Gatot Subroto No.27 Kelurahan Karet Semanggi, Kecamatan Setiabudi, Jakarta Selatan 12930

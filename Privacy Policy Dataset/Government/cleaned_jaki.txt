@@ -1,0 +1,82 @@
+﻿Kebijakan Privasi
+Kebijakan Privasi ini adalah komitmen nyata dari JAKI untuk menghargai dan melindungi setiap data atau informasi pribadi Pengguna aplikasi JAKI. 
+Kebijakan Privasi ini (beserta syarat-syarat penggunaan sebagaimana tercantum dalam "Syarat & Ketentuan" dan informasi lain yang tercantum di aplikasi JAKI) menetapkan dasar atas perolehan, pengumpulan, pengolahan, penganalisisan, penampilan, pembukaan, dan/atau segala bentuk pengelolaan yang terkait dengan data atau informasi yang Pengguna berikan kepada JAKI atau yang JAKI kumpulkan dari Pengguna, termasuk data pribadi Pengguna, baik pada saat Pengguna melakukan pendaftaran di aplikasi, mengakses aplikasi, maupun mempergunakan layanan-layanan pada aplikasi (selanjutnya disebut sebagai "data"). 
+Dengan mengakses dan/atau mempergunakan layanan JAKI, Pengguna menyatakan bahwa setiap data Pengguna merupakan data yang benar dan sah, serta Pengguna dianggap telah membaca dan memahami dan memberikan persetujuan kepada JAKI untuk memperoleh, mengumpulkan, menyimpan, mengelola, dan mempergunakan data tersebut sebagaimana tercantum dalam Kebijakan Privasi maupun Syarat & Ketentuann JAKI. 
+Perolehan dan Pengumpulan Data Pengguna 
+JAKI mengumpulkan data Pengguna dengan tujuan untuk mengelola dan memperlancar proses penggunaan situs, serta tujuan-tujuan lainnya selama diizinkan oleh peraturan perundang-undangan yang berlaku. Adapun data Pengguna yang dikumpulkan adalah sebagai berikut: 
+1. Data yang diserahkan secara mandiri oleh Pengguna, termasuk namun tidak terbatas, pada data yang diserahkan pada saat Pengguna: 
+1. Membuat atau memperbarui akun JAKI, termasuk di antaranya nama pengguna (username), Nomor NIK, alamat email, nomor telepon, password, alamat sesuai dengan KTP, foto, dan lain-lain yang diminta JAKI; 
+2. mengisi survei yang dikirimkan oleh JAKI atau atas nama JAKI; 
+3. melakukan interaksi dengan Pengguna lainnya melalui fitur pesan, diskusi, ulasan, rating, dan sebagainya; 
+4. menggunakan fitur yang membutuhkan izin akses terhadap perangkat Pengguna seperti izin akses membuka kamera pada saat masuk ke menu scan QR Code. 
+2. Data yang terekam pada saat Pengguna mempergunakan aplikasi JAKI, termasuk namun tidak terbatas pada: 
+1. Data lokasi riil atau perkiraannya seperti alamat IP, lokasi Wi-Fi, geolocation, dan sebagainya; 
+2. Data lokasi geografis Pengguna saat menggunakan aplikasi maupun tidak, untuk menyediakan Pengguna layanan mengenai informasi lokasi zona terdampak sesuai dengan acuan yang ditentukan oleh Pemerintah Republik Indonesia, menampilkan statistik kasus Covid-19 di lokasi sekitar Pengguna; 
+3. Data berupa waktu dari setiap aktivitas Pengguna, termasuk aktivitas pendaftaran, login, dan lain sebagainya; 
+4. Data seluruh konten yang Pengguna buat, Pengguna bagikan, atau Pengguna kirimkan dalam bentuk audio, video, teks, gambar, atau jenis media atau file perangkat lunak lainnya disediakan atas nama Pengguna, termasuk informasi di konten atau tentang konten yang Pengguna sediakan, seperti lokasi foto atau tanggal pembuatan file; 
+5. Data terkait topik yang dibaca dan umpan-balik;
+6. Data yang diberikan oleh orang lain tentang Pengguna saat menggunakan layanan, termasuk saat mereka mengirim pesan kepada Pengguna atau mengunggah informasi tentang Pengguna; 
+7. Data semua komunikasi dengan pengguna lainnya;
+8. Data penggunaan atau preferensi Pengguna, di antaranya interaksi Pengguna dalam menggunakan aplikasi, pilihan yang disimpan, serta pengaturan yang dipilih. Data tersebut diperoleh menggunakan cookies, pixel tags, dan teknologi serupa yang menciptakan dan mempertahankan pengenal unik; 
+9. Data perangkat, di antaranya jenis perangkat yang digunakan untuk mengakses aplikasi, termasuk model perangkat keras, sistem operasi dan versinya, perangkat lunak, nama file dan versinya, pilihan bahasa, pengenal perangkat unik, pengenal iklan, nomor seri, informasi gerakan perangkat, dan/atau informasi jaringan seluler; 
+10. Data catatan (log), di antaranya catatan pada server yang menerima data seperti alamat IP perangkat, tanggal dan waktu akses, fitur aplikasi atau laman yang dilihat, proses kerja aplikasi dan aktivitas sistem lainnya, jenis peramban, dan/atau situs atau layanan Pihak Ketiga yang Pengguna gunakan sebelum berinteraksi dengan aplikasi; 
+11. Data komunikasi, masukan, saran, dan ide pengguna yang dikirimkan kepada kami; 
+12. Data yang berkaitan dengan kepentingan penggunaan layanan perpajakan dan layanan kesehatan pada aplikasi seperti Nomor BPJS Kesehatan, Nomor BPJS Ketenagakerjaan, Nomor Pokok Wajib Pajak, Nomor Objek Pajak PBB, Nomor Kendaraan, Nomor Objek Pajak Daerah, dan sebagainya; 
+13. Data yang berkaitan dengan kepentingan penggunaan layanan transaksi pada Aplikasi; dan 
+14. Data yang Pengguna berikan saat Pengguna atau organisasi Pengguna yang menghubungi atau berinteraksi dengan kami untuk dukungan terkait layanan; 
+3. Data yang diperoleh dari sumber lain, termasuk:
+1. Nama
+2. Alamat Email
+3. Jenis Kelamin
+4. Tempat dan Waktu Kelahiran
+5. Kartu Keluarga
+6. Foto
+7. User ID
+8. Nomor Paspor
+JAKI dapat menggabungkan data yang diperoleh dari sumber tersebut dengan data lain yang dimilikinya. 
+Penggunaan Data
+JAKI dapat menggunakan keseluruhan atau sebagian data yang diperoleh dan dikumpulkan dari Pengguna sebagaimana disebutkan dalam bagian sebelumnya untuk hal-hal sebagai berikut: 
+1. Memproses segala bentuk permintaan maupun aktivitas yang dilakukan oleh Pengguna melalui aplikasi. 
+2. Penyediaan fitur-fitur untuk memberikan, mewujudkan, memelihara, dan memperbaiki layanan kami, termasuk: 
+1. menawarkan, memperoleh, menyediakan, atau memfasilitasi layanan dan/atau produk-produk lainnya baik bersumber dari JAKI atau Pihak Ketiga; 
+2. memungkinkan fitur untuk memprivasikan akun JAKI Pengguna, seperti Like, Share, Bookmark; dan/atau 
+3. melakukan kegiatan internal yang diperlukan untuk menyediakan layanan pada situs/aplikasi JAKI, seperti pemecahan masalah software, bug, permasalahan operasional, melakukan analisis data, pengujian dan penelitian, dan untuk memantau dan menganalisis kecenderungan penggunaan dan aktivitas. 
+3. Menghubungi Pengguna melalui email, surat, telepon, fax, dan lain-lain, termasuk namun tidak terbatas, untuk membantu dan/atau memproses penyelesaian kendala. 
+4. Menggunakan informasi yang diperoleh dari Pengguna untuk tujuan penelitian, analisis, pengembangan dan pengujian guna meningkatkan keamanan dan keamanan layanan-layanan pada aplikasi, serta mengembangkan fitur pada aplikasi. 
+5. Menggunakan informasi yang diperoleh dari Pengguna sebagai informasi umum dalam dasbor untuk pemerintah dalam pengambilan keputusan. 
+6. Menginformasikan kepada Pengguna terkait layanan, studi, survei, berita, perkembangan terbaru, acara dan lain-lain, baik melalui aplikasi maupun melalui media lainnya. JAKI juga dapat menggunakan informasi tersebut untuk menyajikan konten yang relevan tentang layanan JAKI. 
+7. Menggunakan informasi yang diperoleh dari Pengguna untuk kebutuhan fitur pada aplikasi sehubungan dengan pemenuhan persyaratan dan kewajiban dari peraturan perundang-undangan yang berkaitan dengan kepentingan perpajakan di Indonesia. 
+8. Menggunakan informasi yang diperoleh dari Pengguna untuk tujuan yang diperlukan untuk melakukan proses pembayaran yang berkaitan dengan transaksi non-perpajakan. 
+9. Melakukan monitoring atau pun investigasi terhadap konten atau interaksi mencurigakan yang terindikasi mengandung unsur pelanggaran terhadap Syarat & Ketentuan atau ketentuan hukum yang berlaku, serta melakukan tindakan-tindakan yang diperlukan sebagai tindak lanjut dari hasil monitoring atau investigasi transaksi tersebut. 
+Penggunaan Data Untuk Penanganan dan Pencegahan Covid-19
+JAKI dapat menggunakan keseluruhan atau sebagian data yang diperoleh dan dikumpulkan dari Pengguna sebagaimana disebutkan dalam bagian sebelumnya, untuk kepentingan publik berkaitan dengan penanganan dan pencegahan Covid-19 sesuai dengan kebijakan Pemerintah untuk hal-hal sebagai berikut: 
+1. Menampilkan lokasi sesuai kategori zona risiko (tinggi, sedang, rendah, tidak ada kasus, tidak terdampak) yang kriterianya ditentukan oleh Pemerintah Republik Indonesia, meskipun saat aplikasi sedang tidak dijalankan. 
+2. Penggunaan Data untuk kepentinga publik yang berkaitan dengan penganggulangan dan pencegahan Covid-19 hanya akan diproses dan disimpan selama masa pandemi sesuai dengan regulasi yang berlaku oleh Pemerintah Republik Indonesia. 
+Pengungkapan Data Pribadi Pengguna
+JAKI menjamin tidak ada penjualan, pengalihan, distribusi atau meminjamkan data pribadi Pengguna kepada Pihak Ketiga lain, tanpa terdapat izin dari Pengguna, kecuali dalam hal-hal sebagai berikut: 
+1. Dibutuhkan adanya pengungkapan data Pengguna kepada mitra atau Pihak Ketiga lain yang membantu JAKI dalam menyajikan layanan pada aplikasi dan memproses segala bentuk aktivitas Pengguna dalam aplikasi, termasuk memproses transaksi, verifikasi pembayaran, pengiriman produk, dan lain-lain. 
+2. JAKI dapat menyediakan informasi yang relevan kepada Pihak Ketiga sesuai dengan persetujuan Pengguna untuk menggunakan layanan Pihak Ketiga, termasuk di antaranya aplikasi atau situs lain yang telah saling mengintegrasikan API (Application Programming Interface) atau layanannya. 
+3. Dibutuhkan adanya komunikasi antara Pihak Ketiga dengan Pengguna dalam hal penyelesaian kendala maupun hal-hal lainnya. 
+4. JAKI dapat menyediakan informasi yang relevan kepada vendor, konsultan, firma riset, atau penyedia layanan sejenis. 
+5. Pengguna menghubungi JAKI melalui media publik seperti blog, media sosial, dan fitur tertentu pada aplikasi, komunikasi antara Pengguna dan JAKI mungkin dapat dilihat secara publik. 
+6. JAKI dapat membagikan informasi Pengguna kepada anak perusahaan dan afiliasinya untuk membantu memberikan layanan atau melakukan pengolahan data untuk dan atas nama JAKI. 
+7. JAKI mengungkapkan data Pengguna dalam upaya mematuhi kewajiban hukum dan/atau adanya permintaan yang sah dari aparat penegak hukum. 
+Cookies
+1. Cookies adalah file kecil yang secara otomatis akan mengambil tempat di dalam perangkat Pengguna yang menjalankan fungsi dalam menyimpan preferensi maupun konfigurasi Pengguna selama mengunjungi suatu situs. 
+2. Cookies tersebut tidak diperuntukkan untuk digunakan pada saat melakukan akses data lain yang Pengguna miliki di perangkat komputer Pengguna, selain dari yang telah Pengguna setujui untuk disampaikan. 
+3. Walaupun secara otomatis perangkat komputer Pengguna akan menerima cookies, Pengguna dapat menentukan pilihan untuk melakukan modifikasi melalui pengaturan browser Pengguna yaitu dengan memilih untuk menolak cookies (pilihan ini dapat membatasi layanan optimal pada saat melakukan akses ke situs). 
+4. JAKI menggunakan fitur Google Analytics Demographics and Interest. Data yang kami peroleh dari fitur tersebut, seperti umur, jenis kelamin, minat Pengguna, dan lain-lain, akan kami gunakan untuk pengembangan situs dan konten JAKI. Jika tidak ingin data Pengguna terlacak oleh Google Analytics, Pengguna dapat menggunakan Add-On Google Analytics Opt-Out Browser. 
+5. JAKI dapat menggunakan fitur-fitur yang disediakan oleh Pihak Ketiga dalam rangka meningkatkan layanan dan konten JAKI, termasuk di antaranya ialah penyesuaian dan penyajian iklan kepada setiap Pengguna berdasarkan minat atau riwayat kunjungan. Jika Pengguna tidak ingin iklan ditampilkan berdasarkan penyesuaian tersebut, maka Pengguna dapat mengaturnya melalui browser. 
+Pilihan Pengguna dan Transparansi
+1. Perangkat seluler pada umumnya (android dan sebagainya) memiliki pengaturan sehingga aplikasi JAKI tidak dapat mengakses data tertentu tanpa persetujuan dari Pengguna. Perangkat Android akan memberikan pemberitahuan kepada Pengguna saat aplikasi JAKI pertama kali dimuat. Dengan menggunakan aplikasi dan memberikan akses terhadap aplikasi, Pengguna dianggap memberikan persetujuannya terhadap Kebijakan Privasi. 
+2. Setelah konten dibuat, Pengguna memiliki kesempatan untuk memberikan penilaian dan ulasan terhadap akun satu sama lain. Informasi ini mungkin dapat dilihat secara publik dengan persetujuan Pengguna. 
+3. Pengguna dapat mengakses dan mengubah informasi berupa alamat email, nomor telepon, tanggal lahir, jenis kelamin, daftar alamat, melalui fitur Pengaturan pada aplikasi. 
+4. Pengguna dapat menarik diri dari informasi atau notifikasi berupa buletin, ulasan, diskusi konten, pesan pribadi, atau pesan pribadi dari Admin yang dikirimkan oleh JAKI melalui fitur Pengaturan pada aplikasi. JAKI tetap dapat mengirimkan pesan atau email berupa keterangan transaksi atau informasi terkait akun Pengguna. 
+5. Sejauh diizinkan oleh ketentuan yang berlaku, Pengguna dapat menghubungi JAKI untuk melakukan penarikan persetujuan terhadap perolehan, pengumpulan, penyimpanan, pengelolaan, dan penggunaan data Pengguna. Apabila terjadi demikian maka Pengguna memahami konsekuensi bahwa Pengguna tidak dapat menggunakan layanan aplikasi JAKI. 
+Standar Keamanan Anak
+JAKI melarang dan menjauhi segala bentuk pelecehan seksual dan eksploitasi terhadap anak-anak, termasuk konten atau perilaku yang mengeksploitasi, melecehkan, atau membahayakan anak-anak secara seksual seperti pembujuk-rayuan terhadap anak untuk melakukan eksploitasi seksual, pemerasan seksual terhadap anak, perdagangan anak untuk seks, atau eksploitasi seksual terhadap anak. Apabila terjadi maka postingan akan dihapuskan dan penguna akan dibekukan secara permanen. 
+Penyimpanan dan Penghapusan Data Pribadi
+JAKI akan menyimpan data Pengguna yang Pengguna berikan kepada JAKI atau yang JAKI kumpulkan dari Pengguna, termasuk data pribadi Pengguna, baik pada saat Pengguna melakukan pendaftaran di aplikasi, mengakses aplikasi, maupun mempergunakan layanan-layanan pada aplikasi di server database utama selama akun Pengguna aktif dan/atau selama penyimpanan yang diperlukan atau diperbolehkan oleh peraturan perundang-undangan yang berlaku. 
+JAKI akan berhenti menyimpan, menghapus dan/atau menganonim data Pengguna secepatnya apabila data Pengguna sudah tidak lagi diperlukan untuk memenuhi kebutuhan pengguna dalam menggunakan layanan-layanan aplikasi dan penyimpanan data tidak diperlukan lagi untuk kepentingan kepatuhan terhadap peraturan perundang-undangan yang berlaku. 
+Pembaruan Kebijakan Privasi
+JAKI dapat sewaktu-waktu melakukan perubahan atau pembaruan terhadap Kebijakan Privasi ini. JAKI menyarankan agar Pengguna membaca secara seksama dan memeriksa halaman Kebijakan Privasi ini dari waktu ke waktu untuk mengetahui perubahan apa pun. Dengan tetap mengakses dan menggunakan layanan aplikasi JAKI, maka Pengguna dianggap menyetujui perubahan-perubahan dalam Kebijakan Privasi. 

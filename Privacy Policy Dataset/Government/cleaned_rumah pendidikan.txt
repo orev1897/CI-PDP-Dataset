@@ -1,0 +1,41 @@
+﻿Kebijakan Privasi
+Kebijakan Privasi ini adalah komitmen nyata dari Rumah Pendidikan untuk menghargai dan melindungi setiap data atau informasi pribadi Pengguna aplikasi Rumah Pendidikan.
+Kebijakan Privasi ini (beserta syarat-syarat penggunaan sebagaimana tercantum dalam "Syarat & Ketentuan" dan informasi lain yang tercantum di aplikasi Rumah Pendidikan) menetapkan dasar atas perolehan, pengumpulan, pengolahan, penganalisisan, penampilan, pembukaan, dan/atau segala bentuk pengelolaan yang terkait dengan data atau informasi yang Pengguna berikan kepada Rumah Pendidikan atau yang Rumah Pendidikan kumpulkan dari Pengguna, termasuk data pribadi Pengguna, baik pada saat Pengguna melakukan pendaftaran di aplikasi, mengakses aplikasi, maupun mempergunakan layanan-layanan pada aplikasi (selanjutnya disebut sebagai "data").
+Dengan mengakses dan/atau mempergunakan layanan Rumah Pendidikan, Pengguna menyatakan bahwa setiap data Pengguna merupakan data yang benar dan sah, serta Pengguna dianggap telah membaca dan memahami dan memberikan persetujuan kepada Rumah Pendidikan untuk memperoleh, mengumpulkan, menyimpan, mengelola, dan mempergunakan data tersebut sebagaimana tercantum dalam Kebijakan Privasi maupun Syarat & Ketentuan Rumah Pendidikan.
+Perolehan dan Pengumpulan Data Pengguna
+Rumah Pendidikan mengumpulkan data Pengguna dengan tujuan untuk mengelola dan memperlancar proses penggunaan situs, serta tujuan-tujuan lainnya selama diizinkan oleh peraturan perundang-undangan yang berlaku. Adapun data Pengguna yang dikumpulkan adalah sebagai berikut:
+* Data yang diserahkan secara mandiri oleh Pengguna, termasuk namun tidak terbatas, pada data yang diserahkan pada saat Pengguna:
+o Membuat atau memperbarui akun Rumah Pendidikan, termasuk di antaranya nama pengguna dan alamat email.
+Penggunaan Data
+Rumah Pendidikan dapat menggunakan keseluruhan atau sebagian data yang diperoleh dan dikumpulkan dari Pengguna sebagaimana disebutkan dalam bagian sebelumnya untuk hal-hal sebagai berikut:
+* Memproses segala bentuk permintaan maupun aktivitas yang dilakukan oleh Pengguna melalui aplikasi.
+* Penyediaan fitur-fitur untuk memberikan, mewujudkan, memelihara, dan memperbaiki layanan kami, termasuk:
+o menawarkan, memperoleh, menyediakan, atau memfasilitasi layanan dan/atau produk-produk lainnya baik bersumber dari Rumah Pendidikan atau Pihak Ketiga;
+o memungkinkan fitur untuk memprivasikan akun Rumah Pendidikan Pengguna, seperti Like, Share, Bookmark; dan/atau
+o melakukan kegiatan internal yang diperlukan untuk menyediakan layanan pada situs/aplikasi Rumah Pendidikan, seperti pemecahan masalah software, bug, permasalahan operasional, melakukan analisis data, pengujian dan penelitian, dan untuk memantau dan menganalisis kecenderungan penggunaan dan aktivitas.
+* Menghubungi Pengguna melalui email, surat, telepon, fax, dan lain-lain, termasuk namun tidak terbatas, untuk membantu dan/atau memproses penyelesaian kendala.
+* Menggunakan informasi yang diperoleh dari Pengguna untuk tujuan penelitian, analisis, pengembangan dan pengujian guna meningkatkan keamanan dan keamanan layanan-layanan pada aplikasi, serta mengembangkan fitur pada aplikasi.
+* Menggunakan informasi yang diperoleh dari Pengguna sebagai informasi umum dalam dasbor untuk pemerintah dalam pengambilan keputusan.
+* Menginformasikan kepada Pengguna terkait layanan, studi, survei, berita, perkembangan terbaru, acara dan lain-lain, baik melalui aplikasi maupun melalui media lainnya.Rumah Pendidikan juga dapat menggunakan informasi tersebut untuk menyajikan konten yang relevan tentang layanan Rumah Pendidikan.
+Rumah Pendidikan menjamin tidak ada penjualan, pengalihan, distribusi atau meminjamkan data pribadi Pengguna kepada Pihak Ketiga lain, tanpa terdapat izin dari Pengguna, kecuali dalam hal-hal sebagai berikut:
+Rumah Pendidikan dapat menyediakan informasi yang relevan kepada Pihak Ketiga sesuai dengan persetujuan Pengguna untuk menggunakan layanan Pihak Ketiga, termasuk di antaranya aplikasi atau situs lain yang telah saling mengintegrasikan API (Application Programming Interface) atau layanannya.
+Cookies
+Cookies adalah file kecil yang secara otomatis akan mengambil tempat di dalam perangkat Pengguna yang menjalankan fungsi dalam menyimpan preferensi maupun konfigurasi Pengguna selama mengunjungi suatu situs.
+Cookies tersebut tidak diperuntukkan untuk digunakan pada saat melakukan akses data lain yang Pengguna miliki di perangkat komputer Pengguna, selain dari yang telah Pengguna setujui untuk disampaikan.
+Walaupun secara otomatis perangkat komputer Pengguna akan menerima cookies, Pengguna dapat menentukan pilihan untuk melakukan modifikasi melalui pengaturan browser Pengguna yaitu dengan memilih untuk menolak cookies (pilihan ini dapat membatasi layanan optimal pada saat melakukan akses ke situs).
+Rumah Pendidikan menggunakan fitur Google Analytics Demographics and Interest. Data yang kami peroleh dari fitur tersebut, seperti umur, jenis kelamin, minat Pengguna, dan lain-lain, akan kami gunakan untuk pengembangan situs dan konten Rumah Pendidikan. Jika tidak ingin data Pengguna terlacak oleh Google Analytics, Pengguna dapat menggunakan Add-On Google Analytics Opt-Out Browser.
+Rumah Pendidikan dapat menggunakan fitur-fitur yang disediakan oleh Pihak Ketiga dalam rangka meningkatkan layanan dan konten Rumah Pendidikan, termasuk di antaranya ialah penyesuaian dan penyajian iklan kepada setiap Pengguna berdasarkan minat atau riwayat kunjungan. Jika Pengguna tidak ingin iklan ditampilkan berdasarkan penyesuaian tersebut, maka Pengguna dapat mengaturnya melalui browser.
+Pilihan Pengguna dan Transparansi
+Perangkat seluler pada umumnya (android dan sebagainya) memiliki pengaturan sehingga aplikasi Rumah Pendidikan tidak dapat mengakses data tertentu tanpa persetujuan dari Pengguna. Perangkat Android akan memberikan pemberitahuan kepada Pengguna saat aplikasi Rumah Pendidikan pertama kali dimuat. Dengan menggunakan aplikasi dan memberikan akses terhadap aplikasi, Pengguna dianggap memberikan persetujuannya terhadap Kebijakan Privasi.
+Setelah konten dibuat, Pengguna memiliki kesempatan untuk memberikan penilaian dan ulasan terhadap akun satu sama lain. Informasi ini mungkin dapat dilihat secara publik dengan persetujuan Pengguna.
+Rumah Pendidikan tetap dapat mengirimkan pesan atau email berupa keterangan transaksi atau informasi terkait akun Pengguna.
+Sejauh diizinkan oleh ketentuan yang berlaku, Pengguna dapat menghubungi Rumah Pendidikan untuk melakukan penarikan persetujuan terhadap perolehan, pengumpulan, penyimpanan, pengelolaan, dan penggunaan data Pengguna. Apabila terjadi demikian maka Pengguna memahami konsekuensi bahwa Pengguna tidak dapat menggunakan layanan aplikasi Rumah Pendidikan.
+Penyimpanan dan Penghapusan Data Pribadi
+Rumah Pendidikan akan menyimpan data Pengguna yang Pengguna berikan kepada Rumah Pendidikan atau yang Rumah Pendidikan kumpulkan dari Pengguna, termasuk data pribadi Pengguna, baik pada saat Pengguna melakukan pendaftaran di aplikasi, mengakses aplikasi, maupun mempergunakan layanan-layanan pada aplikasi di server database utama selama akun Pengguna aktif dan/atau selama penyimpanan yang diperlukan atau diperbolehkan oleh peraturan perundang-undangan yang berlaku.
+Rumah Pendidikan akan berhenti menyimpan, menghapus dan/atau menganonim data Pengguna secepatnya apabila data Pengguna sudah tidak lagi diperlukan untuk memenuhi kebutuhan pengguna dalam menggunakan layanan-layanan aplikasi dan penyimpanan data tidak diperlukan lagi untuk kepentingan kepatuhan terhadap peraturan perundang-undangan yang berlaku.
+Pembaruan Kebijakan Privasi
+Rumah Pendidikan dapat sewaktu-waktu melakukan perubahan atau pembaruan terhadap Kebijakan Privasi ini. Rumah Pendidikan menyarankan agar Pengguna membaca secara seksama dan memeriksa halaman Kebijakan Privasi ini dari waktu ke waktu untuk mengetahui perubahan apa pun. Dengan tetap mengakses dan menggunakan layanan aplikasi Rumah Pendidikan, maka Pengguna dianggap menyetujui perubahan-perubahan dalam Kebijakan Privasi.
+
+Kementerian Pendidikan Dasar dan Menengah
+Kompleks Kementerian Pendidikan dan Kebudayaan, Senayan, Jakarta Pusat 10270
+

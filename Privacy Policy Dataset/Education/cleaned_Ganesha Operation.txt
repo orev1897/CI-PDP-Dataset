@@ -1,0 +1,61 @@
+﻿Kebijakan Privasi
+Dokumen ini adalah kebijakan privasi ("Kebijakan Privasi") untuk informasi yang dikumpulkan oleh Ganesha Operation ("GO") dan untuk https://ganeshaoperation.id ("Situs") dan turunannya serta aplikasi gawai. Situs ini dioperasikan oleh atau atas nama PT Pendidikan Ganesha Operation.
+Kebijakan Privasi ini menjelaskan:
+• Informasi apa yang kami kumpulkan dan mengapa kami kumpulkan. 
+• Bagaimana kami menggunakan informasi itu.
+• Pilihan yang kami tawarkan, termasuk cara mengakses dan memperbarui informasi. Kami telah mencoba untuk membuat kebijakan ini sesederhana mungkin tetapi jika Anda memiliki pertanyaan, silakan hubungi kami di humas@ganeshaoperation.id
+Informasi yang kami kumpulkan 
+Kami mengumpulkan informasi untuk memberikan layanan yang lebih baik kepada semua orang yang berurusan dengan kami.
+Kami mengumpulkan informasi dengan cara berikut: 
+• Informasi yang Anda berikan kepada kami. 
+Pada saat Anda mendaftar di situs kami, baik untuk menjadi anggota aktif (membeli produk), atau anggota tak aktif (hanya sebagai member saja), Anda akan diminta untuk memasukkan informasi pribadi seperti, dan tidak terbatas pada, nama, tanggal lahir, email, asal sekolah, nomor telepon. Informasi tentang Anda juga kami kumpulkan melalui offline pada saat mendaftar secara offline berupa, dan tidak terbatas pada, nama, alamat, nomor telepon, email, tanggal lahir, dsb., dan informasi tersebut Kami masukkan ke dalam sistem informasi kami. Situs ini termasuk bagian dari sistem informasi tersebut. 
+• Informasi yang kami dapatkan dari penggunaan Situs kami.
+Kami dapat mengumpulkan informasi tentang bagian-bagian Situs yang Anda gunakan dan bagaimana Anda menggunakannya. Informasi ini meliputi:
+o Informasi perangkat
+Kami dapat mengumpulkan informasi khusus perangkat (seperti model perangkat keras, versi sistem operasi, pengidentifikasi perangkat unik, informasi jaringan seluler termasuk nomor telepon, dan lain-lain).
+o Informasi log
+Log adalah catatan tentang peristiwa yang terjadi dalam sistem organisasi dan jaringan yang disimpan dalam server berupa dokumen. 
+Ketika Anda menggunakan Situs kami, kami dapat secara otomatis mengumpulkan dan menyimpan informasi dalam log server. Ini mungkin termasuk:
+ perincian tentang bagaimana Anda menggunakan Situs kami.
+ alamat protokol internet.
+ informasi kejadian pada perangkat, seperti macet, aktivitas sistem, pengaturan perangkat keras, jenis browser, bahasa browser, tanggal dan waktu permintaan Anda, dan URL rujukan.
+ cookie yang dapat mengidentifikasi browser Anda secara unik. Cookie adalah file kecil yang disimpan secara otomatis di perangkat pengguna untuk
+ menjalankan fungsi dalam menyimpan preferensi maupun konfigurasi pengguna selama mengunjungi situs kami.
+o Informasi lokasi
+Kami dapat mengumpulkan dan memroses informasi tentang lokasi Anda yang sebenarnya dan menggunakan berbagai teknologi untuk menentukan lokasi, termasuk alamat IP. 
+o Penyimpanan lokal
+Kami dapat mengumpulkan dan menyimpan informasi (termasuk informasi pribadi) secara lokal di perangkat Anda dengan menggunakan mekanisme seperti penyimpanan web browser dan cache data aplikasi. 
+o Cookie dan teknologi serupa
+Kami dapat menggunakan berbagai teknologi untuk mengumpulkan dan menyimpan informasi ketika Anda mengunjungi Situs kami, dan ini mungkin termasuk penggunaan cookie atau teknologi serupa untuk mengidentifikasi browser atau perangkat Anda. Anda dapat mengatur browser Anda untuk memblokir semua cookie, termasuk cookie yang terkait dengan Situs ini atau untuk menunjukkan bila cookie sedang diatur oleh kami. 
+Bagaimana kami menggunakan informasi yang kami kumpulkan
+Kami menggunakan informasi yang kami kumpulkan untuk:
+• menyelesaikan proses transaksi yang harus dilakukan oleh Anda atau oleh Kami sesuai kesepakatan pembelian produk/jasa kami sesuai aturan yang berlaku.
+• menjalankan kewajiban kami dalam menyediakan informasi, produk, dan jasa kepada anda dan juga penyediaan informasi terkait produk dan jasa lain yang kami tawarkan
+• mengelola platform dan operasi internal kami termasuk pemecahan masalah, analisis data, pengujian, penelitian serta tujuan-tujuan statistik dan survei lainnya termasuk memperbaiki platform kami sehingga konten dipastikan dapat disajikan dengan cara yang paling efektif
+• memungkinkan Anda berpartisipasi dalam fitur interaktif layanan kami
+Informasi yang kami bagikan
+• Kami tidak membagikan informasi pribadi kepada perusahaan, organisasi, dan individu di luar GO kecuali salah satu dari keadaan berikut ini berlaku:
+o Dengan persetujuan Anda
+Kami dapat membagikan informasi pribadi dengan perusahaan, organisasi atau individu di luar Ganesha Operation jika kami memiliki izin dari Anda untuk melakukannya. 
+• Untuk pemrosesan eksternal
+Kami dapat memberikan informasi pribadi kepada afiliasi kami atau bisnis atau orang terpercaya lainnya untuk memprosesnya untuk kami (atau untuk alasan serupa), berdasarkan instruksi kami dan sesuai dengan Kebijakan Privasi kami dan setiap langkah kerahasiaan dan keamanan yang sesuai lainnya. (Misalnya untuk pengurusan masalah pembayaran) 
+• Untuk alasan hukum
+Kami dapat membagikan informasi pribadi kepada pemerintah, perusahaan, organisasi, atau individu di luar GO jika kami memiliki keyakinan dengan itikad baik bahwa akses, penggunaan, pelestarian, atau pengungkapan informasi tersebut secara wajar diperlukan untuk:
+ memenuhi hukum, peraturan, proses hukum apa pun yang berlaku, atau permintaan pemerintah yang dapat ditegakkan.
+ menegakkan ketentuan layanan yang berlaku, termasuk penyelidikan potensi pelanggaran.
+ mendeteksi, mencegah atau mengatasi masalah penipuan, keamanan, atau teknis.
+ melindungi dari bahaya terhadap hak, properti, atau keselamatan GO, pengguna kami atau publik, sebagaimana disyaratkan atau diizinkan oleh hukum. 
+• Jika GO terlibat dalam merger, akuisisi, atau penjualan aset, data pribadi Anda termasuk bagian dari aset yang terlibat dalam merger, akuisisi, atau penjualan tersebut. 
+Hak akses
+Anda memiliki hak hukum untuk meminta informasi pribadi tentang Anda yang dipegang oleh kami. Berdasarkan permintaan, kami akan memberi Anda salinan informasi ini. Anda juga memiliki hak untuk mengoreksi, mengubah atau menghapus informasi pribadi yang tidak akurat. 
+Keamanan
+Keamanan Informasi Pribadi Anda penting bagi kami, tetapi tidak ada metode transmisi melalui Internet, atau metode penyimpanan elektronik, yang 100% aman. Meskipun kami berusaha untuk menggunakan sarana yang dapat diterima secara komersial untuk melindungi Informasi Pribadi Anda, kami tidak dapat menjamin keamanan mutlaknya. Oleh karena itu kami tidak bertanggungjawab terhadap pelanggaran keamanan atas tindakan pihak ke tiga yang dapat memperoleh dan menyalahgunakan informasi pribadi anda secara ilegal.
+Jika Anda memiliki alasan untuk percaya bahwa interaksi Anda dengan kami tidak lagi aman (misalnya, jika Anda merasa bahwa keamanan akun yang Anda miliki dengan kami telah terinterupsi), Anda harus segera memberitahu kepada kami tentang masalah tersebut dengan menghubungi kami dalam "Hubungi Kami," di bawah ini (mohon dicatat bahwa pemberitahuan melalui surat fisik akan menunda waktu yang dibutuhkan bagi kami untuk menanggapi masalah). 
+Perubahan Terhadap Kebijakan Privasi Ini
+Dengan menggunakan Situs, Anda menyetujui pengumpulan dan penggunaan informasi sesuai dengan kebijakan ini. Kebijakan Privasi ini berlaku sejak 2020 dan akan tetap berlaku kecuali sehubungan dengan setiap perubahan dalam ketentuannya di masa depan, yang akan berlaku segera setelah diposting di halaman ini.
+Kami berhak memperbarui atau mengubah Kebijakan Privasi kami kapan saja dan Anda harus memeriksa Kebijakan Privasi ini secara berkala. Penggunaan Anda yang berkelanjutan atas Layanan setelah kami memposting setiap modifikasi pada Kebijakan Privasi di halaman ini akan merupakan pengakuan Anda terhadap modifikasi dan persetujuan Anda untuk mematuhi dan terikat oleh Kebijakan Privasi yang dimodifikasi.
+Jika kami membuat perubahan materi pada Kebijakan Privasi ini, kami akan menempatkan pemberitahuan perubahan penting tersebut di situs web kami selama satu bulan. 
+Hubungi kami
+Jika Anda memiliki pertanyaan tentang Kebijakan Privasi ini, silakan hubungi kami.
+Email : bimbel@ganesha-operation.com
+Whatsapp : +62 811-2044-722 

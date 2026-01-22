@@ -1,0 +1,262 @@
+﻿Keamanan dan Privasi
+Pemberitahuan Privasi 
+Pernyataan Keamanan 
+
+A. Pendahuluan
+
+Pemberitahuan Privasi ini berlaku untuk data dan informasi pribadi yang dikelola oleh PT Bank Maybank Indonesia Tbk ("Bank") sejak tanggal 15 Oktober 2024, sesuai dengan syarat dan ketentuan pemrosesan Data Pribadi yang berlaku di Bank. 
+
+Bank memahami pentingnya pelindungan Data Pribadi yang diatur dalam Undang-Undang No. 27 Tahun 2022 tentang Pelindungan Data Pribadi beserta peraturan pelaksananya diundangkan dan yang diubah dari waktu ke waktu (untuk selanjutnya disebut sebagai "UU PDP") yang berlaku terhadap Bank. Oleh karena itu, Bank berkomitmen untuk melaksanakan ketentuan UU PDP dan peraturan terkait maupun pelaksananya demi menjaga kerahasiaan dan memastikan pelindungan Data Pribadi Anda sesuai dengan peraturan perundang-undangan yang berlaku. 
+
+Melalui Pemberitahuan Privasi ini, "Data Pribadi" berarti data tentang orang perseorangan yang teridentifikasi atau dapat diidentifikasi secara  tersendiri atau dikombinasi dengan informasi lainnya baik secara langsung maupun tidak langsung, yang dapat digunakan untuk mengidentifikasi, menghubungi atau melacak subjek Data Pribadi melalui sistem elektronik atau nonelektronik yang dimaksud dalam UU PDP, peraturan terkaitnya, serta Bagian C Pemberitahuan Privasi ini. Data Pribadi juga mencakup data perseorangan yang tercantum dalam kartu identitas yang dapat mengidentifikasi seorang pribadi (termasuk foto Anda), nomor telepon, alamat email, data keuangan pribadi (meliputi di antaranya, rincian rekening bank, kartu kredit, dan data transaksi), alamat email, serta tanggal dan tempat lahir Anda. 
+
+Pemberitahuan Privasi beserta perubahan-perubahannya dari waktu ke waktu ini ("Pemberitahuan Privasi") menjelaskan bagaimana Bank melakukan pemrosesan Data Pribadi yang meliputi perolehan, pengumpulan, pengolahan, penganalisisan, penyimpanan, perbaikan, pembaruan, penampilan, pengumuman, transfer, penyebarluasan, pengungkapan, penghapusan, dan/atau pemusnahan atas Data Pribadi Anda (untuk selanjutnya disebut sebagai "Pemrosesan Data Pribadi") melalui penggunaan layanan/produk perbankan Bank, penggunaan situs web dan/atau aplikasi, keikutsertaan program atau kegiatan promosi tertentu dari Bank dan/atau pihak ketiga yang bekerja sama maupun memiliki hubungan hukum dengan Bank ("Pihak Ketiga") baik secara dalam jaringan (daring) maupun luar jaringan (luring), serta melalui kegiatan, layanan, produk, dan fitur lainnya yang disediakan dalam situs web dan/atau aplikasi (apabila ada) (secara bersama-sama untuk selanjutnya disebut sebagai "Layanan").
+Pemberitahuan Privasi ini berlaku apabila anda:
+1. meminta informasi sehubungan dengan Layanan Bank;
+2. menjadi pengguna Layanan atau pelanggan Bank; dan/atau
+3. menjadi (i) mitra bisnis, kontraktor, agen, dan/atau pemasok Bank,dan/atau (ii) memiliki hubungan hukum dengan Bank untuk suatu tujuan tertentu, misalnya pelaksanaan tanggung jawab sosial dan lingkungan (corporate social responsibility). 
+
+(secara bersama-sama untuk selanjutnya disebut sebagai "Anda").
+
+Anda perlu membaca dan memahami Pemberitahuan Privasi ini secara menyeluruh agar Anda dapat mengetahui dan memahami praktik Pemrosesan Data Pribadi dan pelindungan yang Bank lakukan terhadap Data Pribadi Anda.
+B. Pernyataan dan Jaminan dari Anda sehubungan dengan Penyediaan Data Pribadi
+
+Anda menyatakan dan menjamin, bahwa:
+1. Anda telah membaca dan memahami setiap hal yang disampaikan dalam Pemberitahuan Privasi ini (termasuk Pemrosesan Data Pribadi yang Bank lakukan berdasarkan Pemberitahuan Privasi ini);
+2. Anda memberikan persetujuan atas keaslian, kelengkapan, dan keakuratan Data Pribadi yang Anda sampaikan kepada Bank; dan
+3. Anda memberikan persetujuan dan memahami bahwa Anda akan menerapkan prinsip pelindungan Data Pribadi sesuai dengan UU PDP jika dikemudian hari, satu dan karena lain hal, Pihak Ketiga termasuk Bank memberikan Data Pribadi kepada Anda. 
+Dalam kondisi tertentu, Anda dapat diminta untuk memberikan Data Pribadi dari orang lain (seperti Data Pribadi dari pasangan yang sah, anggota keluarga, maupun pihak lainnya) kepada Bank. 
+
+Apabila Anda memberikan Data Pribadi orang lain untuk dilakukan pemrosesan oleh Bank, maka Anda menyatakan dan menjamin bahwa Anda telah memperoleh persetujuan eksplisit secara sah dari perseorangan tersebut selaku subjek Data Pribadi, dan dengan ini, Anda memahami bahwa Bank mengandalkan pernyataan dan jaminan dari Anda untuk melaksanakan Pemrosesan Data Pribadi dari perseorangan/pihak yang bersangkutan. Anda bertanggung jawab sepenuhnya apabila Data Pribadi yang Anda sediakan, khususnya Data Pribadi dari perseorangan lain (termasuk data orang perorangan milik Pihak Ketiga yang diberikan Anda kepada Bank), didapatkan secara melawan hukum ataupun apabila ternyata pernyataan dan jaminan anda tidak benar. Bank dapat meminta bukti pemberian persetujuan dari orang lain yang Data Pribadinya Anda ungkapkan tersebut kepada Anda setiap saat apabila diperlukan.
+C. Jenis Data Pribadi Anda yang Dikumpulkan dan Tata Cara Pengumpulannya
+
+Jenis Data Pribadi Anda yang dikumpulkan bergantung pada tujuan Pemrosesan Data Pribadi yang hendak dicapai. Data Pribadi yang dikumpulkan dapat mencakup data-data sebagai berikut:
+1. Data identitas Anda termasuk nama lengkap, foto, tempat dan tanggal lahir, jenis kelamin, bentuk tanda tangan (basah dan/atau elektronik), data biometrik dan kartu identitas beserta Data Pribadi di dalamnya (seperti Nomor Induk Kependudukan (NIK) dan/atau nomor paspor), Nomor Pokok Wajib Pajak (NPWP atau Tax Identification Number).
+2. Data kontak termasuk alamat surat elektronik (email) dan nomor telepon rumah dan telepon selular.
+3. Data keuangan termasuk data terkait rekening bank dan/atau alat pembayaran yang digunakan dalam bertransaksi untuk penyediaan Layanan, data penilaian kredit (credit scoring), dan riwayat keuangan.
+4. Data perangkat termasuk data perangkat yang mencakup jenis/model perangkat yang Anda gunakan untuk mengakses Layanan, alamat protokol internet (IP) dan data lokasi geografis (geolocation, sebagaimana diperlukan untuk penyediaan Layanan), dan cookies (guna mempersonalisasi setiap informasi yang termasuk sebagai Data Pribadi yang digunakan untuk mengakses Layanan serta sebagaimana Anda dapat mengatur cookies Anda melalui pengaturan browser Anda tetapi pilihan ini dapat membatasi kecepatan/kualitas Layanan).
+5. Data pribadi lainnya sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
+6. Data Pihak Ketiga, termasuk data identitas Pihak Ketiga, data kontak Pihak Ketiga, data keuangan Pihak Ketiga, data perangkat Pihak Ketiga, Data Pribadi lainnya yang rinciannya sebagaimana disebutkan di atas yang diberikan atau diperoleh Bank dari Anda.
+Data Pribadi yang Bank proses diberikan oleh Anda secara langsung atau tidak langsung melalui Pihak Ketiga, antara lain melalui pengisian formulir, penyerahan dokumen elektronik maupun non-elektronik, pemindaian kode QR (quick response), mengunggah data melalui aplikasi maupun situs web, mengisi survei online, atau melalui media lainnya yang berkaitan dengan Layanan. Misalnya ketika Anda mendaftar untuk mengakses/mendapatkan dan/atau menggunakan Layanan (termasuk dalam hal Anda menghubungi Bank), ketika Anda menghadiri acara-acara yang Bank atau Pihak Ketiga selenggarakan baik secara dalam jaringan (daring) maupun luar jaringan (luring) (termasuk pada saat keikutsertaan Anda pada program promosi), mengikuti penggalangan dana (donasi), melalui rekaman video dari Closed-Circuit Television (CCTV) yang dikuasai/dikendalikan oleh Bank, serta melalui kegiatan, layanan, produk dan/atau fitur lainnya maupun bersumber dari Pihak Ketiga misalnya Pihak Ketiga terkait pelaksanaan proses uji tuntas (Due Diligence atau DD) maupun dalam konteks lain untuk mencapai tujuan Pemrosesan Data Pribadi (termasuk dari sumber data yang tersedia bagi umum atau disediakan oleh lembaga pemerintahan yang berwenang). 
+D. Pemrosesan Data Pribadi Anda
+
+Pemrosesan Data Pribadi yang dilakukan oleh Bank adalah sebagai berikut: 
+1. Pemerolehan dan pengumpulan
+Dalam rangka pemerolehan dan pengumpulan Data Pribadi, Bank akan:
+a. Menentukan dasar pemrosesan sebelum melakukan pemerolehan dan pengumpulan Data Pribadi; 
+b. Menentukan secara jelas tujuan dari pemerolehan dan pengumpulan Data Pribadi, dengan mempertimbangkan kepentingan subjek Data Pribadi; 
+c. Membatasi besaran Data Pribadi yang dikumpulkan berdasarkan tujuan yang telah ditentukan;
+d. Menentukan mekanisme yang aman dalam pemerolehan dan pengumpulan Data Pribadi; 
+e. Memberikan informasi terkait tujuan pemrosesan sebelum dilakukan pemerolehan dan pengumpulan Data Pribadi; dan 
+f. Menerapkan prinsip-prinsip pemrosesan Data Pribadi dalam hal pemerolehan dan pengumpulan Data Pribadi sesuai ketentuan peraturan perundang-undangan.
+2. Pengolahan dan penganalisisan
+Dalam rangka pengolahan dan penganalisisan Data Pribadi, Bank akan: 
+a. Menentukan mekanisme dan/atau standar penerapan kualitas data untuk memastikan bahwa Data Pribadi yang diolah dan dianalisis telah akurat dan lengkap; 
+b. Memberikan informasi kepada subjek Data Pribadi jika terdapat pengolahan dan penganalisisan Data Pribadi di luar atau sebagai tambahan tujuan dari tujuan awal pengolahan dan penganalisisan Data Pribadi; 
+c. Melakukan penilaian dampak Pelindungan Data Pribadi untuk pengolahan dan penganalisisan Data Pribadi yang memiliki potensi risiko tinggi terhadap subjek Data Pribadi;
+d. Memfasilitasi hak subjek Data Pribadi untuk mengajukan keberatan atas tindakan pengambilan keputusan yang hanya didasarkan pada pemrosesan secara otomatis; dan 
+e. Menerapkan prinsip-prinsip pemrosesan Data Pribadi dalam hal pengolahan dan penganalisisan Data Pribadi sesuai dengan ketentuan peraturan perundang-undangan.
+3. Penyimpanan
+Dalam rangka penyimpanan Data Pribadi, Bank akan:
+a. Menentukan dan menerapkan pengendalian keamanan Data Pribadi yang disimpan baik secara fisik maupun elektronik;
+b. Menetapkan dan menerapkan mekanisme retensi Data Pribadi;
+c. Menentukan masa retensi Data Pribadi sesuai dengan ketentuan peraturan perundang-undangan;
+d. Menerapkan pencegahan kegagalan Pelindungan Data Pribadi dalam hal penyimpanan Data Pribadi dengan:
+1. Menerapkan enkripsi dan/atau penyamaran data;
+2. Membuat salinan cadangan terhadap Data Pribadi; dan
+3. Melakukan enkripsi dan/atau penyamaran data terhadap salinan cadangan Data Pribadi; 
+e. Membatasi pihak-pihak yang dapat mengakses Data Pribadi; 
+f. Mengetahui, mencatat dan/atau mendokumentasikan lokasi penyimpanan, dan media penyimpanan Data Pribadi; dan 
+g. Menerapkan prinsip-prinsip pemrosesan Data Pribadi dalam hal penyimpanan Data Pribadi sesuai dengan ketentuan peraturan perundang-undangan.
+4. Perbaikan dan pembaruan
+Dalam rangka perbaikan dan pembaruan Data Pribadi, Bank akan:
+a. Memfasilitasi subjek Data Pribadi untuk melengkapi, memperbarui, dan/atau memperbaiki kesalahan dan/atau ketidakakuratan Data Pribadi; 
+b. Melakukan verifikasi Data Pribadi dari subjek Data Pribadi; dan 
+c. Menerapkan prinsip-prinsip pemrosesan Data Pribadi dalam hal perbaikan dan pembaruan Data Pribadi sesuai dengan ketentuan peraturan perundang-undangan
+5. Penampilan, pengumuman, transfer, penyebarluasan, atau pengungkapan
+Dalam rangka penampilan, pengumuman, transfer, penyebarluasan, atau pengungkapan Data Pribadi, Bank akan:
+a. Memiliki dasar pemrosesan Data Pribadi sebelum menampilkan, mengumumkan, mentransfer, menyebarluaskan atau mengungkap Data Pribadi, kecuali ditentukan lain oleh peraturan perundang-undangan; 
+b. Mematuhi kriteria transfer Data Pribadi ke luar wilayah hukum Negara Republik Indonesia sebagaimana diatur dalam ketentuan peraturan perundang-undangan; 
+c. Menerapkan pengendalian keamanan Data Pribadi sesuai dengan ketentuan peraturan perundang-undangan; 
+d. Membatasi pengungkapan Data Pribadi sesuai tujuan pemrosesan yang telah ditentukan dan disetujui oleh subjek Data Pribadi, serta tidak bertentangan dengan peraturan perundang-undangan; dan 
+e. Menerapkan prinsip-prinsip pemrosesan Data Pribadi dalam hal penampilan, pengumuman, transfer, penyebarluasan, atau pengungkapan Data Pribadi sesuai dengan ketentuan peraturan perundang-undangan.
+6. Penghapusan atau pemusnahan
+Dalam rangka penghapusan atau pemusnahan Data Pribadi, Bank akan: 
+a. Menghapus atau memusnahkan Data Pribadi kecuali dalam masa retensi sesuai dengan kebutuhan berdasarkan ketentuan peraturan perundang-undangan; 
+b. Menerapkan mekanisme penghapusan atau pemusnahan Data Pribadi yang aman; 
+c. Memfasilitasi pemenuhan hak subjek Data Pribadi untuk melakukan penghapusan data, sepanjang tidak bertentangan dengan ketentuan peraturan perundang-undangan; 
+d. Melakukan tindakan dalam permintaan subjek Data Pribadi untuk menghapus Data Pribadi valid/sah dan tidak bertentangan dengan ketentuan peraturan perundang-undangan, dengan:
+1. Melakukan penghapusan atau pemusnahan Data Pribadi sesuai dengan ketentuan peraturan perundang-undangan; 
+2. Melakukan penghapusan atau pemusnahan Data Pribadi di semua lokasi penyimpanan Data Pribadi; 
+3. Menyimpan bukti penghapusan atau pemusnahan Data Pribadi dalam bentuk berita acara penghapusan; dan 
+4. Menyampaikan bukti penghapusan atau pemusnahan Data Pribadi kepada subjek Data Pribadi; dan
+e. Menerapkan prinsip-prinsip pemrosesan Data Pribadi dalam hal penghapusan atau pemusnahan Data Pribadi sesuai ketentuan peraturan perundang-undangan.
+E. Tujuan Pemrosesan Data Pribadi 
+
+Berdasarkan persetujuan yang sah secara eksplisit dari Anda, Bank dapat bertindak selaku pengendali Data Pribadi untuk memproses Data Pribadi Anda dimana tujuan dari pelaksanaan Pemrosesan Data Pribadi Anda adalah antara lain:
+1. Menyediakan dan memproses Layanan yang Anda pilih atau miliki yang meliputi:
+a. Penyediaan Layanan dan informasi mengenai Layanan (termasuk perubahan terkaitnya dari waktu ke waktu);
+b. Pelaksanaan ketentuan peraturan perundang-undangan, termasuk penerapan prinsip Uji Tuntas Nasabah (Customer Due Diligence (CDD)) penerapan Program Anti Pencucian Uang, Pencegahan Terorisme, Pencegahan Pendanaan Proliferasi Senjata Pemusnah Massal, serta Kebijakan Anti Suap dan Korupsi sehubungan dengan penyediaan Layanan kepada Anda;
+c. Menanggapi dan menyelesaikan permintaan dari Anda sehubungan dengan penyediaan Layanan; 
+d. Melakukan modifikasi, meningkatkan, dan/atau mengembangkan Layanan, termasuk pembaruan dan/atau penyesuaian pada aplikasi/sistem terkait Layanan; dan/atau
+e. Memenuhi kebutuhan lainnya sebagaimana diperlukan sepanjang berkaitan dengan penyediaan/pemrosesan Layanan kepada Anda.
+2. Melaksanakan dan meningkatkan kegiatan operasional, serta memenuhi ketentuan peraturan perundang-undangan yang berlaku yang meliputi:
+a. Melakukan survei, penelitian dan studi terkait penyediaan Layanan, termasuk menghasilkan data analitik yang dihasilkan melalui analisis data dan/atau pola penggunaan untuk tujuan penelitian, analisis, pengujian, pengembangan produk, dan kerja sama dengan Pihak Ketiga;
+b. Melakukan penagihan pembayaran atas penyediaan Layanan;
+c. Melakukan kegiatan sehubungan dengan akuntansi, audit, perpajakan, dan rekonsiliasi terkait penyediaan Layanan, serta proses administrasi internal;
+d. Melaksanakan kewajiban berdasarkan perjanjian kepada Anda dan/atau kepada Pihak Ketiga terkait (termasuk namun tidak terbatas pada vendor dan mitra);  
+e. Mencegah, mendeteksi, menyelidiki segala transaksi yang mencurigakan, tindak pidana, atau kegiatan yang dilarang termasuk berdasarkan peraturan perundang-undangan yang berlaku;
+f. Berkomunikasi dengan Anda melalui berbagai media, termasuk untuk menanggapi pertanyaan, komentar, atau pengaduan;
+g. Memproses partisipasi Anda dalam setiap kegiatan produksi, kontes, permainan, promosi, jajak pendapat maupun survei;
+h. Melakukan kegiatan internal lainnya yang diperlukan untuk menyediakan Layanan, seperti pemecahan masalah software, bug, permasalahan operasional, melakukan analisis data, pengujian, dan penelitian, dan untuk memantau dan menganalisis kecenderungan penggunaan dan aktivitas; 
+i. Memenuhi permintaan sehubungan dengan penegakan hukum dan melindungi hak Bank dan/atau Anda; dan/atau
+j. Memenuhi kebutuhan lainnya sebagaimana diperlukan dalam pemberian Layanan sepanjang berkaitan dengan pelaksanaan/peningkatan kegiatan operasional serta memenuhi ketentuan peraturan perundang-undangan yang berlaku.
+3. Penawaran Produk dan Promosi yang meliputi pada penawaran Layanan, produk, kompetisi, pengundian hadiah, acara (event), maupun bentuk promosi lainnya yang dipahami sesuai dengan kebutuhan dan profil Anda. Bank dapat menyampaikan penawaran atas produk/jasa milik atau yang disediakan oleh Bank dan/atau Pihak Ketiga), melalui berbagai media dan/atau cara, baik secara lisan maupun tulisan, termasuk melalui push notification, media sosial, aplikasi pesan instan (misalnya WhatsApp), SMS, panggilan telepon, email, brosur, maupun media elektronik dan non-elektronik lainnya yang relevan sesuai dengan ketentuan yang berlaku ("Penawaran Lainnya").
+4. Bank dapat melakukan Pemrosesan Data Pribadi apabila Bank melaksanakan aksi korporasi dan/atau transaksi lainnya, termasuk namun tidak terbatas pada penggabungan, pemisahan, pengambilalihan, peleburan, restrukturisasi dan/atau kegiatan lain yang melibatkan pengalihan hak kekayaan intelektual, sebagaimana melibatkan Pemrosesan Data Pribadi.
+5. Bank dapat melakukan Pemrosesan Data Pribadi apabila diinstruksikan atau disyaratkan oleh lembaga pemerintah yang berwenang, untuk tujuan sebagaimana disebutkan maupun diatur berdasarkan peraturan perundang-undangan yang berlaku.
+F. Dasar Pemrosesan Data Pribadi Anda
+
+Setiap pemrosesan Data Pribadi yang Bank laksanakan dilakukan dengan dasar pemrosesan yang sesuai dengan tujuan daripada diprosesnya Data Pribadi tersebut. Dasar Pemrosesan yang Bank gunakan untuk melakukan pemrosesan terhadap Data Pribadi Anda adalah sebagai berikut:
+1. Persetujuan yang sah secara eksplisit dari Anda terhadap Pemberitahuan Privasi ini;
+2. Pemenuhan kewajiban perjanjian untuk menyediakan Layanan kepada Anda maupun untuk kebutuhan lainnya sesuai ketentuan Pemberitahuan Privasi ini; 
+3. Pemenuhan kewajiban hukum berdasarkan peraturan perundang-undangan; 
+4. Melaksanakan kewajiban dan mempertimbangkan kebutuhan bisnis atas dasar pemenuhan kepentingan yang sah lainnya (legitimate interest) dengan tetap memperhatikan tujuan, kebutuhan, dan keseimbangan kepentingan Bank selaku pengendali Data Pribadi dan hak Anda selaku subjek Data Pribadi; dan/atau
+5. Dasar Pemrosesan Data Pribadi lainnya sesuai ketentuan peraturan perundang-undangan yang berlaku.
+G. Pemrosesan Data Pribadi Anda oleh Pihak Ketiga
+Bank dapat membagikan/mengungkapkan Data Pribadi Anda kepada Pihak Ketiga untuk pelaksanaan Pemrosesan Data Pribadi lebih lanjut sesuai dengan tujuan dan dasar Pemrosesan Data Pribadi yang Bank gunakan. 
+Anda dengan ini memahami bahwa pemrosesan yang Bank lakukan mungkin saja dilaksanakan oleh Pihak Ketiga, sesuai dengan instruksi pemrosesan yang Bank berikan. Pemrosesan yang dilakukan oleh Pihak Ketiga atas nama Bank dilakukan untuk tujuan yang sesuai dengan dasar pemrosesan atau persetujuan yang Anda berikan, misalnya dalam rangka pemberian layanan perbankan yang anda pilih, penyampaian informasi, dan layanan lainnya yang mungkin berlaku.
+H. Penyimpanan, Penghapusan dan Keamanan Data Pribadi
+1. Anda dengan ini memberikan persetujuan secara tegas kepada Bank bahwa Bank dapat mengirimkan, menyimpan, menggunakan dan mengolah Data Pribadi Anda pada server yang terletak di pusat data yang ditunjuk oleh Bank. Pusat data tersebut dapat dikelola oleh Pihak Ketiga sesuai dengan ketentuan peraturan perundang-undangan yang berlaku. Meskipun demikian, Pemrosesan Data Pribadi Anda sehubungan dengan penggunaan Layanan akan terus diatur oleh Pemberitahuan Privasi ini sesuai dengan peraturan perundangan-undangan yang berlaku. 
+2. Setelah Data Pribadi Anda tidak lagi diperlukan untuk penyediaan Layanan atau tujuan Pemrosesan Data Pribadi sebagaimana diuraikan pada Pemberitahuan Privasi ini, maka Bank akan mengambil langkah-langkah yang Bank pahami diperlukan antara lain untuk menghapus, memusnahkan, menganonimkan, dan/atau mencegah akses atau Pemrosesan Data Pribadi Anda tersebut untuk tujuan apa pun selain dengan yang diatur berdasarkan Pemberitahuan Privasi ini.
+3. Di samping itu, sebagian Data Pribadi Anda mungkin masih disimpan atau dikuasai oleh Pihak Ketiga, termasuk lembaga pemerintahan, untuk tujuan Pemrosesan Data Pribadi yang tercantum dalam Pemberitahuan Privasi ini. Dalam hal Bank mengungkapkan Data Pribadi Anda kepada lembaga pemerintahan yang berwenang dan/atau institusi lainnya, maka Anda menyatakan, mengakui, dan memahami, bahwa penyimpanan Data Pribadi Anda oleh lembaga tersebut akan tunduk pada kebijakan penyimpanan/retensi Data Pribadi yang berlaku yang mengecualikan sebagian hak Anda selaku subjek Data sesuai ketentuan peraturan perundang-undangan yang berlaku. 
+4. Bank berusaha untuk memelihara pengamanan fisik, teknis dan prosedural yang sesuai untuk melindungi Data Pribadi Anda dari kehilangan, penyalahgunaan, penyalinan, kerusakan atau modifikasi dan akses atau pengungkapan yang tidak sah atau melawan hukum, hilang maupun mengalami kerusakan. 
+5. Lebih lanjut, walaupun Bank telah mengambil langkah-langkah yang menurut Bank terbaik dan optimal untuk melindungi Data Pribadi Anda (>termasuk menggunakan metode pengamanan dan teknologi yang disediakan oleh internal Bank maupun dari Pihak Ketiga yang dapat membantu mengamankan Data Pribadi yang diberikan oleh Anda), Bank tidak dapat memberikan jaminan sepenuhnya bahwa keamanan Data Pribadi yang Anda kirimkan akan aman sepenuhnya, namun Bank akan senantiasa berusaha dengan upaya terbaik untuk melindungi dan menjaga keamanan Data Pribadi Anda termasuk turut bertanggung jawab atas aktivitas pihak ketiga yang bekerja sama dengan Bank. 
+6. Apabila diperlukan, Anda dapat mengakses informasi lebih lanjut terkait upaya Bank untuk menjaga keamanan Data Pribadi Anda dengan menghubungi Bank melalui saluran/kontak yang tercantum pada Bagian K Pemberitahuan Privasi ini.
+I. Transfer Data Pribadi Lintas Batas
+Apabila Anda menggunakan maupun mengakses situs web, aplikasi dan/atau sistem terkait Layanan di negara lain (di luar Negara Republik Indonesia) dimana situs web, aplikasi dan/atau sistem Bank dapat diakses ("Negara Tujuan"), Bank dapat mentransfer Data Pribadi Anda dari negara asal ("Negara Asal") ke Negara Tujuan agar Anda dapat mengakses situs web, aplikasi dan/atau sistem Bank di luar Negara Republik Indonesia. Anda dengan ini memahami dan menyetujui transfer Data Pribadi Anda keluar dari negara asal Anda dan/atau Negara Asal sebagaimana dijelaskan dalam Pemberitahuan Privasi ini.
+Lebih lanjut, Bank juga dapat melakukan transfer atas Data Pribadi Anda ke luar wilayah hukum Negara Republik Indonesia yang apabila diperlukan rinciannya dapat Bank informasikan kepada Anda. 
+Bank akan mematuhi peraturan perundang-undangan terkait yang berlaku dan menggunakan upaya terbaik Bank untuk menyediakan tingkat pelindungan yang setara dengan yang berlaku di Negara Republik Indonesia dan sesuai yang diatur juga dalam Pemberitahuan Privasi ini, termasuk dengan menggunakan standar klausul kontrak pelindungan Data Pribadi terkait dengan transfer Data Pribadi secara lintas batas apabila relevan dan dibutuhkan.
+J. Hak Anda selaku Subjek Data Pribadi
+
+Anda selaku subjek Data Pribadi memiliki hak-hak yang diatur berdasarkan peraturan perundang-undangan yang berlaku terkait pelindungan Data Pribadi dan Bank senantiasa berkomitmen agar Anda dapat melaksanakan hak-hak Anda sehubungan dengan Pemrosesan Data Pribadi, dengan tunduk pada peraturan perundang-undangan yang berlaku (termasuk pembatasan dan pengecualiannya), sebagaimana berikut:
+1. Hak untuk mendapatkan informasi;
+2. Hak untuk memperoleh akses dan/atau salinan Data Pribadi;
+3. Hak untuk melengkapi, memperbarui, dan/atau memperbaiki kesalahan dan/atau ketidakakuratan Data Pribadi;
+4. Hak untuk mengakhiri Pemrosesan Data Pribadi;
+5. Hak untuk menghapus Data Pribadi;
+6. Hak portabilitas atau hak untuk mendapatkan dan/atau menggunakan Data Pribadi tentang diri Anda dari Bank selaku pengendali Data Pribadi dalam bentuk yang sesuai dengan struktur dan/atau format yang lazim digunakan atau dapat dibaca oleh sistem elektronik;
+7. Hak interoperabilitas atau hak untuk menggunakan dan mengirimkan Data Pribadi tentang diri Anda ke Bank selaku pengendali Data Pribadi lainnya;
+8. Hak untuk menarik kembali persetujuan Pemrosesan Data Pribadi;
+9. Hak untuk menunda atau membatasi Pemrosesan Data Pribadi secara proporsional; dan
+10. Hak untuk menggugat dan menerima ganti rugi apabila terjadi pelanggaran Pemrosesan Data Pribadi berdasarkan kesalahan maupun kelalaian Bank yang secara langsung merugikan Anda
+
+Apabila Anda hendak mengajukan permintaan untuk melaksanakan hak-hak Anda sebagaimana tertera di atas, Anda diperkenankan untuk menyampaikannya melalui saluran/kontak yang tercantum pada Bagian K Pemberitahuan Privasi ini.
+
+Bank akan melakukan proses verifikasi dan penyaringan terhadap semua permintaan Anda untuk melaksanakan hak Anda selaku subjek Data Pribadi, dan akan merespon anda dalam waktu 3 x 24 jam terhitung sejak Bank menerima permintaan Anda. Guna melakukan hal tersebut terhadap wewenang Anda untuk mengajukan permintaan, Bank akan meminta Anda untuk memberikan informasi atau dokumentasi pendukung untuk menguatkan permintaan tersebut. Setelah terverifikasi, maka Bank akan menginformasikan Anda terkait dengan konsekuensi untuk pelaksanaan hak Anda. Setelah mendapatkan persetujuan Anda atas konsekuensi tersebut, Bank akan memberlakukan permintaan Anda dalam batas waktu yang ditentukan oleh peraturan perundang-undangan yang berlaku.
+
+Namun demikian, berdasarkan peraturan perundang-undangan yang berlaku dan dalam kondisi tertentu, Bank berhak menolak permintaan Anda untuk melaksanakan hak Anda selaku Subjek Data Pribadi, (termasuk hak Anda untuk meminta penghapusan atau pemusnahan Data Pribadi yang dikuasai Bank), sepanjang tidak ada larangan atau pembatasan menurut ketentuan hukum yang berlaku termasuk namun tidak terbatas jika penghapusan atau pemusnahan tersebut berdampak kepada: 
+k. Kepentingan pertahanan dan keamanan nasional;
+l. Kepentingan proses penegakan hukum;
+m. Kepentingan umum dalam rangka penyelenggaraan negara;
+n. Kepentingan pengawasan sektor jasa keuangan, kepentingan pengawasan sektor jasa keuangan, moneter, sistem pembayaran, dan stabilitas sistem keuangan yang dilakukan dalam rangka penyelenggaraan negara;
+o. Kepentingan statistik dan penelitian ilmiah;
+p. Keperluan untuk melaksanakan ketentuan peraturan perundang-undangan yang berlaku, misalnya terkait penerapan proses Customer Due Diligence (CDD) dan/atau mencegah terjadinya tindak pidana;
+q. Alasan permintaan tidak relevan bagi kegiatan Pemrosesan Data Pribadi yang Bank laksanakan maupun bagi Anda selaku subjek Data Pribadi;
+r. Membahayakan keamanan, kesehatan fisik, atau kesehatan mental subjek Data Pribadi dan/atau orang lain; dan/atau
+s. Berdampak pada pengungkapan Data Pribadi milik orang lain.
+
+Tanpa mengesampingkan larangan atau pembatasan menurut ketentuan hukum yang berlaku, Bank juga  berhak menolak permintaan Anda untuk melaksanakan hak Anda selaku Subjek Data Pribadi, jika Anda masih memiliki hak dan kewajiban dengan Bank, mitra/agen Bank atau Pihak Ketiga. 
+
+Bank mungkin dapat membebankan biaya administrasi untuk setiap permintaan Anda guna melaksanakan hak Anda selaku subjek Data Pribadi sepanjang diizinkan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
+K. Kontak Bank
+
+Apabila Anda memiliki pertanyaan maupun pengaduan sehubungan dengan Pemberitahuan Privasi serta kegiatan Pemrosesan Data Pribadi yang Bank lakukan, termasuk apabila Anda bermaksud menggunakan hak Anda selaku subjek Data Pribadi, Anda dapat mengunjungi salah satu kantor cabang Bank atau pun mendapatkan informasi dari representasi Bank yang bekerja sama dengan Anda atau pun melalui Maybank Customer Care di 1500611 (akses lokal) atau +622178869811 (dari luar negeri), atau melalui email customercare@maybank.co.id
+L. Bahasa
+
+Pemberitahuan Privasi ini dapat diterjemahkan ke dalam bahasa selain Bahasa Indonesia. Jika terdapat ketidaksesuaian antara versi Bahasa Indonesia dari Pemberitahuan Privasi ini dengan versi bahasa lainnya, maka versi Bahasa Indonesia yang akan berlaku.
+M. Hukum yang Berlaku
+
+Pemberitahuan Privasi ini diatur berdasarkan hukum Negara Republik Indonesia
+N. Perubahan atau Pembaruan terhadap Pemberitahuan Privasi
+Bank dapat mengubah, melengkapi, dan/atau mengganti Pemberitahuan Privasi ini dari waktu ke waktu (dengan pemberitahuan kepada Anda) untuk memastikan bahwa Pemberitahuan Privasi ini sejalan dengan prosedur dan praktik yang dijalankan oleh Bank dalam melakukan Pemrosesan Data Pribadi, termasuk untuk mematuhi ketentuan peraturan perundang-undangan yang berlaku. 
+Anda dapat mengakses Pemberitahuan Privasi ini secara berkala pada situs web dan/atau aplikasi . 
+PT Bank Maybank Indonesia Tbk berizin dan diawasi oleh Otoritas Jasa Keuangan & Bank Indonesia dan merupakan peserta Lembaga Penjamin Simpanan.
+Pernyataan Keamanan
+
+Standar keamanan yang kami terapkan - dan apa yang dapat Anda lakukan untuk tetap aman saat online
+PT Bank Maybank Indonesia Tbk (selanjutnya disebut "Maybank") berkomitmen tinggi untuk memastikan bahwa semua transaksi yang dilakukan melalui layanan keuangan online kami aman, aman dan rahasia. Untuk tujuan ini, kami menerapkan sistem kontrol perlindungan privasi yang dirancang untuk memastikan standar keamanan dan kerahasiaan tertinggi.
+Nama pengguna dan kata sandi
+* Perlindungan Informasi
+* Kerahasiaan Data dan Integritas Data
+* Keamanan dan Pemantauan Sistem
+* Perlindungan Virus Komputer
+* Memperbarui Peramban Anda
+* Tip Keamanan
+
+Nama Pengguna (User Name) dan Kata Sandi (Password)
+Untuk mencegah akses tidak sah ke layanan keuangan online kami, setiap pelanggan diharuskan memilih nama pengguna dan kata sandi alfanumerik, yang menyediakan akses ke informasi keuangan mereka. Nama pengguna harus antara 6 hingga 20 karakter dan kata sandi alfanumerik antara 8 hingga 20 karakter. Kata sandi harus menyertakan huruf dan angka, dengan karakter khusus # $ & dan spasi sebagai pengecualian.
+Nama pengguna dan kata sandi alfanumerik peka terhadap huruf besar-kecil. Misalnya, jika kata sandi Anda adalah "fuNNySAD2B" dan Anda memasukkan "fuNNySAD2b", Anda tidak akan dapat masuk ("b" harus huruf besar).
+Berikut adalah beberapa tips untuk memastikan integritas nama pengguna dan kata sandi Anda:
+* Jangan memilih kata sandi yang mudah ditebak orang lain.
+* Jangan menggunakan kata-kata sederhana, nama Anda, tanggal lahir, nomor telepon atau nama-nama yang tercantum dalam kamus standar.
+* Hafalkan kata sandi Anda dan jangan ditulis.
+* Kata sandi atau PIN harus digunakan saat mengakses akun online untuk melindungi informasi pribadi Anda.
+* Berbagi kata sandi atau PIN Anda dengan orang lain sama dengan memberikan otoritas kepada individu tersebut untuk menggunakan nama Anda dalam suatu transaksi. Itu tidak boleh diungkapkan bahkan jika diminta oleh Petugas Maybank yang berwenang.
+* Ubah kata sandi Anda sesering mungkin.
+Perlindungan Informasi
+Meskipun kami berusaha keras untuk memastikan pengalaman online yang aman dan terjamin, kami tidak memiliki kendali atas perangkat yang Anda gunakan untuk mengakses Maybank2u ID. Sebagai fitur keamanan tambahan, kami telah memasukkan fungsi logout otomatis jika tidak ada aktivitas yang terdeteksi setelah batas waktu yang telah ditentukan.
+Namun, Anda harus memastikan bahwa Anda tidak memberikan kesempatan kepada siapa pun untuk mendapatkan akses ke informasi akun Anda:
+* Pastikan tidak ada yang memiliki akses ke perangkat Anda atau merekam aktivitas online Anda.
+* Selalu log out Maybank2u ID segera setelah menyelesaikan transaksi.
+* Jangan mengirimkan informasi apapun tentang akun Anda melalui email.
+* Nonaktifkan fungsi AutoComplete pada perangkat Anda untuk menghindari penyelesaian otomatis ID Anda saat Anda mengetik User ID.
+ 
+Kerahasiaan Data dan Integritas Data
+Sertifikat SSL menawarkan kepercayaan dan otentikasi ke situs web Anda.
+Keamanan dan pemantauan sistem
+Maybank telah mengadopsi kombinasi keamanan sistem dan langkah-langkah pemantauan berikut untuk transaksi online:
+* Sistem firewall, enkripsi data yang kuat, perlindungan anti-virus, dan sistem pengawasan keamanan 24 jam untuk mendeteksi dan mencegah segala bentuk aktivitas tidak sah pada sistem jaringan kami.
+* Tinjauan keamanan sistem kami secara berkala oleh Auditor Sistem Internal kami serta pakar keamanan eksternal.
+* Bila Anda memiliki broadband yang terhubung ke Internet (koneksi selalu aktif), pertimbangkan untuk memasang firewall pribadi. Minimal, matikan PC Anda saat tidak digunakan.
+* Kami juga melakukan segala upaya untuk memastikan kolaborasi dengan vendor/produsen besar untuk mengikuti perkembangan teknologi keamanan informasi, untuk kemungkinan implementasi dan masa depan.
+Perlindungan Virus Komputer
+Virus komputer adalah nyata dan setelah komputer Anda terinfeksi, Anda dapat menghabiskan waktu, kehilangan informasi, biaya perbaikan, dan kejengkelan. Pastikan computer/perangkat Anda memiliki program perlindungan anti-virus yang diinstal untuk mengurangi risiko.
+Kami menyarankan Anda membeli program yang secara otomatis meningkatkan perlindungan virus Anda secara berulang. Jika saat ini Anda memiliki program perlindungan virus di komputer Anda tanpa fitur pemutakhiran otomatis, pastikan Anda memperbarui program pendeteksi virus setidaknya setiap bulan dan/atau ketika Anda mendengar adanya virus baru untuk meminimalkan risiko Anda. Anda dapat melakukan ini dengan mengunjungi situs Internet perusahaan yang menyediakan perangkat lunak Anda.
+Selain itu, kami menyarankan Anda untuk tidak membuka lampiran dari orang lain kecuali Anda benar-benar yakin dapat memercayai sumbernya. Namun, sebaiknya berhati-hati. Siapa pun yang mengirimi Anda lampiran itu mungkin tidak tahu bahwa mereka telah membawa virus itu kepada Anda.
+ 
+Memperbarui aplikasi/browser Anda
+* Selalu perbarui aplikasi/browser Anda saat versi baru dirilis karena sering kali menyertakan fitur keamanan baru.
+* Periksa aplikasi/browser Anda untuk fitur keamanan bawaan yang mungkin atau mungkin tidak Anda pilih untuk digunakan.
+* Jangan memasang ekstensi atau plugin yang tidak perlu ke browser web.
+* Hapus semua cache, cookie, dan file sementara secara teratur dari riwayat aplikasi/browser.
+* Merupakan praktik yang baik untuk selalu memeriksa sertifikat situs sebelum login.
+Tips Keamanan
+Lindungi Diri Anda dan Informasi Anda Secara Online.
+10 cara mudah untuk melindungi diri sendiri:
+* Jangan membagikan kata sandi (password) Anda dengan teman, kerabat, atau siapa pun. Kata sandi (password) dan PIN Anda dirancang untuk melindungi privasi informasi perbankan Anda. Mereka hanya akan berfungsi jika Anda merahasiakannya.
+* Ubah kata sandi (password) Anda sesering mungkin. Jika Anda merasa kata sandi (password) Anda telah disusupi, hubungi kami untuk mengatur ulang kata sandi Anda (password).
+* Jangan gunakan fungsi "Ingat kata sandi (password)" karena informasi ini dapat dengan mudah diakses oleh peretas.
+* Jangan mengirimkan informasi apapun tentang akun Anda melalui email.
+* Jangan memberikan detail akun atau kata sandi (password) Anda sebagai tanggapan atas email atau telepon. Seorang petugas bank tidak akan pernah meminta informasi ini.
+* Jangan membuka lampiran email yang mencurigakan.
+* Hindari mengunduh program gratis. Ini mungkin menggabungkan perangkat lunak yang ramah peretas.
+* Selalu log out dari Maybank2u ID segera setelah menyelesaikan transaksi.
+* Kosongkan cache Anda (informasi yang tersimpan di memori komputer Anda) setiap kali Anda logout.
+ 
+Jika Anda memiliki pertanyaan tentang email apa pun dari Maybank atau curiga bahwa seseorang mungkin mencoba mendapatkan PIN atau informasi akun Anda dengan alasan yang tidak benar, segera hubungi Call Center 1500611 kami.
+* 
+* Maybank Indonesia | Kemudahan Transaksi Finansial di Ujung Jari Anda
+* Keamanan dan Privasi
+DIGITAL SOLUTIONS 
+360 Digital Wealth
+M2U ID App
+M2U ID Web
+Maybank ATM
+Fitur M2U ID
+Promosi
+Hello M2U
+Panduan Transaksi
+Limit dan Biaya Transaksi 
+Syarat dan Ketentuan
+Keamanan dan Privasi M2U
+FAQ

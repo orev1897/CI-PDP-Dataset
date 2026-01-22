@@ -1,0 +1,403 @@
+﻿* Terms and Policies 
+* Privacy Notice 
+Pemberitahuan Privasi
+Tanggal Efektif: 8 Oktober 2025
+Pemberitahuan Privasi dan Tambahannya ("Pemberitahuan Privasi") ini menjelaskan cara Grab Holdings Limited dan anak perusahaan, afiliasi, perusahaan terkait, dan entitas yang dikendalikan bersama ("Grup dan Rekanan Grab", "Grab" atau "kami") menangani Data Pribadi Anda (sebagaimana didefinisikan dalam undang-undang privasi data yang berlaku) saat Anda menggunakan Platform kami (termasuk aplikasi seluler, situs web, perangkat lunak, atau portal) yang kami miliki atau operasikan sehubungan dengan penyediaan layanan, produk, dan solusi kami ("Layanan").
+Pemberitahuan ini berlaku untuk konsumen, agen, vendor, pemasok, mitra (pengemudi, pengantaran, dan mitra merchant), kontraktor, dan penyedia layanan kami ("Anda").
+Kami memproses Data Pribadi dengan persetujuan Anda atau sebagaimana diizinkan oleh hukum, seperti untuk:
+* Memenuhi persyaratan hukum
+* Memasuki atau memenuhi kewajiban kontraktual kami kepada Anda
+* Memenuhi kepentingan sah kami atau kepentingan pihak lain.
+I. PENGUMPULAN DATA PRIBADI 
+Kami mengumpulkan Data Pribadi Anda dengan cara-cara yang tercantum di bawah ini. Kami juga dapat menggabungkan Data Pribadi yang dikumpulkan melalui berbagai saluran ini.
+Anda memberikan Data Pribadi Anda kepada kami
+Kami mengumpulkan Data Pribadi Anda saat Anda memberikannya kepada kami. Misalnya, saat Anda:
+* mengisi formulir pendaftaran pengguna atau menyesuaikan profil Anda (seperti nama, informasi kontak, dan identifikasi lainnya jika diperlukan);
+* memberikan informasi untuk menilai kelayakan Anda dalam menyediakan layanan sebagai mitra pengemudi atau mitra pengantaran Grab (seperti informasi SIM Anda, informasi kendaraan, dan hasil pemeriksaan latar belakang);
+* menyerahkan dokumen pendukung, seperti bukti disabilitas atau kelayakan diskon, agar kami dapat mendukung Anda dengan lebih baik sebagai mitra pengemudi, mitra pengantaran, atau pengguna Grab;
+* memberikan informasi untuk menilai kelayakan Anda menjadi mitra merchant, vendor, pemasok, atau mitra Grab lainnya (seperti nama dan informasi kontak perwakilan yang berwenang);
+* berinteraksi dengan halaman media sosial kami (seperti ID akun media sosial Anda, foto profil, dan konten apa pun (misalnya, foto, video, cerita) yang Anda buat untuk dipublikasikan di saluran media sosial kami);
+* berpartisipasi dalam kontes atau acara yang kami selenggarakan (seperti gambar, audio, atau video yang mungkin Anda kirimkan, yang mungkin menyertakan gambar diri Anda);
+* mengisi informasi demografi dalam survei (seperti usia, jenis kelamin, dan informasi lain yang mungkin Anda berikan secara sukarela seperti status perkawinan, pekerjaan, dan informasi pendapatan);
+* memberikan kami akses ke acara kalender Anda (seperti tanggal reservasi, waktu, dan nama atau alamat tempat, penerbangan);
+* mengajukan pinjaman, klaim asuransi, atau produk pembiayaan lainnya agar kami dapat menilai kelayakan Anda (seperti laporan pendapatan, laporan bank, informasi kecelakaan, surat keterangan medis, bukti hubungan, dan informasi relevan yang mungkin Anda berikan secara sukarela);
+* menghubungi kami melalui berbagai saluran dukungan pelanggan kami (seperti obrolan, pesan, email, rekaman panggilan, gambar yang Anda kirimkan untuk mendukung klaim Anda);
+* mengirimkan ulasan, umpan balik, penilaian, media, atau konten lain tentang suatu tempat dan/atau Layanan apa pun, yang mungkin kami kaitkan dengan dan tampilkan di samping halaman profil publik Anda;
+* berinteraksi dengan pengguna lain dalam fitur komunikasi di dalam aplikasi kami;
+* menyetujui untuk melakukan perjalanan dengan fitur perekaman audio dan/atau video di dalam kendaraan;
+* menggunakan fitur terkait peta, seperti Berbagi Lokasi Langsung, kami dapat mengumpulkan dan menggunakan informasi lokasi yang tepat dari perangkat Anda dengan izin Anda;
+* memverifikasi identitas Anda melalui berbagai cara (seperti login media sosial, pengiriman gambar swafoto, pemeriksaan keaslian, atau informasi kartu pembayaran yang diverifikasi secara independen). Misalnya, jika Anda adalah pengguna, kami dapat memverifikasi identitas Anda melalui gambar swafoto sebagai lapisan perlindungan tambahan, atau sesuai dengan prosedur Kenali Pelanggan Anda (Know Your Customer) Grab sebagaimana diwajibkan oleh peraturan keuangan yang berlaku. Jika Anda adalah mitra pengemudi, Anda mungkin diminta untuk mengotentikasi identitas Anda melalui swafoto sebelum atau sesudah perjalanan untuk mencegah penggunaan akun pengemudi Anda yang tidak sah; dan
+* memberikan informasi melalui penggunaan layanan kecerdasan buatan ("AI") kami, seperti saat Anda mengajukan pertanyaan kepada chatbot bertenaga AI atau memasukkan data ke solusi AI kami.
+Saat Layanan kami digunakan 
+Data Pribadi dapat dikumpulkan secara pasif melalui pengoperasian atau penggunaan normal Platform kami. Beberapa contohnya adalah:
+* Informasi lokasi anda;
+* informasi transaksi (seperti metode pembayaran, catatan penyelesaian, barang yang dibeli atau dibayar melalui Layanan kami);
+* data penggunaan (seperti fitur yang digunakan dan konten yang dilihat);
+* informasi perangkat (seperti model dan nomor seri perangkat keras, alamat IP), nama dan versi file dan aplikasi, lokasi GPS, nomor IMEI, dan pengenal iklan atau informasi apa pun yang dapat menunjukkan modifikasi perangkat atau aplikasi);
+* data telematika (seperti kecepatan, akselerasi, dan data pengereman) yang dikumpulkan melalui perangkat yang dipasang di kendaraan untuk tujuan berikut:
+o untuk memastikan bahwa kendaraan dirawat dengan tepat dan diservis tepat waktu;
+o untuk membantu menjaga keamanan, keselamatan, dan integritas serta meningkatkan produk dan Layanan kami;
+o untuk pelacakan kendaraan internal, analisis, dan tujuan administratif; dan
+o untuk menganalisis pola mengemudi untuk tujuan terkait asuransi, seperti menilai risiko, menentukan premi, dan menawarkan program asuransi berbasis penggunaan
+* data pribadi yang dapat diambil melalui interaksi Anda dengan kami, agen kami, rekaman audio dan/atau video di dalam kendaraan selama perjalanan (seperti gambar, video, suara Anda atau kombinasi dari ini, dan metadata terkaitnya).
+* aplikasi atau perangkat kami dalam kendaraan 
+o kami dapat memasang aplikasi atau perangkat perekaman audio dan/atau video di dalam kendaraan untuk mendukung keselamatan dan keamanan mitra pengemudi, mitra pengiriman, dan konsumen kami. 
+* aplikasi atau perangkat pribadi dalam kendaraan
+o beberapa mitra Grab mungkin memasang aplikasi atau perangkat pribadi di dalam kendaraan mereka untuk tujuan mereka sendiri. Praktik ini tidak didukung maupun dilarang oleh Grab;
+o pengumpulan, penggunaan, dan pengungkapan Data Pribadi yang diperoleh dari aplikasi atau perangkat pribadi di dalam kendaraan menjadi tanggung jawab mitra terkait. Silakan hubungi mitra terkait jika Anda memiliki pertanyaan tentang penggunaan kamera pribadi di dalam kendaraan.
+Dari sumber lain 
+Kami dapat mengumpulkan Data Pribadi, termasuk namun tidak terbatas pada informasi tentang Anda (seperti informasi pelanggan, detail kontak, informasi identifikasi lain, dan data keuangan jika diperlukan) dari sumber lain. Sumber-sumber tersebut meliputi:
+* Grup dan Rekanan Grab;
+* program rujukan;
+* mitra bisnis kami, seperti mitra armada, penyedia pembayaran, mitra transportasi daring, dan mitra transportasi;
+* penyedia asuransi dan keuangan;
+* penyedia intelijen risiko dan penilaian penipuan;
+* biro kredit, penyedia jaringan pembayaran, agen penilaian kredit alternatif, dan organisasi pelaporan kredit pihak ketiga lainnya;
+* sumber data yang tersedia untuk umum atau dari pemerintah; dan
+* penyedia atau mitra layanan pemasaran.
+Saat anda memberikan Data Pribadi orang lain kepada kami
+Dalam beberapa situasi, Anda mungkin memberikan Data Pribadi individu lain kepada kami, seperti saat Anda menambahkannya sebagai kontak darurat Anda, menggunakan obrolan dalam aplikasi, memesan perjalanan atas nama mereka, atau menambahkannya sebagai penerima atau penerima manfaat dari penggunaan Layanan kami. Jika Anda memberikan Data Pribadi mereka kepada kami, Anda menyatakan dan menjamin bahwa Anda telah memperoleh persetujuan mereka agar Data Pribadi mereka dikumpulkan, digunakan, dan diungkapkan sebagaimana diatur dalam Pemberitahuan Privasi ini.
+Data Pribadi Remaja
+Informasi untuk Orang Tua / Wali 
+Grab memprioritaskan keselamatan dan privasi pengguna remaja kami. Saat Anda menggunakan fitur Akun Keluarga, kami dapat memproses Data Pribadi remaja Anda (seperti nama pengguna, nomor kontak, tanggal lahir, dan lokasi) untuk memverifikasi kelayakan fitur khusus remaja seperti pemantauan perjalanan atau perekaman audio di dalam mobil sebagai tindakan keselamatan, dan untuk memfasilitasi komunikasi dengan remaja Anda (melalui pemberitahuan dorong dan/atau panggilan dalam aplikasi/langsung). Kami dapat mengumpulkan data pribadi tambahan berdasarkan kebutuhan, yang akan kami pastikan ada dasar hukum saat melakukannya. Dengan mengizinkan remaja Anda untuk mendaftar di platform kami, Anda, dalam kapasitas Anda sebagai orang tua atau wali, memberikan persetujuan bagi kami untuk memproses data remaja Anda.
+Informasi untuk Remaja
+Grab menawarkan berbagai Layanan, dan mungkin perlu menggunakan beberapa informasi pribadi yang diberikan oleh orang tua atau wali Anda melalui fitur Akun Keluarga kami. Informasi ini dapat mencakup nama pengguna, nomor kontak, tanggal lahir, dan lokasi Anda. Ini membantu kami menjaga Anda tetap aman dan berbagi pembaruan tentang Layanan kami. Dalam beberapa kasus, kami dapat membagikan data Anda dengan pihak ketiga tepercaya seperti Mitra Pengemudi atau Pengantaran untuk menyelesaikan pemesanan Anda. Saat kami melakukannya, kami akan memastikan informasi Anda terlindungi sebagaimana diuraikan dalam Pemberitahuan Privasi ini.
+Data Pribadi Sensitif
+Beberapa Data Pribadi yang kami kumpulkan mungkin bersifat sensitif di yurisdiksi tertentu. Ini mungkin termasuk informasi ID nasional Anda, keyakinan agama, informasi latar belakang (termasuk catatan keuangan dan kriminal, jika diizinkan secara hukum), data kesehatan, disabilitas, status perkawinan, lokasi, dan data biometrik, jika berlaku. Kami mengumpulkan Data Pribadi sensitif hanya dengan persetujuan Anda dan/atau dalam kepatuhan ketat dengan undang-undang yang berlaku. Jika Anda diharuskan untuk memberikan dokumen atau informasi apapun kepada kami untuk Tujuan apa pun yang mungkin berisi Data Pribadi sensitif tersebut (yang tidak diperlukan untuk Tujuan itu), Anda setuju untuk menyunting Data Pribadi sensitif tersebut sebelum memberikan dokumen atau informasi tersebut kepada kami.
+II. PENGGUNAAN DATA PRIBADI
+Grab menggunakan Data Pribadi Anda untuk tujuan di bawah ini ("Tujuan"). Selain itu, jika Anda menggunakan Grab dalam berbagai kapasitas (misalnya, jika Anda menggunakan banyak Layanan, atau jika Anda beroperasi sebagai mitra merchant/pengemudi/pengantaran dan konsumen, atau pengguna Layanan di seluruh Grup dan Rekanan Grab), kami dapat menautkan Data Pribadi Anda yang dikumpulkan di berbagai kapasitas Anda untuk memfasilitasi penggunaan Layanan kami dan untuk Tujuan yang dijelaskan di bawah ini:
+Penyediaan layanan dan fitur-fitur
+Data Pribadi Anda akan digunakan untuk menyediakan, menyesuaikan, menjaga, dan meningkatkan Platform dan Layanan kami. Hal ini termasuk penggunaan Data Pribadi Anda untuk:
+* memberikan Anda Layanan di berbagai vertikal bisnis kami, termasuk di dalam dan di seluruh Grup dan Rekanan Grab jika relevan;
+* membuat, mengelola, dan memperbarui akun Anda;
+* memproses, mengelola, atau memverifikasi kelayakan Anda untuk atau penerapan produk, layanan, promosi, hadiah, dan langganan;
+* melakukan pemeriksaan uji tuntas, menilai dan memantau profil risiko pengguna, dan melakukan analisis risiko berkelanjutan untuk memastikan kepatuhan terhadap persyaratan peraturan dan operasional;
+* memverifikasi identitas dan usia Anda (jika perlu);
+* memvalidasi perjalanan Anda dan memproses pembayaran;
+* menawarkan, memperoleh, menyediakan, memfasilitasi, atau memelihara solusi asuransi atau pembiayaan;
+* melacak kemajuan perjalanan Anda, mendeteksi variasi perjalanan yang tidak normal, dan meningkatkan akurasi serta keandalan layanan navigasi menggunakan data dari perangkat Anda;
+* memungkinkan Anda berpartisipasi dalam program loyalitas atau kegiatan pemasaran yang diselenggarakan oleh mitra merchant kami dan/atau berkolaborasi dengan Grab;
+* mempersonalisasi pengalaman Anda (seperti untuk mengidentifikasi preferensi Anda dan merekomendasikan produk dan layanan yang relevan untuk Anda);
+* membuat pengalaman Anda lebih lancar (seperti secara otomatis mengisi informasi pendaftaran Anda saat Anda beralih dari satu Layanan ke Layanan lain);
+* melakukan operasi internal yang diperlukan untuk menyediakan Layanan kami, termasuk memecahkan masalah bug perangkat lunak dan masalah operasional, melakukan analisis data, pengujian dan penelitian, memantau dan menganalisis tren penggunaan dan aktivitas;
+* melindungi keamanan atau integritas Layanan dan fasilitas atau peralatan apa pun yang digunakan untuk menyediakan Layanan;
+* memungkinkan komunikasi antar pengguna kami;
+* mengundang Anda untuk berpartisipasi dalam acara, survei, dan studi kami;
+* memungkinkan mitra kami untuk mengelola dan mengalokasikan sumber daya armada; dan
+* memenuhi layanan kepada Anda sebagai pemroses data, di mana Anda telah memberikan persetujuan kepada pengendali data (yaitu organisasi tempat Anda membeli barang atau layanan, dan untuk siapa Grab menyediakan layanan atas namanya) agar layanan tersebut diberikan.
+Dalam menyediakan layanan dan fitur ini kepada Anda, kami dapat menggunakan cara manual atau otomatis, termasuk layanan kecerdasan intelektual (AI). Kami berusaha untuk memastikan akurasi dan keandalan layanan kecerdasan intelektual (AI) kami, dan jika kapanpun diperlukan, kami dapat memverifikasi hasilnya secara manual.
+Keselamatan dan Keamanan
+Kami menggunakan data Anda untuk memastikan keamanan dan keselamatan Layanan kami serta semua pengguna. Ini mencakup:
+* menyaring mitra pengemudi dan mitra pengiriman sebelum memungkinkan mereka menggunakan Layanan kami;
+* mengidentifikasi perilaku mengemudi yang tidak aman, seperti ngebut, pengereman keras, dan akselerasi, serta memberikan umpan balik yang dipersonalisasi kepada mitra pengemudi;
+* memverifikasi identitas Anda saat Anda masuk ke Grab;
+* menggunakan informasi jenis kelamin untuk mempersonalisasi pengalaman Anda di platform kami, seperti alokasi perjalanan dengan pengemudi yang berjenis kelamin sama
+* menggunakan perangkat, lokasi, profil, aktivitas penggunaan, aktivitas di dalam kendaraan, dan Data Pribadi lainnya untuk mencegah, mendeteksi, dan memerangi penipuan atau aktivitas yang tidak aman;
+* membagikan lokasi dan detail penumpang saat tombol darurat atau fitur "Berbagi Lokasi" diaktifkan; dan
+* memantau kepatuhan terhadap syarat dan ketentuan serta kebijakan kami.
+Dukungan Pengguna
+Kami menggunakan Data Pribadi untuk menyelesaikan masalah dukungan pengguna. Sebagai contoh kami dapat:
+* menyelidiki dan mengatasi masalah;
+* memantau dan meningkatkan tanggapan dukungan pengguna kami;
+* menanggapi pertanyaan, komentar, dan tanggapan; dan
+* memberi tahu Anda tentang langkah-langkah yang diambil untuk menyelesaikan masalah dukungan pengguna.
+Penelitian, pengembangan, dan keamanan 
+Kami dapat menggunakan Data Pribadi yang kami kumpulkan untuk pengujian, penelitian, analisis, pembelajaran mesin (machine learning) dan pengembangan produk. Hal ini memungkinkan kami untuk memahami dan menganalisis kebutuhan dan preferensi Anda, melindungi Data Pribadi Anda, memperbaiki dan meningkatkan keselamatan dan keamanan Layanan kami, mengembangkan fitur, produk, dan layanan baru, serta memfasilitasi pengembangan solusi asuransi dan keuangan.
+Tujuan hukum
+Kami dapat menggunakan Data Pribadi yang kami kumpulkan untuk tujuan hukum, seperti:
+* mencegah, mendeteksi, menyelidiki, menyelesaikan, atau menuntut penipuan atau kejahatan;
+* mematuhi perintah pengadilan atau persyaratan hukum, pemerintah, atau peraturan lainnya;
+* menegakkan Ketentuan Layanan kami atau perjanjian lainnya; dan
+* menegakkan atau melindungi hak, kepentingan, atau properti kami jika terjadi klaim, investigasi, keluhan, atau perselisihan di yurisdiksi mana pun.
+Pemasaran dan Promosi
+Kami dapat menggunakan Data Pribadi Anda untuk mengirimkan Anda komunikasi pemasaran yang berkaitan dengan produk atau layanan yang disesuaikan (yang mungkin menarik atau relevan berdasarkan profil Anda), atau produk, layanan, acara, atau promosi mitra Grab, sponsor dan pemberi iklan. Sebagai contoh, kami dapat:
+* mengirimkan kepada Anda penawaran khusus yang mungkin menarik atau relevan bagi Anda di seluruh penawaran layanan Grab;
+* mengirimkan kepada Anda peringatan, buletin, pembaruan, surat, materi promosi, hak istimewa, ucapan selamat hari raya; dan
+* memberi tahu, mengundang, dan mengelola partisipasi Anda dalam acara atau aktivitas kami (termasuk publikasi foto atau video yang diambil).
+Kami dapat mengkomunikasikan pemasaran tersebut kepada Anda dengan berbagai cara, jika memungkinkan (termasuk melalui SMS, aplikasi obrolan (misalnya WhatsApp, Telegram, LINE, Viber, WeChat, Zalo), pemberitahuan pesan langsung (push notification), panggilan, dan melalui surel).
+Jika Anda ingin berhenti berlangganan untuk menerima komunikasi pemasaran tersebut, silakan klik tautan berhenti berlangganan di surel atau pesan yang relevan. Sebagai alternatif, Anda juga dapat memperbarui preferensi Anda di pengaturan Aplikasi kami. Harap dicatat bahwa meskipun Anda dapat memilih keluar dari komunikasi pemasaran atau promosi, Grab masih dapat mengirimi Anda pesan terkait akun dan/atau layanan (seperti otentikasi dua-faktor, informasi tentang transaksi Anda, hadiah, dll.).
+Konten yang Dipublikasikan Pengguna
+Jika Anda memilih untuk mempublikasikan konten (seperti ulasan atau komentar) di Platform Grab, konten tersebut akan ditampilkan secara publik bersama dengan data pribadi Anda (seperti nama pengguna, foto profil, dan foto-foto yang diunggah), serta informasi lain yang telah Anda sertakan dalam konten Anda. Untuk informasi lebih lanjut, lihat Pedoman Tinjauan kami.
+III. PENGUNGKAPAN DATA PRIBADI
+Kami dapat mengungkapkan Data Pribadi Anda kepada berbagai pihak hanya seperlunya untuk Tujuan. Pihak-pihak ini termasuk:
+Pengguna-pengguna lain  
+Sebagai contoh :
+* jika Anda adalah penumpang, kami dapat membagikan nama pengguna, lokasi penjemputan dan pengantaran Anda kepada mitra pengemudi kami yang memenuhi permintaan layanan Anda;
+* jika Anda adalah mitra pengemudi atau pengantaran, kami dapat membagikan kepada mitra merchant dan pengguna yang dipilih Data Pribadi Anda termasuk nama dan foto Anda, merek, model, nomor plat kendaraan, lokasi, dan peringkat rata-rata Anda;
+* jika Anda menggunakan layanan GrabFood atau GrabMart kami, kami dapat membagikan Data Pribadi Anda kepada mitra pengantaran dan mitra merchant yang dipilih, termasuk nama, detail kontak, informasi pesanan, dan lokasi pengantaran Anda;
+* jika Anda memberikan peringkat dan ulasan tentang mitra merchant mana pun, foto profil, umpan balik, konten, dan nama pengguna Anda mungkin tersedia untuk publik dan pengguna lain;
+* jika Anda berpartisipasi dalam program loyalitas atau kegiatan pemasaran yang diselenggarakan oleh mitra merchant kami, kami dapat membagikan Data Pribadi Anda kepada mereka, termasuk nama dan detail kontak Anda;
+* jika Anda adalah anggota akun Profil Keluarga, kami dapat membagikan Data Pribadi Anda kepada administrator Anda, termasuk detail pesanan Anda, interaksi dengan mitra pengemudi/pengantaran kami (jika ada), lokasi penjemputan dan pengantaran. Jika Anda adalah mitra pengemudi/pengantaran yang memenuhi transaksi tersebut, administrator akan memiliki akses ke lokasi Anda dan percakapan obrolan dengan anggota tersebut;
+* jika Anda menggunakan fitur lokasi langsung, lokasi real-time perangkat Anda akan dibagikan selama periode waktu tertentu dengan kontak darurat yang Anda pilih;
+* jika Anda menggunakan layanan GrabExpress kami, kami dapat membagikan Data Pribadi Anda kepada penerima paket Anda, dan sebaliknya, serta mitra pengantaran yang bertugas memenuhi permintaan layanan Anda; dan
+* jika Anda menggunakan layanan obrolan dalam aplikasi kami, kami dapat membagikan nama dan foto profil terdaftar Grab Anda kepada pihak lain dalam obrolan Anda.
+Dengan Pihak ketiga
+Dengan pihak ketiga yang terkait dengan penggunaan Anda atas Layanan Grab
+Sebagai contoh:
+* Jika Anda adalah penumpang, kami dapat membagikan lokasi kendaraan dan pengemudi dan/atau nama Anda dengan pihak ketiga saat Anda menggunakan fitur "Bagikan Perjalanan Saya" atau mengaktifkan Tombol Darurat.
+* Jika Anda adalah mitra pengemudi, kami dapat mengungkapkan nomor plat kendaraan Anda atau data pribadi lainnya kepada perusahaan asuransi dan/atau penumpang Anda untuk tujuan pengajuan klaim asuransi.
+* Jika Anda menggunakan layanan pembayaran kami, kami dapat membagikan Data Pribadi Anda dengan individu lain jika Anda mengizinkan dan mengaktifkan koneksi metode pembayaran layanan pihak ketiganya ke layanan pembayaran kami untuk tujuan mengaktifkan pembayaran Anda di Grab.
+Dengan administrator akun Grab yang mungkin Anda gunakan
+Sebagai contoh:
+* pemberi kerja Anda mungkin menerima data transaksi (ditandai sebagai pengeluaran bisnis) ketika Anda menggunakan akun Grab for Business milik pemberi kerja Anda. 
+* administrator dari grup komunitas manapun yang Anda tautkan dengan akun Grab Anda mungkin menerima data transaksi ketika Anda melakukan transaksi.
+Dengan anak perusahaan, afiliasi, perusahaan terkait dan entitas yang dikendalikan bersama
+Perusahaan-perusahaan di Grup dan Rekanan Grab berbagi infrastruktur, teknologi, dan sumber daya lain satu sama lain untuk memberi Anda pengalaman yang konsisten, andal, dan aman saat Anda menggunakan produk atau Layanan kami, dan untuk Tujuan yang ditetapkan dalam Pemberitahuan Privasi ini. Kami juga dapat membagikan Data Pribadi untuk melakukan uji tuntas berkala, menilai dan mengelola profil risiko pengguna, melakukan analisis di seluruh Grup dan Rekanan Grab untuk meningkatkan produk dan Layanan kami, memastikan keputusan kredit yang bertanggung jawab, dan mematuhi kewajiban hukum atau peraturan yang berlaku.
+Sebagai contoh, keputusan kredit yang bertanggung jawab mungkin melibatkan evaluasi riwayat keuangan dan faktor risiko Anda untuk memastikan bahwa kredit yang diberikan sesuai dengan kemampuan Anda untuk membayar, sehingga melindungi Anda dan pemberi pinjaman dari potensi kerugian finansial.
+Dengan penyedia layanan dan mitra bisnis Grab 
+Kami dapat memberikan Data Pribadi kepada vendor, konsultan, mitra pemasaran, firma penelitian, dan penyedia layanan atau mitra bisnis kami lainnya. Hal ini termasuk:
+* pemroses dan fasilitator pembayaran;
+* penagih utang;
+* biro kredit, lembaga penilaian kredit alternatif dan organisasi pelaporan kredit lainnya;
+* penyedia layanan pemeriksaan latar belakang dan anti pencucian uang;
+* penyedia penyimpanan cloud;
+* penyedia penyimpanan dan pengelolaan dokumen 
+* mitra periklanan dan pemasaran serta penyedia platform;
+* penyedia analisis data;
+* mitra penelitian, termasuk mereka yang melakukan survei atau proyek penelitian dalam kemitraan dengan Grab atau atas nama Grab;
+* mitra lembaga pendidikan dan pelatihan;
+* mitra armada dan pedagang;
+* mitra asuransi dan pembiayaan;
+* perantara pihak ketiga yang terlibat dalam investasi dana yang dikelola, seperti pialang, manajer aset, dan kustodian;
+* penyedia layanan yang melakukan layanan verifikasi identitas; dan
+* mitra solusi kendaraan, vendor atau pemasok kendaraan pihak ketiga.
+Sebagai contoh:
+* Jika Anda meminta layanan melalui mitra Grab atau menggunakan promosi yang disediakan oleh mitra Grab, Grab dapat membagikan Data Pribadi Anda dengan mitra Grab tersebut.
+* Jika Anda telah menyewa kendaraan dari mitra armada yang kami rekomendasikan untuk dikendarai dengan Grab, kami dapat membagikan informasi yang relevan (misalnya status akun Anda, insentif/promosi yang berlaku, statistik perjalanan Anda) untuk upaya kolaboratif (misalnya membuat insentif dan manfaat baru untuk Anda atau meningkatkan pasokan mitra pengemudi).
+Dengan penasehat hukum kami dan otoritas pemerintah 
+Kami dapat membagikan Data Pribadi Anda dengan penasihat hukum kami, pejabat penegak hukum, otoritas pemerintah, dan pihak ketiga lainnya. Hal ini dapat terjadi untuk memenuhi tujuan hukum (disebutkan di atas), atau salah satu dari keadaan berikut:
+* jika diperlukan untuk menanggapi keadaan darurat yang mengancam kehidupan, kesehatan atau keselamatan seseorang; atau 
+* jika diperlukan untuk kepentingan publik (misalnya dalam krisis kesehatan masyarakat, untuk tujuan pelacakan kontak dan menjaga komunitas kami).
+Pengalihan Usaha
+Kami dapat membagikan Data Pribadi Anda dengan pihak lain, sehubungan dengan pengambilalihan, penjualan, penggabungan, usaha patungan, konsolidasi, restrukturisasi, pembiayaan, atau jenis transaksi bisnis lainnya. Namun, Data Pribadi Anda akan tetap tunduk pada kewajiban kami yang dibuat dalam Pemberitahuan Privasi yang sudah ada sebelumnya yang telah Anda setujui.
+IV. RETENSI DATA PRIBADI 
+Kami menyimpan Data Pribadi Anda selama periode yang diperlukan untuk memenuhi Tujuan yang diuraikan dalam Pemberitahuan ini kecuali jika periode penyimpanan yang lebih lama diwajibkan atau diizinkan oleh hukum. Periode retensi berbeda-beda, tergantung pada hal-hal seperti sifat data, alasan pengumpulan dan pemrosesannya, serta kebutuhan hukum atau bisnis yang relevan. Misalnya, gambar swafoto akan dimusnahkan dalam waktu 10 tahun sejak pengumpulan, kecuali jika diizinkan atau diwajibkan oleh hukum atau proses hukum untuk menyimpan data tersebut.
+Setelah Data Pribadi Anda tidak lagi diperlukan untuk Layanan atau Tujuan, kami mengambil langkah-langkah untuk menghapus, memusnahkan, menganonimkan, atau mencegah akses atau penggunaan kecuali jika diperlukan untuk kepatuhan hukum, keselamatan, keamanan, pencegahan dan deteksi penipuan, sejalan dengan undang-undang yang berlaku.
+V. PERPINDAHAN DATA PRIBADI SECARA INTERNASIONAL 
+Data Pribadi Anda dapat ditransfer dari lokasi Anda saat ini ke yurisdiksi lain untuk berbagai alasan seperti pemrosesan dan penyimpanan data terpusat, operasi dan dukungan back office regional, dan penyediaan layanan.
+Kami memastikan transfer ini mematuhi undang-undang dan peraturan yang berlaku. Ini termasuk memiliki dasar hukum untuk transfer, melakukan penilaian dampak, dan menerapkan perlindungan teknis dan organisasi yang sesuai untuk memastikan tingkat perlindungan yang memadai untuk Data Pribadi Anda. Dasar hukum kami adalah persetujuan (diperoleh pada saat Anda memberikan Data Pribadi Anda) atau salah satu perlindungan yang diizinkan oleh undang-undang.
+VI. COOKIES, TEKNOLOGI TERKAIT, DAN PERIKLANAN TERTARGET
+Cookies
+Grab, dan pihak ketiga yang bermitra dengan kami, dapat menggunakan cookies, web beacon, tag, skrip, objek lokal bersama seperti HTML5, pengidentifikasi iklan, dan teknologi serupa (seperti perangkat pengembangan perangkat lunak (SDK), yang memiliki fungsi serupa dengan cookies dan yang dapat dipasang di Aplikasi Grab untuk memungkinkan mitra mengumpulkan informasi tertentu tentang interaksi Anda dengan Aplikasi Grab) (secara kolektif disebut "Cookies") sehubungan dengan penggunaan Anda atas Platform kami, yang mungkin bersifat tetap atau hanya disimpan selama sesi individual di browser atau perangkat Anda. 
+Cookies mungkin memiliki pengidentifikasi unik, dan berada, antara lain, di komputer atau perangkat seluler Anda, di email yang kami kirimkan kepada Anda, dan di halaman web kami. Cookies dapat digunakan untuk berbagai tujuan seperti:
+* menyediakan fungsi dasar dan esensial dari penggunaan Platform, Layanan, atau Aplikasi kami;
+* mengotentikasi Anda, atau mengingat preferensi dan pengaturan pengguna Anda;
+* menyampaikan dan mengukur efektivitas kampanye iklan, seperti dengan mengukur jumlah tampilan atau klik-tayang;
+* menganalisis lalu lintas dan tren situs;
+* menayangkan iklan yang relevan kepada Anda di aplikasi dan situs web lain yang dimiliki oleh perusahaan lain (baik oleh kami atau pengiklan lain); dan
+* meningkatkan pengguna antarmuka dan pengalaman dengan memahami secara umum perilaku dan minat daring pengguna yang berinteraksi denganPlatform, Layanan, atau Aplikasi kami.
+Grab dapat mengizinkan pihak ketiga untuk menggunakan Cookies di Situs Web dan Aplikasi untuk mengumpulkan jenis Data Pribadi yang sama untuk tujuan yang sama yang dilakukan Grab untuk dirinya sendiri. Pihak ketiga mungkin dapat mengaitkan Data Pribadi yang mereka kumpulkan dengan Data Pribadi lain yang mereka miliki tentang Anda dari sumber lain. Kami belum tentu memiliki akses atau kendali atas Cookies yang mereka gunakan.
+Menonaktifkan pengumpulan cookies di situs web kami
+Anda memiliki hak untuk memilih untuk menonaktifkan, memblokir, atau menonaktifkan cookies. Harap dicatat bahwa penolakan atau penghapusan beberapa cookies dapat memengaruhi ketersediaan, fungsionalitas, atau penggunaan Platform atau Layanan kami.
+Anda dapat menyesuaikan pengaturan peramban internet Anda untuk menonaktifkan, memblokir, atau menonaktifkan cookies, menghapus riwayat penjelajahan Anda, atau membersihkan cache dari peramban internet Anda. Pengaturan mungkin terdapat di bagian "Riwayat", "Preferensi", "Pengaturan", atau "Privasi" dari peramban internet Anda, atau Anda dapat berkonsultasi dengan bagian bantuan peramban internet Anda untuk informasi lebih lanjut. Anda juga dapat menyesuaikan pengaturan cookie Anda di sini:
+Pengaturan Cookie 
+Menonaktifkan Tampilan Iklan Tertarget  
+Anda dapat mengontrol bagaimana Data Pribadi Anda digunakan untuk iklan tertarget dengan beberapa cara: 
+Di dalam Aplikasi Grab
+Anda dapat menyesuaikan preferensi Anda langsung di pengaturan Aplikasi.
+Pada Platform Lain
+Kami dapat bekerja dengan platform online lain untuk menampilkan iklan kepada pengguna dengan ciri atau minat tertentu. Meskipun kami tidak menggunakan Data Pribadi Anda untuk iklan ini, Anda mungkin masih melihat iklan yang tampak relevan berdasarkan profil audiens umum. Anda dapat mengelola preferensi Anda langsung di platform tersebut untuk membatasi penargetan tersebut.
+Melalui Pengaturan Perangkat Anda
+Tergantung pada ponsel dan sistem operasi Anda, Anda mungkin memiliki opsi untuk menonaktifkan penggunaan pengenal seluler kami (seperti IDFA Apple atau GAID Google) dan kemampuan untuk melacak aktivitas di seluruh aplikasi dan situs web yang dimiliki oleh perusahaan lain dengan menyesuaikan pengaturan privasi perangkat Anda.
+VII. PELINDUNGAN DATA PRIBADI
+Kami menerapkan langkah-langkah hukum, fisik, organisasi, dan teknis yang wajar untuk memastikan Data Pribadi Anda terlindungi. Ini termasuk langkah-langkah untuk mencegah kehilangan, akses tidak sah, atau penyalahgunaan informasi Anda. Kami membatasi akses ke Data Pribadi Anda berdasarkan kebutuhan untuk mengetahui (need-to-know basis). Mereka yang memproses Data Pribadi Anda hanya akan melakukannya dengan cara yang sah dan diharuskan untuk memperlakukan informasi Anda secara rahasia.
+Meskipun demikian, harap dipahami bahwa transmisi informasi melalui internet tidak sepenuhnya aman. Meskipun kami akan melakukan yang terbaik untuk melindungi Data Pribadi Anda, kami tidak dapat menjamin keamanan mutlak Data Pribadi Anda selama transmisi online. Dengan menggunakan Layanan kami, Anda mengakui bahwa beberapa risiko tetap ada dengan data apa pun yang dikirim atau ditransfer secara online.
+VIII. HAK PRIVASI ANDA
+Sesuai dengan undang-undang dan peraturan yang berlaku, Anda mungkin berhak untuk:
+* menanyakan tentang pemrosesan Data Pribadi Anda dan diberikan salinannya;
+* meminta koreksi atau penghapusan;
+* membatasi atau menolak pemrosesan;
+* menarik persetujuan (di mana pemrosesan didasarkan pada persetujuan);
+* meminta transfer data Anda ke organisasi lain, dalam bentuk yang dapat dibaca mesin; dan
+* mengajukan keluhan kepada otoritas privasi data yang relevan jika Anda yakin hak Anda dilanggar dan kami gagal mengatasi kekhawatiran Anda.
+Jika Anda memilih untuk tidak memberikan Data Pribadi Anda atau kemudian menarik persetujuan, Anda mungkin tidak dapat mengakses layanan atau fitur tertentu dari Aplikasi. Namun, kami dapat terus memproses data Anda sebagaimana diwajibkan atau diizinkan oleh undang-undang.
+Untuk melindungi hak Anda, kami memverifikasi semua permintaan dan mungkin meminta informasi atau dokumentasi pendukung. Setelah diverifikasi, kami akan memproses permintaan Anda dalam jangka waktu yang ditentukan oleh undang-undang yang berlaku.
+IX. PERUBAHAN DAN PEMBARUAN
+Grab dapat memperbarui Pemberitahuan Privasi ini kapan saja. Merupakan tanggung jawab Anda untuk meninjau Pemberitahuan Privasi secara teratur. Penggunaan Platform atau Layanan Anda yang berkelanjutan, pembelian produk dari Grab, atau komunikasi atau keterlibatan berkelanjutan dengan Grab setelah modifikasi, pembaruan, atau amandemen pada Pemberitahuan ini, terlepas dari apakah telah Anda tinjau atau tidak, merupakan persetujuan Anda untuk terikat oleh amandemen tersebut.
+X. CARA MENGHUBUNGI KAMI
+Jika Anda memiliki pertanyaan tentang Pemberitahuan ini atau ingin menggunakan hak Anda yang ditetapkan dalam Pemberitahuan ini, silakan isi formulir berikut atau kirimkan email Anda ke Data Protection Officer kami. :
+Untuk pengguna di Malaysia,
+Nama: MyTeksi Sdn. Bhd. (Ditujukan kepada: Grab Privacy Office)
+Alamat: Level 25, 1 First Avenue, Bandar Utama, Petaling Jaya, Selangor, 47800, Malaysia
+Untuk pengguna di Filipina,
+Nama: MyTaxi PH Inc (Ditujukan kepada: Grab Privacy Office)
+Alamat: Level 27&28 Exquadra Tower - Lot 1A Exchange Road corner Jade Street, Ortigas Center Pasig City, Philippines
+Untuk pengguna di Thailand,
+Nama: Grabtaxi (Thailand) Co., Ltd. (Ditujukan kepada: Grab Privacy Office)
+Alamat: 252 SPE Tower, 10th floor, Phahonyothin Rd,Samsen Nai, Phaya Thai, Bangkok 10400
+Untuk pengguna di Vietnam,,
+Nama: Grab Company Limited (Ditujukan kepada: Grab Privacy Office)
+Alamat: Mapletree Business Centre, 1060 Nguyen Van Linh, Tan HungWard, District 7, Ho Chi Minh City, Vietnam
+Untuk pengguna di negara lain,
+Nama: c/o Grab Holdings Limited. (Attention: Grab Privacy Office)
+Alamat: 3 Media Close, Singapore 138498
+Agar kami dapat menjawab pertanyaan Anda dengan cepat, akan lebih mudah apabila pertanyaan dimasukan melalui formulir online.
+Asli dari Pemberitahuan ini ditulis dalam bahasa Inggris. Dalam hal terjadi konflik antara versi bahasa Inggris dan bahasa lainnya, versi bahasa Indonesia yang akan berlaku.
+ADENDUM 1: GRAB FOR BUSINESS
+I. INTERPRETASI
+Semua istilah yang diawali huruf kapital tetapi tidak didefinisikan akan memiliki arti yang sama dengan yang didefinisikan dalam Ketentuan Penggunaan (Terms of Use). Adendum ini merupakan bagian dari Pemberitahuan Privasi dan akan berlaku jika terdapat ketidaksesuaian untuk layanan Grab for Business.
+II. HUBUNGAN GRAB DENGAN PENGGUNA DAN KLIEN
+Cara Kerja Grab for Business
+Grab for Business memungkinkan organisasi ("Klien") untuk mengelola dan membayar Layanan Grab terkait pekerjaan yang digunakan oleh karyawan, tamu, atau kontraktor mereka ("Pengguna Resmi").
+Pengguna Resmi dapat menandai transaksi mereka sebagai "bisnis" atau "pribadi". Untuk transaksi yang ditandai sebagai bisnis, Grab mengungkapkan kepada Klien informasi seperti pengenal Pengguna Resmi dan detail pemesanan untuk memfasilitasi penagihan perusahaan.
+Secara terpisah, pengguna individu juga dapat memilih untuk menyiapkan "profil bisnis" bahkan jika majikan mereka bukan Klien. Ini memungkinkan mereka menandai transaksi terkait bisnis dan mengatur laporan konsolidasi untuk memfasilitasi pengajuan klaim manual kepada majikan mereka.
+Pengguna Resmi dan pengguna individu secara kolektif disebut sebagai "Pengguna" dalam Adendum ini.
+Grab adalah Pengendali Data, begitu juga Klien Kami
+Grab tidak memproses Data Pribadi apa pun untuk dan atas nama Klien. Terlepas dari siapa yang membayar pengeluaran terkait bisnis, Grab secara independen menentukan bagaimana dan mengapa ia memproses Data Pribadi Pengguna (misalnya, untuk pemenuhan layanan, keamanan, penagihan, atau analitik) sesuai dengan kewajiban hukum dan praktik privasinya sendiri, bukan atas instruksi Klien.
+Oleh karena itu, Grab bukan pemroses data Klien, melainkan pengendali data independen sehubungan dengan semua Data Pribadi yang diprosesnya di bawah Grab for Business. Demikian juga, Klien adalah pengendali data independen dari Data Pribadi yang diungkapkan kepada dan/atau diterima dari Grab. 
+III. DATA PRIBADI APA YANG DIKUMPULKAN, DI PROSES DAN DI UNGKAPKAN 
+Apa yang dikumpulkan Grab sebagai bagian dari Grab for Business 
+Untuk menyediakan fitur Grab for Business, Pengguna atau Klien wajib untuk memberikan informasi berikut tentang Pengguna kepada Grab:
+* nama lengkap;
+* alamat surel (e-mail) bisnis; dan
+* informasi pengenal lainnya tentang Pengguna sebagaimana diminta secara wajar oleh Grab.
+Grab akan menggunakan informasi ini untuk tujuan:
+* mengautentikasi Pengguna;
+* jika berlaku, menautkan akun Pengguna Resmi dengan akun Grab for Business Klien atau melacak pemesanan profil bisnis Pengguna Resmi di Platform kami, sebagaimana berlaku;
+* jika berlaku, memverifikasi status Penagihan Perusahaan dari Pengguna yang Berwenang tersebut dari waktu ke waktu; dan
+* menghubungi Pengguna sesuai dengan tujuan yang tertera dalam Pemberitahuan Privasi.
+Setelah memasukkan Pengguna tersebut ke Aplikasi, Grab akan memproses Data Pribadi Pengguna sesuai dengan Pemberitahuan Privasi dan Adendum ini.
+Apa yang diungkapkan Grab kepada Kliennya
+Grab akan mengungkapkan informasi perjalanan dan pemesanan yang relevan sebagaimana ditentukan oleh Grab dari waktu ke waktu kepada Klien untuk memfasilitasi penagihan perusahaan.
+Apa yang diungkapkan Grab kepada Pengguna Individunya
+Tergantung pada pengaturan profil bisnis yang dipilih oleh pengguna individu, pengguna dapat mengambil dan membuat laporan yang berisi informasi perjalanan dan pemesanan yang relevan.
+IV. KEWAJIBAN PARA PIHAK
+Sebagai pengendali data independen, Klien dan Grab masing-masing harus mematuhi kewajiban mereka di bawah undang-undang perlindungan data yang berlaku saat memproses Data Pribadi, termasuk:
+* memberi tahu subjek data mereka tentang bagaimana masing-masing memproses Data Pribadi dan mengizinkan pelaksanaan hak privasi;
+* memperoleh persetujuan yang diperlukan (jika berlaku) untuk pengungkapan Data Pribadi untuk memfasilitasi fitur Grab for Business; dan
+* menerapkan langkah-langkah hukum, teknis, dan organisasi yang sesuai untuk melindungi Data Pribadi dari pemrosesan, kehilangan, penghancuran, kerusakan, perubahan, atau pengungkapan Data Pribadi yang tidak sah atau melanggar hukum.
+ADDENDUM 2: PERNYATAAN PRIVASI GRABDEFENCE 
+ 
+Pernyataan Privasi ini ("Pernyataan") menjelaskan bagaimana Grab mengumpulkan, menggunakan, memproses dan mengungkapkan data melalui penggunaan GrabDefence dan layanan terkaitnya ("GrabDefence").
+Grab menyediakan layanan GrabDefence  kepada pelanggannya ("Pelanggan GD") yang membantu mencegah, mendeteksi, dan mengatasi penipuan atau aktivitas tidak aman pada platform dan aplikasi mereka (seperti platform e-commerce berbasis web dan aplikasi seluler) ("Digital Platform"). Pelanggan GD akan mengintegrasikan GrabDefence ke dalam Platform Digital mereka untuk mengidentifikasi potensi aktivitas penipuan di Platform Digital mereka.
+Pernyataan ini berlaku bagi pengguna Platform Digital Pelanggan GD ("Anda"), dan berkaitan erat dengan data yang dikumpulkan, digunakan, dan diungkapkan atas nama Pelanggan GD untuk tujuan menyediakan GrabDefence. Mohon merujuk pada ketentuan layanan dan/atau pemberitahuan privasi Pelanggan GD yang berlaku untuk memahami bagaimana mereka mengumpulkan, menggunakan, dan mengungkapkan data Anda.
+I. PENGUMPULAN DATA
+Untuk memberikan GrabDefence kepada Pelanggan GD, informasi dari perangkat Anda dan informasi terkait penggunaan Anda atas Platform Digital Pelanggan GD akan dikumpulkan dari Pelanggan GD. Informasi tersebut mencakup informasi pengidentifikasi perangkat (seperti IMEI, ID Android, alamat MAC, dan lain-lain), informasi perangkat dan perangkat keras (seperti nama perangkat, ukuran layar, dan lain-lain), informasi akun (seperti alamat email, nomor telepon, dan lain-lain) serta data kontekstual lainnya yang berkaitan dengan penggunaan Anda atas Platform Digital Pelanggan GD (seperti alamat IP, alamat Wifi, data lokasi GPS, alamat, detail pembayaran, dan lain-lain). Informasi tersebut dikumpulkan oleh Pelanggan GD ketika Anda berinteraksi dengan platform Digital Pelanggan GD, sesuai dengan ketentuan layanan dan/atau pemberitahuan privasi Pelanggan GD.
+Kami dapat menggabungkan informasi yang telah kami kumpulkan dari Pelanggan GD dengan data dari ekosistem Grab untuk menghasilkan wawasan yang relevan (misalnya, wawasan tentang apakah ada tanda-tanda modifikasi aplikasi, manipulasi data, pemalsuan perangkat, pemalsuan GPS). Kami tidak berusaha untuk mengidentifikasi Anda secara pribadi berdasarkan informasi di atas guna memberikan Layanan GrabDefence kepada Pelanggan GD.
+II. PENGGUNAAN DATA
+Kami umumnya memproses informasi Anda atas nama Pelanggan GD untuk membantu upaya deteksi penipuan mereka. Keputusan untuk menerapkan hasil yang diperoleh dari penggunaan GrabDefence pada Platform Digital mereka sepenuhnya tergantung pada kebijakan Pelanggan GD.
+Dalam hal ini, kami dapat menggunakan, menggabungkan, dan memproses informasi Anda untuk tujuan berikut ("Tujuan"):
+* menyediakan, mengoperasikan dan memelihara GrabDefence;
+* menyelidiki kesalahan dan pemecahan masalah pada GrabDefence;
+* penelitian dan pengembangan untuk GrabDefence, termasuk namun tidak terbatas pada penyempurnaan fitur dan layanan yang ada, atau pengembangan fitur dan layanan baru, untuk GrabDefence;
+* mendeteksi pola dalam kumpulan data yang dikumpulkan untuk mengumpulkan wawasan tentang aktivitas penipuan;
+* tujuan kepatuhan terhadap peraturan dan audit internal; Dan
+* menanggapi permintaan penegakan hukum atau perintah pengadilan.
+Percayalah bahwa informasi yang dikumpulkan tidak akan digunakan oleh Grab untuk upaya pemasaran apa pun atau digabungkan dengan kumpulan data lain yang tersedia untuk Grab dengan cara yang merugikan Anda secara tidak adil.
+III. PENGUNGKAPAN DATA
+Kami mungkin perlu berbagi informasi dengan berbagai pihak untuk suatu Tujuan. Pihak-pihak tersebut antara lain:
+* Pelanggan GD, dengan siapa Anda terdaftar sebagai pengguna;
+* Anak perusahaan dan afiliasi kami;
+* Penyedia layanan kami (misalnya, kami menggunakan cloud Amazon Web Services untuk menyimpan informasi Anda); Dan
+* Penasihat hukum kami, aparat penegak hukum, dan otoritas pemerintah.
+Kecuali pihak-pihak yang disebutkan di atas, kami tidak akan mengungkapkan informasi Anda kepada pihak ketiga mana pun.
+IV. HAK ANDA TERHADAP DATA ANDA 
+Sesuai dengan undang-undang privasi yang berlaku dan sepanjang informasi apa pun yang dikumpulkan dalam rangka penggunaan GrabDefence dapat dianggap sebagai data pribadi, Anda berhak mengakses atau memperbarui data pribadi Anda. Mengingat bahwa pemrosesan data pribadi Anda oleh GrabDefence didasarkan pada penggunaan GrabDefence oleh Pelanggan GD ketika Anda menggunakan Platform Digital mereka, maka jika Anda ingin menggunakan hak Anda, kami menyarankan Anda untuk langsung menghubungi operator Platform Digital yang Anda gunakan untuk memperoleh data informasi lebih lanjut tentang bagaimana informasi Anda digunakan dan diproses, serta untuk menggunakan hak Anda atas data pribadi Anda.
+V. RETENSI DATA
+Kami menyimpan informasi Anda selama kami mempunyai tujuan bisnis (antara lain yaitu untuk menyediakan GrabDefence, dan untuk memenuhi suatu Tujuan) atau tujuan hukum untuk melakukannya. Setelah tujuan ini terpenuhi, kami mengambil langkah untuk menghancurkan atau menganonimkan informasi Anda.
+VI. TRANSFER DATA INTERNASIONAL 
+Informasi Anda dapat ditransfer dari lokasi Anda saat ini saat menggunakan Platform Digital Pelanggan GD ke yurisdiksi lain.
+VII. PELINDUNGAN DATA
+Kami menerapkan langkah-langkah hukum, fisik, organisasi, dan teknis yang wajar untuk memastikan Data Pribadi Anda terlindungi. Ini termasuk langkah-langkah untuk mencegah kehilangan, akses tidak sah, atau penyalahgunaan informasi Anda. Kami membatasi akses ke informasi Anda kepada karyawan kami berdasarkan kebutuhan untuk mengetahui. Mereka yang memproses data Anda hanya akan melakukannya dengan cara yang sah dan diharuskan untuk memperlakukan informasi Anda secara rahasia.
+Meskipun demikian, harap dipahami bahwa transmisi informasi melalui internet tidak sepenuhnya aman. Meskipun kami akan melakukan yang terbaik untuk melindungi Data Pribadi Anda, kami tidak dapat menjamin keamanan mutlak Data Pribadi Anda selama transmisi online. Dengan menggunakan Layanan kami, Anda mengakui bahwa beberapa risiko tetap ada dengan data apa pun yang dikirim atau ditransfer secara daring.
+VIII. PERUBAHAN DAN PEMBAHARUAN
+Grab berhak untuk memodifikasi, memperbaharui, atau mengubah ketentuan Pernyataan ini kapan saja dengan menempatkan Pernyataan yang diperbaharui di situs webnya.
+Jika Anda memiliki pertanyaan tentang bagaimana data anda digunakan, silahkan hubungi Layanan Pelanggan GD yang dimana anda mungkin anda terdaftar sebagai Pengguna. Jika anda memiliki pertanyaan lain terkait GrabDefence, silahkan menghubungi Petugas Privasi Data kami melalui formulir yang tercantum dalam Pemberitahuan Privasi Grab.
+Grab Indonesia 
+Forward Together
+Menemukan kendala dalam layanan Grab? Hubungi Grab Support melalui:
+* Pusat Bantuan di aplikasi Grab
+* Laman: help.grab.com
+* Hotline +62 21 2350 7042
+Grab Indonesia hanya akan menghubungi Anda melalui nomor berikut:
+* Konsumen & Mitra Pengemudi: +62 21 2350 7078
+* Mitra GrabMerchant: +62 21 8064 8787
+* Tim Cepat Tanggap Grab: +62 21 2350 7077
+Direktorat Jenderal Perlindungan Konsumen dan Tertib Niaga
+Kementerian Perdagangan Republik Indonesia
+Whatsapp Ditjen PKTN: +62 853 1111 1010
+Follow us and keep updated!
+Indonesia 
+Singapore Malaysia Indonesia Thailand Vietnam Philippines Myanmar Cambodia 
+Tentang Grab
+* Cerita Grab
+* Inside Grab
+* Hubungan Investor
+* Lokasi
+* Tanggung Jawab & Keselamatan
+* Dampak Positif
+* Ruang Berita
+* Karir
+* GrabForGood Fund
+Pengguna
+* Yang Terbaru
+* Transportasi
+* GrabFood
+* GrabMart
+* GrabExpress
+* Pembayaran Grab
+* GrabRewards
+* Paket Hemat
+* GrabKios
+* GrabGifts
+* GrabMart Kilat
+* Clean & Fix
+* Experience
+* GrabJastip
+* Fitur Terbaru
+Pengemudi
+* Yang Terbaru
+* Transportasi
+* GrabFood
+* GrabExpress
+* Pusat Pengemudi
+* Kode Etik
+Mitra Penjual
+* Panduan
+* Blog
+* GrabFood 
+* GrabKios
+* GrabMart
+* Finance
+* Grab Dine Out
+Perusahaan
+* Grab for Business
+* GrabAds
+* GrabGifts
+* GrabExpress
+* GrabMaps
+* Layanan Pengantaran untuk Bisnis
+Tautan Langsung
+* Pusat Bantuan
+* Menu Makanan
+* Layanan Pengaduan GrabMart
+* Developer Portal
+* Peraturan dan Kebijakan
+* •
+* Pemberitahuan Privasi
+(c) Grab 2010 - 2025
+* 
+* 
+* 
+Penggunaan Cookie
+Dengan mengklik "Terima Semua Cookie" , anda setuju untuk menyimpan cookie pada perangkat anda untuk navigasi situs, menganalisas penggunaan situs, dan membantu dalam upaya pemasaran kami. Silahkan mengacu kepada bagian Cookies dalam Pemberitahuan Privasi kami untuk informasi lebih lanjut. Pemberitahuan Privasi
+Terima Semua Cookie
+Pengaturan Cookie
+
+Pusat Preferensi Privasi
+Saat Anda mengunjungi situs web, situs web dapat menyimpan atau mengambil informasi di browser Anda, sebagian besar dalam bentuk cookie. Informasi ini mungkin tentang Anda, preferensi Anda, perangkat Anda, atau digunakan untuk menjalankan situs seperti yang Anda harapkan. Informasi tersebut biasanya tidak mengidentifikasi diri Anda secara langsung, tetapi dapat memberi Anda pengalaman web yang lebih personal. Anda dapat memilih untuk tidak mengizinkan beberapa jenis cookie. Klik pada judul kategori yang berbeda untuk mencari tahu selengkapnya dan mengubah pengaturan default kami. Namun, perlu Anda ketahui bahwa memblokir beberapa jenis cookie dapat mempengaruhi pengalaman Anda menjelajahi situs dan layanan yang dapat kami tawarkan. 
+Informasi Lainnya
+Izinkan Semua
+Kelola Preferensi Persetujuan
+Cookie yang Sangat Diperlukan
+Selalu Aktif
+Cookie ini diperlukan agar situs web berfungsi dan tidak dapat dinonaktifkan di sistem kami. Cookie ini biasanya hanya diatur sebagai tanggapan atas tindakan yang Anda lakukan yang sejenis dengan permintaan layanan, seperti pengaturan preferensi privasi, proses masuk, atau pengisian formulir. Anda dapat mengatur browser Anda agar memblokir atau memperingatkan Anda tentang cookie ini, tetapi beberapa bagian situs mungkin tidak berfungsi.
+Cookie Performa
+Cookie Performa 
+Cookie ini memungkinkan kami menghitung kunjungan dan sumber trafik agar kami dapat mengukur dan meningkatkan performa situs kami. Cookie ini membantu kami mengetahui halaman mana yang paling populer maupun tidak dan melihat bagaimana para pengunjung bernavigasi di situs. Semua informasi yang dikumpulkan cookie ini dibuat agregat sehingga anonim. Jika cookie ini tidak diizinkan, kami tidak akan tahu saat Anda mengunjungi situs kami.
+Cookie Fungsional
+Cookie Fungsional 
+Cookie ini memungkinkan penyediaan fungsionalitas dan personalisasi yang ditingkatkan, seperti video dan obrolan langsung. Pengaturannya dikontrol oleh kami atau pihak ketiga yang menyediakan layanan yang telah kami tambahkan ke halaman kami. Jika cookie ini tidak diizinkan, maka beberapa atau semua fungsionalitas mungkin tidak berfungsi dengan baik.
+Cookie Penargetan
+Cookie Penargetan 
+Cookie ini diatur di seluruh situs kami oleh mitra periklanan kami. Cookie ini dapat digunakan oleh perusahaan tersebut untuk membangun profil ketertarikan Anda dan menampilkan iklan yang relevan di situs lain. Cookie ini bekerja dengan cara mengidentifikasi browser dan perangkat Anda secara unik. Jika cookie ini tidak diizinkan, Anda tidak akan mendapatkan periklanan tertarget kami di situs web yang lain.

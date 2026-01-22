@@ -1,0 +1,143 @@
+﻿KEBIJAKAN PRIVASI
+ 
+Terakhir diperbarui: 4 November 2025
+ 
+Selamat datang di Platform inDrive. Kebijakan ini menjelaskan pendekatan kami dalam menangani data pribadi pengguna Platform inDrive. 
+Pengguna yang merupakan penyedia independen layanan transportasi, logistik, atau kurir melalui Platform inDrive disebut sebagai "Penyedia", dan klien mereka, termasuk penumpang dan pengirim paket, disebut sebagai "Pengguna Akhir " (bersama-sama disebut sebagai "pengguna", "Anda").
+SUOL INNOVATIONS LTD adalah entitas yang menyediakan Platform dan mengontrol pemrosesan data, kecuali pengontrol data lainnya tertera dalam pemberitahuan privasi khusus proyek yang diberikan kepada Anda ("kami", "inDrive").
+Kebijakan ini berlaku saat Anda menggunakan aplikasi seluler, situs web, produk, konten, fasilitas, dan sistem inDrive (bersama-sama disebut sebagai "Platform"), atau saat Anda menghubungi kami. Kebijakan ini tidak mencakup bagaimana kami menangani informasi tentang kandidat, karyawan, atau mitra bisnis kami.
+Kebijakan ini berlaku di mana pun Platform tersedia, kecuali untuk negara-negara yang menerapkan kebijakan privasi khusus yurisdiksi tertentu. Kami akan mematuhi hukum setempat yang berlaku terkait semua praktik yang dijelaskan dalam kebijakan ini. Jika terdapat ketidaksesuaian antara kebijakan ini dan hukum setempat, kami akan mematuhi hukum setempat sepanjang ketidaksesuaian tersebut.
+Informasi apa yang kami kumpulkan
+Kami mengumpulkan tiga kategori informasi tentang Anda: informasi yang Anda berikan, informasi yang kami kumpulkan secara otomatis, dan informasi yang kami peroleh dari sumber lain.
+Kami tidak mengumpulkan informasi tentang ras atau etnis asal, pendapat politik atau keanggotaan dalam asosiasi politik mana pun, keyakinan agama atau filosofis, keanggotaan serikat pekerja, data genetik, atau data Anda tentang kehidupan seks atau orientasi seksual, kecuali pengumpulannya diperlukan untuk memenuhi kewajiban hukum kami. 
+Informasi yang Anda berikan
+Informasi Pendaftaran dan Pengguna Akhir mencakup nama depan, nomor telepon, email, negara, dan kota. Jika diizinkan atau diharuskan oleh hukum, kami dapat meminta gambar swafoto (selfie) Anda untuk pemeriksaan keaktifan, nomor identitas nasional, dan akun media sosial untuk tujuan keamanan, serta nomor kontak darurat. Tanpa memberikan informasi ini, Anda tidak akan dapat menggunakan Platform atau beberapa fiturnya. Jika Anda bersedia, Anda juga dapat memberikan nama belakang dan foto profil Anda. 
+Informasi penyedia dapat mencakup nama lengkap, foto profil, data dan status lisensi, informasi tentang kendaraan (jenis, merek, model, tahun produksi, warna, data STNK, plat nomor, laporan pemeriksaan kendaraan, foto kendaraan, kapasitas muatan yang diizinkan, jika berlaku), bukti identitas, nomor identifikasi negara bagian, dokumen identitas (termasuk SIM, paspor), bukti tempat tinggal, alamat rumah, tanggal lahir, jenis kelamin, nomor pokok wajib pajak, asuransi terkait, hak untuk bekerja, catatan mengemudi, informasi pembayaran atau perbankan, dan dokumen lain yang mungkin diwajibkan oleh peraturan yang berlaku. Jika diizinkan atau diwajibkan oleh hukum, kami juga dapat mengumpulkan pemeriksaan latar belakang dan informasi catatan kriminal. Informasi ini dapat diproses oleh vendor resmi atas nama kami. Tanpa memberikan informasi tersebut, Anda tidak akan dapat mendaftar sebagai Penyedia.
+Konten buatan pengguna, yaitu informasi yang Anda unggah di Platform, misalnya dalam profil Anda, dalam ulasan tentang pengguna lain atau obrolan, rekaman audio yang dibuat di Platform.
+Informasi order, seperti titik asal dan tujuan, metode pembayaran, harga perkiraan, yang disarankan, dan hasil negosiasi, jenis dan kelas transportasi, komentar terhadap order, detail pengantaran termasuk alamat penerima, informasi kontak, deskripsi paket dan instruksi khusus yang diperlukan agar pengantaran berhasil dilakukan. 
+Informasi yang Anda berikan dalam komunikasi Anda kepada kami, termasuk dalam pesan obrolan, email dan lampirannya, melalui panggilan telepon dan metadata terkait. 
+Informasi untuk berpartisipasi dalam Acara Insentif. Dari waktu ke waktu, kami dapat meluncurkan promosi, program bonus, kontes, undian, diskon, program rujukan, program manajemen armada kendaraan, program loyalitas, pelatihan, dan jenis insentif lainnya ("Acara Insentif"). Untuk berpartisipasi dalam aktivitas tersebut serta menerima bonus, pembayaran, atau manfaat lainnya, kami mungkin meminta Anda untuk memberikan informasi seperti nama, alamat email, ID pengguna, nomor telepon, informasi pembayaran atau perbankan, alamat rumah, akun media sosial, jenis kendaraan dan foto kendaraan, dan, jika berlaku, dokumen identifikasi (termasuk SIM, paspor), nomor pokok wajib pajak, atau nomor tanda pengenal dari pemerintah.
+Informasi untuk manajemen insiden dan klaim pengguna. Saat Anda melaporkan suatu insiden atau mengajukan klaim kepada kami, kami dapat meminta beberapa detail tambahan dari Anda untuk mengatasi insiden tersebut dan mendukung proses terkait, misalnya fasilitasi asuransi. Data yang diminta dapat mencakup nomor identitas pribadi dan nomor pokok wajib pajak, detail kontak, informasi relevan lainnya yang diminta selama proses komunikasi kami. 
+Informasi yang kami kumpulkan secara otomatis
+Informasi lokasi. Kami mengumpulkan data lokasi pengguna untuk mengaktifkan order, menyediakan dukungan pengguna, memastikan keselamatan, mendeteksi penipuan, dan mematuhi persyaratan hukum. Kami mengumpulkan informasi lokasi (termasuk koordinat GPS dan data WiFi) berdasarkan pengaturan Platform dan izin perangkat Anda:
+- Pengguna akhir: Kami mengumpulkan lokasi presisi perangkat Anda saat aplikasi muncul di layar atau berjalan di latar belakang, sejak Anda membuka aplikasi. Pengguna akhir dapat menggunakan aplikasi tanpa mengaktifkannya untuk mengumpulkan data lokasi dari perangkat seluler mereka dengan langsung memasukkan alamat penjemputan dan pengantaran.
+- Penyedia: Kami mengumpulkan lokasi presisi perangkat Anda saat aplikasi muncul di layar atau berjalan di latar belakang dalam mode pengemudi atau kurir saat status Anda 'Online' dan selama pemenuhan order. Kami juga dapat mengumpulkan lokasi presisi selama waktu terbatas setelah Anda keluar dari mode pengemudi atau kurir untuk mendeteksi dan menyelidiki insiden yang mungkin terjadi selama pemenuhan order.
+Informasi transaksi. Kami mengumpulkan informasi transaksi terkait dengan layanan yang disediakan melalui Platform, termasuk order untuk produk, layanan, dan konten pihak ketiga yang tersedia di Platform. Informasi tersebut dapat mencakup metode pembayaran yang tersimpan, 4 digit terakhir kartu bank, jumlah yang didebit, informasi transaksi pembayaran, tanggal dan waktu order atau penyediaan produk, layanan, atau konten pihak ketiga, rute dan jarak, data yang terdapat dalam resi.
+Informasi penggunaan. Kami mengumpulkan data tentang penggunaan Platform kami oleh Anda, seperti tanggal dan waktu akses, fitur atau halaman yang dilihat, eror pada Platform, dan aktivitas sistem lainnya. Kami juga dapat mengumpulkan dan menggunakan untuk tujuan pemasaran data yang terkait dengan layanan pihak ketiga yang Anda gunakan sebelum berinteraksi dengan Platform.
+Informasi komunikasi. Kami memungkinkan pengguna untuk berkomunikasi satu sama lain dan dengan kami di Platform. Untuk memfasilitasi hal ini, kami menerima data tentang waktu dan tanggal komunikasi serta kontennya. Kami dapat menggunakan data ini untuk menyediakan dukungan pengguna dan menyelesaikan sengketa antara pengguna, mengidentifikasi pelanggaran aturan Platform, memastikan keselamatan, dan meningkatkan kualitas Platform kami.
+Informasi perangkat dan jaringan. Kami mengumpulkan informasi tentang perangkat yang Anda gunakan untuk mengakses Platform, seperti nama perangkat, merek dan model, produsen, agen pengguna, alamat IP, operator seluler, jenis jaringan, pengaturan zona waktu, pengaturan bahasa, pengenal iklan, mis. IDFA, GAID, jenis browser, sistem operasi dan versinya, parameter layar, status baterai, dan aplikasi terinstal yang dapat digunakan untuk tujuan autentikasi dan antipenipuan, versi SDK. Kami juga dapat mengumpulkan data sensor seluler, seperti kecepatan, arah, ketinggian, akselerasi, deselerasi, dan data teknis lainnya.
+Informasi aplikasi. Kami mengumpulkan informasi tentang paket dan versi aplikasi inDrive yang Anda instal.
+ID pengguna dan order. Kami secara otomatis memberikan Anda ID pengguna saat Anda membuat akun di Platform, dan ID order untuk setiap order. 
+Status Order. Kami mengumpulkan data tentang status order, termasuk perubahan dan pembatalannya.
+Informasi tentang rating dan tingkatan dalam Acara Insentif. Kami memproses informasi tentang rating Anda, tingkatan insentif, manfaat dan opsi masing-masing yang diberikan kepada Anda di Platform.
+Cookie dan teknologi pelacakan. Kami mengumpulkan informasi melalui penggunaan cookie, piksel, tag, dan teknologi pelacakan serupa lainnya ("cookie"). Untuk mempelajari lebih lanjut tentang teknologi ini, silakan lihat Kebijakan Cookie kami. 
+Informasi yang kami peroleh dari sumber lain
+Layanan pihak ketiga. Kami dapat menerima informasi tentang pengguna dari:
+- vendor kami yang tercantum di bagian "Bagaimana kami membagikan informasi Anda".
+- pihak ketiga yang menyediakan produk, layanan, dan konten yang ada di Platform.
+- pihak ketiga yang menyediakan produk, layanan, dan konten yang dapat diakses dengan mengikuti tautan eksternal yang diposting di Platform atau melalui cara lain untuk mengakses layanan pihak ketiga dari Platform, termasuk sebagai bagian dari Acara Insentif. 
+Otoritas negara. Kami dapat menerima informasi tentang pengguna dari lembaga penegak hukum dan otoritas pemerintah lainnya sebagaimana diharuskan atau diizinkan oleh hukum.
+Pengguna lainnya atau pihak ketiga. Kami dapat menerima informasi tentang Anda dari pengguna lainnya atau pihak ketiga, mis. sehubungan dengan program rujukan, melalui ulasan, komunikasi ke tim dukungan inDrive (mis. komunikasi tentang insiden atau keluhan yang mungkin juga mencakup audio, video, gambar, dokumen). 
+Bagaimana kami menggunakan informasi Anda
+Kami menggunakan informasi pribadi untuk tujuan berikut:
+1. Memungkinkan penggunaan Platform dan produk, layanan, dan konten pihak ketiga
+- memungkinkan pengguna untuk memelihara akun pada Platform, meminta dan menyediakan layanan melalui Platform, serta menggunakan produk, layanan, dan konten pihak ketiga yang tersedia pada Platform;
+- memverifikasi hak dan kemampuan Penyedia untuk menyediakan layanan melalui Platform;
+- memungkinkan pengguna untuk menikmati manfaat dan opsi yang ditawarkan dalam Acara Insentif;
+- mencegah dan menanggulangi perilaku yang tidak aman atau melanggar hukum, penipuan, serta pelanggaran lainnya terhadap aturan Platform, serta menangguhkan dan menonaktifkan pengguna yang terlibat dalam aktivitas terlarang;
+- menyediakan dukungan pengguna, menangani keluhan pengguna;
+- mengirimkan komunikasi non-pemasaran (seperti faktur, resi, atau notifikasi tentang order);
+- mempertahankan aksesibilitas, keamanan, dan stabilitas Platform kami, mencegah dan menyelesaikan insiden dan masalah teknis.
+Dasar hukum: pelaksanaan kontrak kami dengan Anda, kebutuhan untuk mematuhi kewajiban hukum kami, dan kepentingan sah kami untuk menjadikan Platform sebagai ruang yang aman.
+2. Meningkatkan kualitas dan mengembangkan fitur dan produk
+- melakukan pengujian, penelitian, analisis data, pengembangan, dan pembelajaran mesin;
+- mengumpulkan umpan balik Anda.
+Dasar hukum: kepentingan sah kami untuk memberi Anda pengalaman terbaik di Platform. Jika diperlukan persetujuan tegas untuk penggunaan tertentu, kami akan memperolehnya secara terpisah. 
+3. Promosi
+- mengirimkan komunikasi pemasaran dan iklan kepada Anda, dan melakukan panggilan pemasaran kepada Anda;
+- menyediakan konten dan iklan yang dipersonalisasi kepada Anda di Platform, dan di platform pihak ketiga;
+- menyelenggarakan Acara Insentif.
+Dasar hukum: kepentingan sah kami dalam mempromosikan Platform. Jika diperlukan persetujuan tegas untuk bentuk pemasaran langsung tertentu, kami akan memperolehnya secara terpisah.
+4. Melindungi hak dan mematuhi persyaratan hukum
+- mematuhi persyaratan lisensi atau izin, dan peraturan perundangan-undangan lainnya yang berlaku;
+- menanggapi permintaan dari lembaga penegak hukum, pertanyaan dari pemerintah, panggilan pengadilan, perintah pengadilan, klaim hukum;
+- melindungi hak dan kepentingan grup inDrive, pengguna kami, atau publik.
+Dasar hukum: kebutuhan untuk mematuhi kewajiban hukum kami, dan kepentingan sah kami. 
+Pengambilan keputusan otomatis
+Kami menggunakan informasi pribadi untuk mengambil keputusan otomatis terkait penggunaan Platform kami oleh Anda:
+- menghubungkan Penyedia dan Pengguna Akhir berdasarkan faktor-faktor yang relevan, termasuk ketersediaan, kedekatannya;
+- menentukan rating pengguna, dan menonaktifkan pengguna dengan rating rendah;
+- menandai atau menangguhkan sementara pengguna yang teridentifikasi terlibat dalam penipuan, aktivitas yang tidak aman atau berbahaya. Dalam beberapa kasus, aktivitas tersebut dapat menyebabkan penonaktifan;
+- memverifikasi kebenaran dokumen pendaftaran yang diunggah. Pengguna dapat mengirimkan ulang dokumen jika ditolak atau meminta peninjauan manual;
+- merekomendasikan tarif rata-rata berdasarkan faktor-faktor relevan, termasuk jarak, lokasi, waktu.
+Jika diharuskan oleh hukum, tindakan (termasuk penonaktifan) berdasarkan pemrosesan tersebut hanya terjadi setelah peninjauan oleh manusia dan/atau kemungkinan untuk mengajukan banding. Untuk mengajukan keberatan terhadap keputusan yang dihasilkan dari proses ini, silakan hubungi kami sebagaimana dijelaskan di bagian "Hubungi Kami". 
+Bagaimana kami membagikan informasi Anda
+Kepada pengguna lain. Kami membagikan informasi tertentu tentang pengguna untuk memungkinkan penjadwalan dan penyediaan order:
+- Informasi pengguna akhir yang dibagikan kepada Penyedia mencakup nama, foto profil (jika diunggah), rating, jumlah ulasan dan order yang dibuat, informasi tentang order, termasuk titik asal dan tujuan, tarif yang ditawarkan, komentar, dan informasi kontak. Di wilayah tempat kami mengharuskan Pengguna Akhir untuk mengirimkan nomor identitas nasional, kami juga dapat membagikan informasi kepada Penyedia tentang apakah Pengguna Akhir telah menyerahkan nomor ini atau tidak (tetapi kami tidak akan membagikan nomor identitas tersebut).
+- Informasi penyedia yang dibagikan kepada Pengguna Akhir mencakup nama lengkap dan foto profil, informasi tentang kendaraan (merek, model, nomor, warna) dan fotonya, lokasi sebelum dan selama order, rating dan ulasan, jumlah ulasan dan order yang dibuat, informasi kontak. Jika berlaku, kami juga dapat membagikan kepada Pengguna Akhir nomor telepon Penyedia atau tanda pengenal relevan lainnya yang ditentukan oleh Penyedia untuk memungkinkan pembayaran melalui solusi pembayaran pihak ketiga. 
+Jika diminta memberikan resi dan faktur kepada Pengguna Akhir, kami dapat membagikan informasi mengenai titik asal dan tujuan, total durasi dan jarak perjalanan atau pengantaran, perincian total tarif, nama Penyedia, nomor pokok wajib pajak, dan informasi lain yang diwajibkan oleh hukum.
+Jika Anda mendaftar di Platform melalui tautan rujukan, kami dapat membagikan informasi tertentu tentang Anda, seperti nama dan jumlah order yang dibuat, kepada pengguna yang merujuk Anda. Hal ini dimaksudkan untuk memungkinkan pengguna yang merujuk memeriksa apakah mereka memenuhi syarat atau tidak untuk mendapatkan bonus rujukan.
+Untuk tujuan layanan selain layanan transportasi yang disediakan melalui Platform, kami akan membagikan informasi kepada pengguna lain yang diperlukan untuk penyediaan layanan tersebut. 
+Jika pengguna yang terpengaruh oleh pelanggaran Ketentuan Penggunaan Platform oleh pengguna lain menghubungi kami, tim dukungan inDrive dapat memberikan beberapa informasi untuk membantu menyelesaikan masalah tersebut. Informasi tersebut dapat mencakup detail tentang kendaraan, order, dan informasi kontak.
+Kepada penerima paket. Penerima paket dapat mengakses informasi berikut: nama dan rating kurir di Platform, detail kendaraan dan nomor plat, lokasi kurir, alamat pengantaran, deskripsi order, dan detail order. Jika diperlukan untuk memudahkan pengantaran paket, kami juga dapat membagikan nomor telepon kontak. 
+Kepada vendor dan mitra kami, pihak ketiga yang menyediakan produk, layanan, dan konten 
+Kami dapat membagikan informasi pribadi Anda untuk tujuan bisnis kepada vendor layanan kami berikut ini:
+- pemrosesan pembayaran dan pemenuhan transaksi;
+- dukungan pengguna dan teknis;
+- pemeriksaan latar belakang, verifikasi identitas;
+- asuransi;
+- penyimpanan cloud;
+- pengiriman konten, pengiriman pesan dalam aplikasi, panggilan dalam aplikasi, notifikasi push;
+- antipenipuan;
+- periklanan, pemasaran, dan analitik;
+- penelitian dan survei;
+- penyedia manfaat dan opsi yang terkait dengan Acara Insentif kami, termasuk penyedia tempat parkir dan kendaraan bermotor;
+- konsultan, pengacara, akuntan, auditor, dan layanan profesional lainnya;
+- bandara.
+Mitra berikut memproses data untuk tujuan mereka sendiri sebagai pengontrol independen dan kami tidak mengontrol pemrosesan tersebut:
+-  platform untuk otorisasi, misalnya, lihat Kebijakan Privasi Google, WhatsApp, Facebook;
+- Google, sehubungan dengan penggunaan Google Maps dan Iklan (lihat kebijakan privasi Google);
+- perusahaan media sosial (termasuk Meta), sehubungan dengan penggunaan alat mereka oleh kami (lihat kebijakan privasi Meta).
+Kami dapat membagikan informasi pribadi Anda kepada pihak ketiga yang menyediakan produk, layanan, dan konten yang ada di Platform, serta yang tersedia saat Anda keluar dari Platform (mis. saat Anda mengikuti tautan eksternal yang diposting di Platform) agar dapat memberi Anda produk, layanan, atau konten yang relevan.
+Dalam grup perusahaan. Kami dapat membagikan informasi Anda kepada induk perusahaan, anak perusahaan, atau afiliasi grup perusahaan kami sebagai bagian dari operasi global kami. 
+Sehubungan dengan transfer bisnis. Kami dapat mentransfer informasi pribadi sehubungan dengan transaksi perusahaan yang signifikan, di mana informasi pribadi termasuk di antara aset yang akan ditransfer. 
+Untuk alasan hukum. Kami dapat mengungkapkan informasi pribadi Anda saat entitas grup inDrive diharuskan melakukannya untuk melindungi hak dan mematuhi kewajiban hukum, mis. sebagai tanggapan atas permintaan sah dari pengadilan, lembaga penegak hukum, badan pengatur. 
+Dengan persetujuan Anda. Kami dapat membagikan informasi pribadi Anda untuk tujuan lain sesuai dengan persetujuan Anda atau atas arahan Anda.
+Ketika informasi tidak lagi dapat diidentifikasi secara pribadi. Kami dapat membagikan informasi agregat atau informasi anonim lainnya yang tidak lagi menyertakan identitas pribadi.
+Kepada kontak darurat Anda. Kami dapat membagikan informasi tentang order dan insiden yang melibatkan pengguna kepada kontak darurat mereka, jika sebelumnya telah diberikan oleh pengguna di Platform.
+Fitur bagikan perjalanan Anda. Demi alasan keselamatan, kami memberi penumpang opsi untuk berbagi informasi tentang perjalanan mereka saat ini, termasuk nama pengemudi, rating, dan informasi kendaraan, geolokasi real time, titik keberangkatan dan tujuan, serta status order. Penumpang secara mandiri memberikan akses ke kontak yang dipilih, mis. melalui SMS atau WhatsApp.
+Transfer data lintas negara
+Untuk mendukung operasi global kami, kami dapat membagikan informasi Anda kepada anggota grup perusahaan inDrive dan entitas lain di luar negara domisili Anda sebagaimana dijelaskan di bagian "Bagaimana kami membagikan informasi Anda". Kami melakukannya untuk pelaksanaan kontrak kami dengan Anda, atau berdasarkan persetujuan, keputusan kecukupan untuk negara terkait, atau mekanisme transfer lainnya dan perlindungan yang sesuai berdasarkan hukum yang berlaku, termasuk Klausul Kontrak Standar yang disetujui oleh Komisi Eropa. 
+Kami mengambil langkah-langkah yang wajar untuk memastikan bahwa setiap penerima di luar negeri menangani informasi pribadi Anda dengan cara yang sesuai dengan cara kami menanganinya.
+Jika Anda memerlukan informasi lebih lanjut tentang transfer data lintas negara dan perlindungan yang mendasarinya, silakan hubungi kami sebagaimana dijelaskan di bagian "Hubungi kami".  
+Hak dan pilihan Anda
+Mengakses, menerima, dan memperbarui informasi Anda. Anda dapat mengakses, meninjau, dan memperbarui informasi Anda baik melalui pengaturan akun di aplikasi atau dengan menghubungi kami sebagaimana dijelaskan di bagian "Hubungi kami". Anda juga dapat meminta salinan semua informasi tentang Anda yang kami proses. Anda mungkin menerima data Anda dalam format terstruktur, umum digunakan, dan dapat dibaca mesin sepanjang data tersebut telah diproses dengan cara otomatis.
+Menghapus akun dan data Anda. Anda dapat menghapus akun Anda melalui pengaturan aplikasi atau meminta penghapusan akun dan data Anda dengan menghubungi kami sebagaimana dijelaskan di bagian "Hubungi kami". Anda mungkin diminta untuk memverifikasi akun dan identitas Anda. Kami tidak akan dapat menghapus akun Anda jika ada utang yang belum lunas atau masalah yang belum terselesaikan terkait akun Anda (mis. keluhan yang belum terselesaikan). Kami dapat menyimpan informasi tertentu setelah akun Anda dihapus selama ada dasar yang sah untuk penyimpanan tersebut (lihat bagian "Bagaimana kami menyimpan informasi Anda"). 
+Membagikan informasi lokasi. Perangkat Anda mungkin memiliki kontrol yang menentukan informasi apa yang kami kumpulkan. Misalnya, Anda dapat mencegah perangkat Anda dari membagikan informasi lokasi melalui pengaturan sistem perangkat Anda. 
+Keberatan dan penarikan persetujuan. Anda memiliki hak untuk menolak pemrosesan informasi Anda oleh kami jika pemrosesan tersebut didasarkan pada kepentingan sah kami. Anda juga dapat menarik persetujuan untuk pemrosesan kapan saja jika pemrosesan didasarkan pada persetujuan Anda. Secara khusus, Anda dapat melaksanakan hak-hak ini dengan:
+- Memilih tidak menerima notifikasi push. Anda dapat memilih untuk tidak menerima notifikasi push melalui pengaturan perangkat atau pengaturan aplikasi.
+- Berhenti berlangganan email dan pesan pemasaran. Anda dapat memilih tidak menerima email dan pesan pemasaran dengan menggunakan tautan "berhenti berlangganan" atau mekanisme yang tercantum dalam email dan pesan tersebut.
+- Memilih tidak menerima panggilan pemasaran. Anda dapat memilih untuk tidak menerima panggilan pemasaran selama panggilan berlangsung atau dengan menghubungi kami sebagaimana dijelaskan di bagian "Hubungi kami". 
+- Mengelola cookie. Anda dapat menghapus cookie dan mengubah pengaturan cookie di pengaturan browser web Anda. 
+Pembatasan. Anda dapat meminta kami untuk membatasi penggunaan data Anda oleh kami. Kami dapat terus memproses data Anda setelah permintaan tersebut sepanjang diwajibkan atau diizinkan oleh hukum.
+Hak untuk mengajukan keluhan kepada otoritas pengawas. Berdasarkan hukum setempat, Anda dapat memiliki hak untuk mengajukan keluhan kepada otoritas pengawas setempat. 
+Bagaimana kami menyimpan informasi Anda
+Kami menyimpan informasi pribadi Anda selama Anda memiliki akun di kami. Kami dapat menyimpan informasi tertentu setelah penghentian akun karena alasan yang sah:
+- Kami akan menyimpan informasi transaksional (seperti data tentang order dan pembayaran) selama diperlukan untuk memenuhi kewajiban perpajakan kami. Hukum perpajakan secara umum mengharuskan kami menyimpan informasi selama 10 tahun.
+- Kami akan menyimpan informasi tersebut selama periode yang disyaratkan oleh regulator perizinan (jika berlaku). Periode penyimpanan akan bervariasi tergantung pada lokasi dan jenis data Anda.
+- Kami akan menyimpan korespondensi dan dokumentasi lainnya selama diperlukan untuk mematuhi kewajiban penyimpanan dokumen menurut undang-undang. Hukum komersial secara umum mengharuskan kami menyimpan korespondensi komersial selama 6 tahun.
+- Jika terdapat klaim hukum atau sengketa atau kemungkinan terjadinya hal tersebut, kami akan menyimpan informasi terkait hingga klaim tersebut terpenuhi/sengketa terselesaikan atau daluwarsa penuntutan berakhir. Daluwarsa penuntutan akan bergantung pada lokasi Anda, tetapi umumnya memerlukan penyimpanan selama 3-7 tahun.
+- Kami juga akan menyimpan data yang relevan untuk mencegah penipuan, untuk memastikan keselamatan pengguna, untuk mematuhi kewajiban hukum kami selama periode yang diperlukan untuk memenuhi tujuan-tujuan ini.  
+Bagaimana kami melindungi informasi Anda
+Kami mengambil langkah-langkah pengamanan teknis, hukum, dan organisasi yang wajar dan tepat untuk melindungi informasi pribadi Anda dari tindakan tidak sah termasuk namun tidak terbatas pada akses, pengungkapan, pengubahan, atau pemusnahan yang menyebabkan hilangnya, pencurian, atau penyalahgunaan data Anda.
+Proses keamanan di perusahaan kami dikembangkan sesuai dengan standar ISO/IEC 27001:2022, dan kami berusaha sebaik mungkin untuk menegaskan komitmen kami dalam melindungi informasi Anda. Kami secara berkala meninjau langkah-langkah pengamanan kami untuk mempertimbangkan teknologi dan metode baru. Karena keamanan mutlak tidak ada, kami tidak dapat menjamin keamanan mutlak informasi Anda, terutama terhadap tindakan berniat jahat oleh pihak ketiga di mana biaya untuk melakukan serangan yang berhasil berkali-kali lipat lebih besar daripada nilai data yang mungkin dibobol. Meskipun demikian, kami melakukan upaya yang wajar secara komersial untuk menjaga keamanan informasi Anda.
+Pengungkapan umum
+Melindungi anak-anak. Platform ini tidak ditujukan kepada anak-anak (sebagaimana didefinisikan dalam undang-undang setempat). Jika kami mengetahui bahwa kami menyimpan informasi pribadi seorang anak, kami akan melakukan upaya yang wajar untuk menghapus data ini dan memastikan data tersebut tidak digunakan atau dibagikan lebih lanjut. Jika Anda yakin seorang anak telah memberikan informasi pribadi kepada kami, silakan hubungi kami sebagaimana dijelaskan di bagian "Hubungi kami".
+Pemantauan telepon. Percakapan telepon dengan tim dukungan inDrive dapat dipantau dan direkam untuk tujuan jaminan mutu dan pelatihan.
+Jangan Lacak. Beberapa browser mengirimkan sinyal "jangan lacak (do-not-track) " ke situs web. Karena perbedaan dalam cara browser mengimplementasikan fitur ini, saat ini kami tidak mengambil tindakan sebagai respons terhadap sinyal ini.
+Pengumpulan oleh pihak ketiga. Pihak ketiga tertentu dapat menggunakan teknologi pengumpulan informasi otomatis, termasuk teknologi pelacakan lintas situs, untuk mengumpulkan informasi pribadi. Pihak ketiga ini dapat mencakup penyedia layanan internet Anda, browser web, penyedia layanan seluler, produsen perangkat seluler, pengiklan online, dan perusahaan analisis data. Selain itu, Platform kami mungkin memuat tautan ke platform pihak ketiga. Mengklik tautan tersebut berarti platform terkait dapat mengumpulkan informasi pribadi Anda. Kami tidak bertanggung jawab atas praktik privasi pihak ketiga.  
+Perubahan
+Kami dapat memperbarui kebijakan ini dari waktu ke waktu untuk mencerminkan perubahan pada undang-undang atau cara kami beroperasi. Saat kami memperbarui kebijakan ini, kami akan memberi tahu Anda dengan memperbarui tanggal "Terakhir Diperbarui" di bagian atas halaman ini dan dengan memposting Kebijakan Privasi baru serta memberikan pemberitahuan lain yang disyaratkan oleh hukum yang berlaku. Saat Anda menggunakan Platform, Anda berarti menyetujui versi terbaru dari kebijakan ini. 
+Hubungi kami
+Silakan hubungi kami di https://indrive.com/contacts/support. Kami akan menanggapi Anda sesuai dengan hukum yang berlaku serta setelah melakukan verifikasi yang sesuai atas akun dan identitas Anda. 
+SUOL INNOVATIONS LTD, 41 Themistokli Dervi, Hawaii Tower, 1st Floor, Office 106, 1066 Nicosia, Cyprus.

@@ -1,0 +1,96 @@
+﻿Kebijakan Privasi Nasabah
+KEBIJAKAN PRIVASI NASABAH INDIVIDU
+PT BANK MANDIRI (PERSERO) Tbk 
+Berlaku mulai dari 28 Juni 2024
+Selamat datang di Kebijakan Privasi kami. Kami ingin memberikan kejelasan dan keyakinan kepada Anda tentang bagaimana kami mengumpulkan, menggunakan, dan melindungi informasi pribadi Anda. Dengan membaca kebijakan privasi ini, diharapkan Anda merasa tenang dan yakin bahwa privasi Anda adalah prioritas utama bagi kami.
+Dalam Kebijakan Privasi ini, kami menyatakan PT Bank Mandiri (Persero) Tbk (selanjutnya disebut "Bank Mandiri") selaku Pengendali Data Pribadi, akan berupaya untuk memberikan keamanan dan perlindungan demi kenyamanan Anda dalam bertransaksi.
+Kami sangat mengutamakan keamanan Data Pribadi Anda. Dengan penuh tanggung jawab, Kebijakan Privasi ini secara rinci menjelaskan definisi, jenis, legalitas, dan tujuan pemrosesan Data Pribadi. Selain itu, kami menjelaskan pengendalian dan transfer Data Pribadi, jangka waktu pemrosesan, serta prosedur perubahan kebijakan privasi. Semua langkah ini kami lakukan dengan mengacu pada Undang-Undang Nomor 27 Tahun 2022 tentang Pelindungan Data Pribadi beserta perubahannya, yang lebih dikenal sebagai "UU PDP," serta peraturan perundang-undangan yang berlaku dan relevan, agar Anda merasa nyaman dan yakin dalam memberikan Data Pribadi Anda kepada kami.
+Untuk memperjelas, jenis, dasar pemrosesan, dan tujuan pemrosesan Data Pribadi Anda dapat berbeda-beda tergantung pada produk, layanan, dan/atau jasa yang Anda gunakan.
+  
+A. Definisi Data Pribadi 
+Data Pribadi adalah data tentang orang perseorangan yang teridentifikasi atau dapat diidentifikasi secara tersendiri atau dikombinasi dengan informasi lainnya baik secara langsung maupun tidak langsung melalui sistem elektronik atau non-elektronik.
+Data Pribadi yang diproses meliputi Data Pribadi yang telah dan akan Anda berikan kepada Bank Mandiri.
+  
+B. Jenis Data Pribadi 
+Bank Mandiri menyadari bahwa penting bagi Anda untuk mengetahui apa saja kategori dan jenis Data Pribadi Anda, yang dapat diproses. Jenis-jenis data tersebut meliputi:
+a. Data identifikasi profil pribadi, yaitu nama lengkap, Nomor Induk Kependudukan (NIK) untuk KTP Warga Negara Indonesia (WNI) dan Warga Negara Asing (WNA), Nomor Pokok Wajib Pajak (NPWP)/Tax Identification Number (TIN), dokumen keimigrasian, jenis kelamin, kewarganegaraan, tempat dan tanggal lahir, nama gadis ibu kandung, nama alias/panggilan, agama, rekaman suara, rekaman gambar, foto, bentuk tanda tangan (basah dan/atau elektronik), dan/atau data biometrik;
+b. Data korespondensi, yaitu alamat sesuai KTP, alamat dan status domisili, alamat surat elektronik (email), nomor telepon/handphone, dan kontak darurat yang mencakup nama, jenis hubungan dengan Anda, alamat, nomor telepon/ponsel, dan email;
+c. Data pendidikan dan pekerjaan, yaitu tingkat pendidikan, jenis pekerjaan, bidang usaha, jabatan, divisi, tahun mulai bekerja/usaha, nama perusahaan/instansi tempat bekerja, alamat tempat bekerja, status kepegawaian, serta nama, jabatan, dan nomor telepon rekan kerja; 
+d. Data keluarga, yaitu status perkawinan, nama pasangan, jumlah anak, dan jumlah tanggungan;
+e. Data keuangan, yaitu nomor rekening, sumber penghasilan, jumlah penghasilan bulanan/tahunan, jumlah pengeluaran bulanan/tahunan, data transaksi, data kredit/pembiayaan, data terkait aset, data terkait agunan, dan data perpajakan serta data layanan dari jasa keuangan lain yang Anda terima (yaitu asuransi dan kustodian);
+f. Data aktivitas digital, yaitu geolokasi, alamat IP, aktivitas Anda di aplikasi Bank Mandiri, dan interaksi aplikasi Bank Mandiri dengan aplikasi lain di perangkat elektronik Anda; dan/atau
+g. Data terkait preferensi pribadi, yaitu preferensi komunikasi, hobi, dan minat. 
+Data Pribadi yang diproses dapat Bank Mandiri terima secara langsung dari Anda atau melalui pihak ketiga.
+  
+C. Legalitas Pemrosesan Data Pribadi 
+Dasar Pemrosesan
+Pemrosesan Data Pribadi dilakukan sepanjang Bank Mandiri telah memenuhi satu atau beberapa dasar pemrosesan berikut: 
+a. Bank Mandiri secara eksplisit dan sah telah memperoleh persetujuan dari Anda;
+b. Bank Mandiri menjalankan hak dan kewajibannya berdasarkan perjanjian dengan Anda; 
+c. Bank Mandiri perlu melaksanakan kewenangan atau memenuhi kewajiban berdasarkan peraturan perundang-undangan/perintah instansi yang berwenang;
+d. Bank Mandiri perlu untuk memenuhi kepentingan vital Anda;
+e. Bank Mandiri perlu untuk melaksanakan tugas dalam rangka kepentingan umum dan/atau pelayanan publik;
+f. Bank Mandiri perlu memenuhi kepentingan yang sah lainnya, dengan tetap memperhatikan keseimbangan antara kepentingan Bank Mandiri dengan hak-hak Anda.
+Tujuan Pemrosesan Data Pribadi Anda
+Pemrosesan Data Pribadi Anda dilakukan oleh Bank Mandiri untuk tujuan berikut: 
+a. Pengelolaan produk, layanan, dan/atau jasa Bank Mandiri, termasuk pemrofilan dan scoring, untuk peningkatan pelayanan untuk Anda dan manajemen risiko Bank Mandiri.
+b. Penyediaan promo atau program Bank Mandiri yang dapat bekerja sama dengan pihak lain untuk produk dan/atau jasa yang telah Anda miliki.
+c. Pemasaran dan/atau penawaran atas produk, layanan, dan/atau jasa Bank Mandiri dan/atau perusahaan lain di dalam Mandiri Group dan/atau pihak ketiga yang bekerja sama dengan Bank Mandiri, untuk produk dan/atau jasa yang yang belum Anda miliki.
+d. Pemenuhan terhadap peraturan perundang-undangan dan perintah regulator, aparat penegak hukum, serta instansi berwenang lainnya.
+  
+D. Pengendalian dan Transfer Data Pribadi
+Dalam memproses Data Pribadi Anda, Bank Mandiri dapat melibatkan pihak ketiga sebagai pengendali bersama dan/atau prosesor Data Pribadi Anda baik di dalam dan/atau luar Indonesia. Dalam hal demikian, Bank Mandiri akan melakukan pelindungan atas Data Pribadi Anda sesuai peraturan perundang-undangan.
+Jika Bank Mandiri melakukan transfer Data Pribadi Anda ke luar Indonesia, Bank Mandiri akan memastikan secara wajar bahwa negara tujuan transfer telah memiliki tingkat pelindungan Data Pribadi yang setara (atau lebih tinggi) dibandingkan pelindungan Data Pribadi di Indonesia.
+Dalam hal negara tujuan transfer Data Pribadi tidak memiliki tingkat pelindungan yang setara (atau lebih tinggi), Bank Mandiri dapat tetap melakukan transfer Data Pribadi Anda sepanjang memenuhi peraturan perundang-undangan.
+  
+E. Hak Anda sebagai Subjek Data Pribadi
+Tentunya Bank Mandiri menyadari bahwa Data Pribadi merupakan aset terpenting bagi Anda. Maka dari itu, berikut kami informasikan hak-hak yang Anda miliki sebagai Subjek Data Pribadi:
+1. Hak atas Informasi dan Akses 
+Anda memiliki hak untuk memperoleh informasi mengenai identitas pihak yang meminta Data Pribadi Anda, tujuan permintaannya, serta akses terhadap salinan Data Pribadi Anda. Bank Mandiri akan memberikan akses ke informasi tersebut melalui sarana resmi Bank Mandiri, seperti cabang Bank Mandiri atau channel lainnya, sesuai dengan ketentuan peraturan perundang-undangan dan kebijakan Bank Mandiri.
+Anda memahami bahwa dalam hal Anda meminta salınan mengenai informasi Data Pribadi Anda dan/atau detail pemrosesan Data Pribadi Anda, Anda dapat dikenakan biaya oleh Bank Mandiri. 
+2. Hak atas Perbaikan Data 
+Anda memiliki hak untuk melengkapi, memperbarui, dan/atau memperbaiki Data Pribadi yang salah atau tidak akurat.
+3. Hak untuk Mendapatkan, Menggunakan dan/atau Mengirimkan Data Pribadi ke Pihak Lain 
+Anda memiliki hak untuk memperoleh, memanfaatkan, atau memberikan Data Pribadi Anda yang ada pada Bank Mandiri kepada pihak ketiga, selama sistem komunikasi yang digunakan oleh Bank Mandiri dan Pihak Ketiga dimaksud aman.
+4. Hak untuk Mengakhiri Pemrosesan, Menghapus dan/atau Memusnahkan Data Pribadi 
+Anda berhak untuk mengakhiri pemrosesan, menghapus dan/atau memusnahkan Data Pribadi Anda. Anda setuju untuk memberikan Bank Mandiri waktu untuk memproses pengakhiran pemrosesan, penghapusan dan/atau pemusnahan Data Pribadi Anda sejauh Bank Mandiri perlukan. Untuk menjalankan hak mengakhiri pemrosesan, penghapusan dan/atau pemusnahan Data Pribadi tersebut, Anda dapat menghubungi Bank Mandiri melalui sarana komunikasi yang diatur dalam poin H pada Kebijakan Privasi ini.
+Untuk dipahami, pengakhiran pemrosesan, penghapusan dan/atau pemusnahan Data Pribadi tersebut dapat mempengaruhi kemampuan Bank Mandiri untuk menyediakan produk, layanan, dan jasa kepada Anda serta hubungan kontraktual yang telah dibuat antara Bank Mandiri dengan Anda ataupun antara Bank Mandiri dengan pihak ketiga lainnya, termasuk dapat mengakibatkan terhentinya layanan yang Anda terima dan/atau terjadinya pengakhiran atas satu atau beberapa perjanjian Anda dengan Bank Mandiri dan/atau pelanggaran terhadap satu atau beberapa kewajiban Anda berdasarkan perjanjian dengan Bank Mandiri.
+Sehubungan dengan hal tersebut, pengakhiran pemrosesan, penghapusan dan/atau pemusnahan Data Pribadi mengakibatkan Anda memberikan hak kepada Bank Mandiri untuk melakukan pemblokiran rekening tabungan Anda, dan/atau menyatakan bahwa utang dan/atau kewajiban Anda kepada Bank Mandiri menjadi jatuh tempo dan dapat ditagih. Segala kerugian yang timbul akibat pelaksanaan hak Anda untuk mengakhiri pemrosesan, penghapusan dan/atau pemusnahan Data Pribadi merupakan tanggung jawab Anda.
+Kewajiban Bank Mandiri untuk menghapus dan memusnahkan Data Pribadi Anda dikecualikan untuk: 
+a. Kepentingan pertahanan dan keamanan nasional;
+b. Kepentingan proses penegakan hukum;
+c. Kepentingan umum dalam rangka penyelenggaraan negara; atau
+d. Kepentingan pengawasan sektor jasa keuangan, moneter, sistem pembayaran, dan stabilitas sistem keuangan yang dilakukan dalam rangka penyelenggaraan negara.
+5. Hak untuk Menarik Persetujuan 
+Anda berhak untuk menarik kembali persetujuan pemrosesan Data Pribadi yang telah Anda berikan kepada Bank Mandiri, dan Anda setuju untuk memberikan Bank Mandiri tambahan waktu untuk memproses pengakhiran pemrosesan Data Pribadi Anda sejauh Bank Mandiri perlukan. Untuk menjalankan hak penarikan persetujuan tersebut, Anda dapat menghubungi Bank Mandiri melalui sarana komunikasi yang diatur dalam poin H pada Kebijakan Privasi ini.
+Anda perlu memahami bahwa penarikan persetujuan tersebut dapat mempengaruhi kemampuan Bank Mandiri untuk menyediakan produk, layanan, dan jasa kepada Anda serta mengelola hubungan kontraktual yang telah dibuat antara Bank Mandiri dengan Anda ataupun antara Bank Mandiri dengan pihak ketiga lainnya termasuk dapat mengakibatkan terhentinya layanan yang Anda terima dan/atau terjadinya pengakhiran atas satu atau beberapa perjanjian Anda dengan Bank Mandiri dan/atau pelanggaran terhadap satu atau beberapa kewajiban Anda berdasarkan perjanjian dengan Bank Mandiri.
+Sehubungan dengan hal tersebut, penarikan persetujuan pemrosesan Data Pribadi tersebut mengakibatkan Anda memberikan hak kepada Bank Mandiri untuk melakukan pemblokiran rekening tabungan Anda, dan/atau menyatakan bahwa utang dan/atau kewajiban Anda kepada Bank Mandiri menjadi jatuh tempo dan dapat ditagih. Segala kerugian yang timbul akibat pelaksanaan hak Anda untuk menarik persetujuan pemrosesan Data Pribadi merupakan tanggung jawab Anda.
+6. Hak Mengajukan Keberatan atas Hasil Pemrosesan Otomatis 
+Anda berhak mengajukan keberatan atas hasil pemrosesan Data Pribadi Anda yang dilakukan secara otomatis yang menimbulkan akibat hukum atau berdampak signifikan terhadap Anda, termasuk pemrofilan dan/atau credit scoring.
+7. Hak untuk Menunda atau Membatasi Pemrosesan 
+Anda berhak untuk menunda atau membatasi pemrosesan Data Pribadi Anda secara proporsional sesuai dengan tujuan pemrosesan Data Pribadi Anda. Untuk pelaksanaan hak ini, Anda dapat menghubungi Bank Mandiri melalui sarana komunikasi yang diatur dalam poin H pada Kebijakan Privasi ini. Anda perlu memahami bahwa permintaan penundaan atau pembatasan pemrosesan tersebut dapat mempengaruhi kemampuan Bank Mandiri untuk menyediakan produk, layanan, dan jasa kepada Anda, serta hubungan kontraktual yang telah dibuat antara Bank Mandiri dengan Anda ataupun antara Bank Mandiri dengan pihak ketiga lainnya termasuk dapat mengakibatkan terhentinya layanan yang Anda terima dan/atau terjadinya pengakhiran atas satu atau beberapa perjanjian Anda dengan Bank Mandiri dan/atau pelanggaran terhadap satu atau beberapa kewajiban Anda berdasarkan perjanjian dengan Bank Mandiri.
+Sehubungan dengan hal tersebut, penundaan atau pembatasan pemrosesan Data Pribadi tersebut mengakibatkan Anda memberikan hak kepada Bank Mandiri untuk melakukan pemblokiran rekening tabungan Anda, dan/atau menyatakan bahwa utang dan/atau kewajiban Anda kepada Bank Mandiri menjadi jatuh tempo dan dapat ditagih. Segala kerugian yang timbul akibat pelaksanaan hak Anda untuk menunda atau membatasi pemrosesan Data Pribadi merupakan tanggung jawab Anda.
+8. Hak lainnya sesuai peraturan perundang-undangan
+Anda berhak untuk mengajukan hak lainnya terkait pemrosesan Data Pribadi sepanjang diatur dalam peraturan perundang-undangan yang berlaku.
+  
+F. Jangka Waktu Pemrosesan Data Pribadi
+Bank Mandiri akan melakukan pemrosesan Data Pribadi sejak Bank Mandiri memperoleh dasar pemrosesan. Pemrosesan akan terus Bank Mandiri lakukan selama Anda masih menggunakan produk, layanan, dan/atau jasa Bank Mandiri atau sesuai dengan ketentuan peraturan perundang-undangan yang berlaku. Bank Mandiri dapat menyimpan Data Pribadi Anda setelah Anda mengakhiri penggunaan produk, layanan, dan/atau jasa Bank Mandiri sampai jangka waktu yang diperlukan dengan mengacu pada peraturan perundang-undangan.
+  
+G. Perubahan Kebijakan Privasi
+Kami senantiasa berkomitmen untuk menjaga keamanan dan privasi informasi Anda. Oleh karena itu, Kebijakan Privasi ini dapat kami perbarui sesuai dengan perkembangan praktik kami dalam pemrosesan Data Pribadi serta sesuai dengan peraturan perundang-undangan yang berlaku. Anda dapat mengakses versi terbaru dari Kebijakan Privasi ini melalui situs kami di halaman https://bankmandiri.co.id/kebijakan-privasi .
+Jika ada perubahan dalam Kebijakan Privasi ini, kami akan memberikan informasi melalui sarana komunikasi resmi Bank Mandiri. Bank Mandiri berkomitmen untuk memastikan Anda merasa aman dan selalu terinformasi mengenai perlindungan privasi Anda.
+Selain itu, jika ada bagian dari Kebijakan Privasi ini yang menjadi tidak dapat digunakan, hal tersebut tidak akan memengaruhi validitas dan keberlakuan ketentuan lainnya. Terima kasih atas kepercayaan Anda pada Bank Mandiri.
+  
+H. Hubungi Bank Mandiri
+Bank Mandiri siap membantu dan menjawab semua pertanyaan yang mungkin Anda miliki mengenai Kebijakan Privasi ini.
+Silakan menghubungi tim layanan pelanggan kami via Mandiri Call 14000, nomor WhatsApp Bank Mandiri 081-184-14000, kirimkan pertanyaan melalui email ke mandiricare@bankmandiri.co.id, atau Anda juga dapat mengunjungi kantor cabang Bank Mandiri terdekat.
+Top of Form
+
+Bottom of Form
+Kantor Pusat
+Jl. Jenderal Gatot Subroto Kav. 36-38
+Jakarta 12190 Indonesia
+Telp: 14000, +62-21-52997777
+Email: mandiricare@bankmandiri.co.id
+SWIFT Code: BMRIIDJA
+Bank Mandiri Berizin dan Diawasi oleh Otoritas Jasa Keuangan dan Bank Indonesia, Serta Merupakan Peserta Penjaminan LPS
